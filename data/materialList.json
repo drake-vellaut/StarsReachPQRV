@@ -69,7 +69,8 @@
       { "notes": "from Raindeers", "Planet": "Herastag", "pqrv": [386, 511, 547, 736] },
       { "notes": "", "Planet": "WW", "pqrv": [353, 395, 677, 700] },
       { "notes": "refine using schist", "Planet": "Baracatis III", "pqrv": [280, 415, 747, 638] },
-      { "notes": "refine using schist", "Planet": "Herastag", "pqrv": [599, 482, 793, 657] }
+      { "notes": "refine using schist", "Planet": "Herastag", "pqrv": [599, 482, 793, 657] },
+      { "notes": "from Raindeers", "Planet": "Akacala", "pqrv": [496, 458, 596, 748] }
     ],
     "Lapis Lazuli": [
       { "notes": "refine using limestone", "Planet": "Baracatis III", "pqrv": [310, 466, 721, 600] },
@@ -81,13 +82,17 @@
     ],
     "Topaz": [
       { "notes": "", "Planet": "Akacala", "pqrv": [743, 483, 473, 626] },
-      { "notes": "", "Planet": "Baracatis III", "pqrv": [761, 401, 285, 643] }
+      { "notes": "", "Planet": "Baracatis III", "pqrv": [761, 401, 285, 643] },
+      { "notes": "", "Planet": "Herastag", "pqrv": [785, 460, 262, 583] }
     ],
     "Tourmaline": [
       { "notes": "", "Planet": "Akacala", "pqrv": [570, 409, 458, 794] },
       { "notes": "", "Planet": "Baracatis III", "pqrv": [523, 413, 416, 778] },
       { "notes": "", "Planet": "Herastag", "pqrv": [648, 451, 435, 737] }
-    ]
+    ],
+    "Opal": [
+      { "notes": "", "Planet": "Unknown", "pqrv": [319, 515, 800, 310] },
+    ],
   },
   "plastic": {
     "Plastic": [
