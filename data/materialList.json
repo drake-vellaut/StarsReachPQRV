@@ -1,0 +1,69 @@
+{
+  "rareGem": [
+    { "notes": "", "Planet": "WW", "Item": "Diamond", "pqrv": [512, 756, 694, 442] },
+    { "notes": "", "Planet": "", "Item": "b", "pqrv": [500, 720, 678, 490] },
+    { "notes": "refine from Aluvial Soil", "Planet": "Bacaratis III", "Item": "Diamond", "pqrv": [166, 587, 438, 713] },
+    { "notes": "refine from Aluvial Soil", "Planet": "WW", "Item": "Diamond", "pqrv": [418, 543, 453, 761] },
+    { "notes": "", "Planet": "Herastag", "Item": "Ruby", "pqrv": [486, 671, 704, 487] },
+    { "notes": "", "Planet": "Unknown", "Item": "Aquamarine", "pqrv": [718, 529, 309, 531] },
+    { "notes": "", "Planet": "Unknown", "Item": "Emerald", "pqrv": [696, 427, 580, 740] },
+    { "notes": "", "Planet": "WW", "Item": "Ruby", "pqrv": [408, 632, 791, 448] }
+  ],
+  "rareMetal": [
+    { "notes": "", "Planet": "Unknown", "Item": "Lithium", "pqrv": [513, 707, 371, 599] },
+    { "notes": "", "Planet": "", "Item": "", "pqrv": [525, 693, 388, 610] },
+    { "notes": "", "Planet": "Herastag", "Item": "Uranium", "pqrv": [631, 490, 308, 717] },
+    { "notes": "", "Planet": "Bacaratis III", "Item": "Mercury", "pqrv": [424, 558, 712, 567] },
+    { "notes": "", "Planet": "Unknown", "Item": "Lithium", "pqrv": [241, 715, 491, 674] }
+  ],
+  "metalAlloy": [
+    { "notes": "", "Planet": "Asteroids", "Item": "Chromium Steel", "pqrv": [730, 723, 666, 434] },
+    { "notes": "refine tin and copper from Akacala", "Planet": "Akacala", "Item": "Bronze", "pqrv": [395, 543, 721, 621] }
+  ],
+  "antiGravium": [
+    { "notes": "", "Planet": "Akacala", "Item": "Anti-Gravium", "pqrv": [501, 700, 370, 715] },
+    { "notes": "", "Planet": "WW", "Item": "Anti-Gravium", "pqrv": [191, 556, 336, 788] },
+    { "notes": "", "Planet": "Herastag", "Item": "Anti-Gravium", "pqrv": [439, 571, 423, 797] },
+    { "notes": "", "Planet": "Bacaratis III", "Item": "Anti-Gravium", "pqrv": [287, 543, 360, 754] }
+  ],
+  "commonMetal": [
+    { "notes": "", "Planet": "space", "Item": "chromium", "pqrv": [730, 371, 666, 434] },
+    { "notes": "", "Planet": "Bacaratis III", "Item": "copper", "pqrv": [113, 470, 787, 606] },
+    { "notes": "", "Planet": "space", "Item": "manganese", "pqrv": [434, 735, 470, 644] },
+    { "notes": "not certain on planet", "Planet": "Bacaratis III", "Item": "zinc", "pqrv": [503, 479, 409, 735] }
+  ],
+  "uncommonGem": [
+    { "notes": "from Raindeers", "Planet": "Herastag", "Item": "jade", "pqrv": [386, 511, 547, 736] },
+    { "notes": "", "Planet": "WW", "Item": "jade", "pqrv": [353, 395, 677, 700] },
+    { "notes": "refine using schist", "Planet": "Baracatis III", "Item": "Jade", "pqrv": [280, 415, 747, 638] },
+    { "notes": "refine using schist", "Planet": "Herastag", "Item": "Jade", "pqrv": [599, 482, 793, 657] },
+    { "notes": "refine using limestone", "Planet": "Baracatis III", "Item": "Lapis Lazuli", "pqrv": [310, 466, 721, 600] },
+    { "notes": "refine using shale (not native here)", "Planet": "Baracatis III ", "Item": "turquoise", "pqrv": [514, 488, 402, 700] },
+    { "notes": "refine using shale", "Planet": "Akacala", "Item": "Turquoise", "pqrv": [668, 392, 124, 733] },
+    { "notes": "refine using limestone", "Planet": "WW", "Item": "Lapis Lazuli", "pqrv": [397, 366, 747, 612] },
+    { "notes": "", "Planet": "Akacala", "Item": "Topaz", "pqrv": [743, 483, 473, 626] },
+    { "notes": "", "Planet": "Baracatis III", "Item": "Topaz", "pqrv": [761, 401, 285, 643] },
+    { "notes": "", "Planet": "Akacala", "Item": "Tourmaline", "pqrv": [570, 409, 458, 794] },
+    { "notes": "", "Planet": "Baracatis III", "Item": "Tourmaline", "pqrv": [523, 413, 416, 778] },
+    { "notes": "", "Planet": "Herastag", "Item": "Tourmaline", "pqrv": [648, 451, 435, 737] }
+  ],
+  "plastic": [
+    { "notes": "refine chert to oil", "Planet": "Baracatis III", "Item": "Plastic", "pqrv": [710, 423, 676, 176] },
+    { "notes": "refine chert to oil", "Planet": "Akacala", "Item": "Plastic", "pqrv": [730, 411, 678, 578] },
+    { "notes": "refine breccia to oil", "Planet": "Akacala", "Item": "Plastic", "pqrv": [460, 755, 654, 353] },
+    { "notes": "refine chert to oil", "Planet": "Herastag", "Item": "Plastic", "pqrv": [725, 307, 587, 526] },
+    { "notes": "refine chert to oil", "Planet": "WW", "Item": "Plastic", "pqrv": [788, 474, 635, 170] }
+  ],
+  "uncommonMetal": [
+    { "notes": "", "Planet": "Akacala", "Item": "Tin", "pqrv": [395, 543, 721, 390] },
+    { "notes": "", "Planet": "Akacala", "Item": "Lead", "pqrv": [198, 408, 788, 600] }
+  ],
+  "commonGem": [
+    { "notes": "", "Planet": "Baracatis III", "Item": "Amethyst", "pqrv": [544, 787, 382, 494] },
+    { "notes": "", "Planet": "Akacala", "Item": "Amethyst", "pqrv": [610, 786, 533, 424] },
+    { "notes": "", "Planet": "Herastag", "Item": "Amethyst", "pqrv": [698, 751, 179, 431] }
+  ],
+  "veryCommonMetal": [
+    { "notes": "", "Planet": "Space", "Item": "Iron", "pqrv": [197, 723, 501, 300] }
+  ]
+}

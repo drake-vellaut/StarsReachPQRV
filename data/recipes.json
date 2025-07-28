@@ -1,0 +1,24 @@
+{
+  "gravMesh": [
+    { "Material": "rareGem", "Quantity": "0" },
+    { "Material": "rareMetal", "Quantity": "0" },
+    { "Material": "metalAlloy", "Quantity": "0" },
+    { "Material": "antiGravium", "Quantity": "0" }
+  ],
+  "trailblazer": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "uncommonGem", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
+  "reflectionShield": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "antiGravium", "Quantity": "0" },
+    { "Material": "metalAlloy", "Quantity": "0" },
+    { "Material": "uncommonGem", "Quantity": "0" }
+  ],
+  "paver": [
+    { "Material": "veryCommonMetal", "Quantity": "0" },
+    { "Material": "commonGem", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ]
+}
