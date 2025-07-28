@@ -89,7 +89,7 @@
       { "notes": "", "Planet": "Herastag", "pqrv": [648, 451, 435, 737] }
     ]
   },
-  "Plastic": {
+  "plastic": {
     "Plastic": [
       { "notes": "refine chert to oil", "Planet": "Baracatis III", "pqrv": [710, 423, 676, 176] },
       { "notes": "refine chert to oil", "Planet": "Akacala", "pqrv": [730, 411, 678, 578] },
