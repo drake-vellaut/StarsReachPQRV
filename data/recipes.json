@@ -5,20 +5,85 @@
     { "Material": "metalAlloy", "Quantity": "0" },
     { "Material": "antiGravium", "Quantity": "0" }
   ],
+  "instaformer": [
+    { "Material": "commonGem", "Quantity": "0" },
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
+  "omniblaster": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "rareGem", "Quantity": "0" },
+    { "Material": "uAl", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
+  "pathfinder": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "commonGem", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
   "trailblazer": [
     { "Material": "commonMetal", "Quantity": "0" },
     { "Material": "uncommonGem", "Quantity": "0" },
     { "Material": "plastic", "Quantity": "0" }
   ],
-  "reflectionShield": [
+  "companionOrbs": [
     { "Material": "uncommonMetal", "Quantity": "0" },
-    { "Material": "antiGravium", "Quantity": "0" },
+    { "Material": "rareMetal", "Quantity": "0" },
+    { "Material": "rareGem", "Quantity": "0" },
+    { "Material": "uralex", "Quantity": "0" }
+  ],
+  "fabricator": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "reactiveGas", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
+  "fortressShield": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
     { "Material": "metalAlloy", "Quantity": "0" },
-    { "Material": "uncommonGem", "Quantity": "0" }
+    { "Material": "rareGem", "Quantity": "0" },
+    { "Material": "palladiance", "Quantity": "0" }
+  ],
+  "grapple": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "uncommonGem", "Quantity": "0" },
+    { "Material": "metalAlloy", "Quantity": "0" }
+  ],
+  "gravityGun": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "rareMetal", "Quantity": "0" },
+    { "Material": "reactiveGas", "Quantity": "0" },
+    { "Material": "antimatter", "Quantity": "0" }
+  ],
+  "harvester": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "commonGem", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
+  ],
+  "healix": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "reactiveGas", "Quantity": "0" },
+    { "Material": "metalAlloy", "Quantity": "0" }
   ],
   "paver": [
     { "Material": "veryCommonMetal", "Quantity": "0" },
     { "Material": "commonGem", "Quantity": "0" },
     { "Material": "plastic", "Quantity": "0" }
+  ],
+  "reflectionShield": [
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "uncommonGem", "Quantity": "0" },
+    { "Material": "metalAlloy", "Quantity": "0" },
+    { "Material": "antiGravium", "Quantity": "0" }
+  ],
+  "terraformer": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "uncommonMetal", "Quantity": "0" },
+    { "Material": "reactiveGas", "Quantity": "0" }
+  ],
+  "xyloslicer": [
+    { "Material": "commonMetal", "Quantity": "0" },
+    { "Material": "commonGem", "Quantity": "0" },
+    { "Material": "plastic", "Quantity": "0" }
   ]
 }
+
