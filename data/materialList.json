@@ -1,16 +1,16 @@
 {
   "rareGem": {
     "Diamond": [
-      { "notes": "", "Planet": "Badapalus IV", "pqrv": [512, 756, 694, 442] },
+      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [512, 756, 694, 442] },
       { "notes": "refine from Aluvial Soil", "Planet": "Bacaratis III", "pqrv": [166, 587, 438, 713] },
-      { "notes": "refine from Aluvial Soil", "Planet": "Badapalus IV", "pqrv": [418, 543, 453, 761] }
+      { "notes": "refine from Aluvial Soil", "Planet": "Badapalus IV (WW)", "pqrv": [418, 543, 453, 761] }
     ],
     "b": [
       { "notes": "", "Planet": "", "pqrv": [500, 720, 678, 490] }
     ],
     "Ruby": [
       { "notes": "", "Planet": "Herastag", "pqrv": [486, 671, 704, 487] },
-      { "notes": "", "Planet": "Badapalus IV", "pqrv": [408, 632, 791, 448] }
+      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [408, 632, 791, 448] }
     ],
     "Aquamarine": [
       { "notes": "", "Planet": "Unknown", "pqrv": [718, 529, 309, 531] }
@@ -45,7 +45,7 @@
   "antiGravium": {
     "Anti-Gravium": [
       { "notes": "", "Planet": "Akacala", "pqrv": [501, 700, 370, 715] },
-      { "notes": "", "Planet": "Badapalus IV", "pqrv": [191, 556, 336, 788] },
+      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [191, 556, 336, 788] },
       { "notes": "", "Planet": "Herastag", "pqrv": [439, 571, 423, 797] },
       { "notes": "", "Planet": "Bacaratis III", "pqrv": [287, 543, 360, 754] }
     ]
@@ -67,14 +67,14 @@
   "uncommonGem": {
     "Jade": [
       { "notes": "from Raindeers", "Planet": "Herastag", "pqrv": [386, 511, 547, 736] },
-      { "notes": "", "Planet": "Badapalus IV", "pqrv": [353, 395, 677, 700] },
+      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [353, 395, 677, 700] },
       { "notes": "refine using schist", "Planet": "Baracatis III", "pqrv": [280, 415, 747, 638] },
       { "notes": "refine using schist", "Planet": "Herastag", "pqrv": [599, 482, 793, 657] },
       { "notes": "from Raindeers", "Planet": "Akacala", "pqrv": [496, 458, 596, 748] }
     ],
     "Lapis Lazuli": [
       { "notes": "refine using limestone", "Planet": "Baracatis III", "pqrv": [310, 466, 721, 600] },
-      { "notes": "refine using limestone", "Planet": "Badapalus IV", "pqrv": [397, 366, 747, 612] }
+      { "notes": "refine using limestone", "Planet": "Badapalus IV (WW)", "pqrv": [397, 366, 747, 612] }
     ],
     "Turquoise": [
       { "notes": "refine using shale", "Planet": "Akacala", "pqrv": [668, 392, 124, 733] },
@@ -100,7 +100,7 @@
       { "notes": "refine chert to oil", "Planet": "Akacala", "pqrv": [730, 411, 678, 578] },
       { "notes": "refine breccia to oil", "Planet": "Akacala", "pqrv": [460, 755, 654, 353] },
       { "notes": "refine chert to oil", "Planet": "Herastag", "pqrv": [725, 307, 587, 526] },
-      { "notes": "refine chert to oil", "Planet": "Badapalus IV", "pqrv": [788, 474, 635, 170] }
+      { "notes": "refine chert to oil", "Planet": "Badapalus IV (WW)", "pqrv": [788, 474, 635, 170] }
     ]
   },
   "uncommonMetal": {
