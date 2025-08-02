@@ -1,126 +1,1298 @@
 {
   "rareGem": {
     "Diamond": [
-      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [512, 756, 694, 442] },
-      { "notes": "refine from Aluvial Soil", "Planet": "Bacaratis III", "pqrv": [166, 587, 438, 713] },
-      { "notes": "refine from Aluvial Soil", "Planet": "Badapalus IV (WW)", "pqrv": [418, 543, 453, 761] }
-    ],
-    "b": [
-      { "notes": "", "Planet": "", "pqrv": [500, 720, 678, 490] }
+      {
+        "notes": "",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          512,
+          756,
+          694,
+          442
+        ]
+      },
+      {
+        "notes": "refine from Aluvial Soil",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          166,
+          587,
+          438,
+          713
+        ]
+      },
+      {
+        "notes": "refine from Aluvial Soil",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          418,
+          543,
+          453,
+          761
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          290,
+          746,
+          630,
+          472
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          207,
+          750,
+          529,
+          404
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          182,
+          775,
+          693,
+          329
+        ]
+      }
     ],
     "Ruby": [
-      { "notes": "", "Planet": "Herastag", "pqrv": [486, 671, 704, 487] },
-      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [408, 632, 791, 448] }
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          486,
+          671,
+          704,
+          487
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          408,
+          632,
+          791,
+          448
+        ]
+      }
     ],
     "Aquamarine": [
-      { "notes": "", "Planet": "Unknown", "pqrv": [718, 529, 309, 531] }
+      {
+        "notes": "",
+        "Planet": "Unknown",
+        "pqrv": [
+          718,
+          529,
+          309,
+          531
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          718,
+          529,
+          309,
+          531
+        ]
+      }
     ],
     "Emerald": [
-      { "notes": "", "Planet": "Unknown", "pqrv": [696, 427, 580, 740] }
+      {
+        "notes": "",
+        "Planet": "Unknown",
+        "pqrv": [
+          696,
+          427,
+          580,
+          740
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          112,
+          774,
+          434,
+          689
+        ]
+      }
+    ],
+    "Sapphire": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          581,
+          451,
+          142,
+          743
+        ]
+      }
     ]
   },
   "rareMetal": {
     "Lithium": [
-      { "notes": "", "Planet": "Unknown", "pqrv": [513, 707, 371, 599] },
-      { "notes": "", "Planet": "Unknown", "pqrv": [241, 715, 491, 674] }
+      {
+        "notes": "",
+        "Planet": "Unknown",
+        "pqrv": [
+          513,
+          707,
+          371,
+          599
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Unknown",
+        "pqrv": [
+          241,
+          715,
+          491,
+          674
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          248,
+          800,
+          499,
+          682
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          289,
+          722,
+          483,
+          535
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          443,
+          750,
+          321,
+          549
+        ]
+      }
     ],
     "": [
-      { "notes": "", "Planet": "", "pqrv": [525, 693, 388, 610] }
+      {
+        "notes": "",
+        "Planet": "",
+        "pqrv": [
+          525,
+          693,
+          388,
+          610
+        ]
+      }
     ],
     "Uranium": [
-      { "notes": "", "Planet": "Herastag", "pqrv": [631, 490, 308, 717] }
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          631,
+          490,
+          308,
+          717
+        ]
+      }
     ],
     "Mercury": [
-      { "notes": "", "Planet": "Bacaratis III", "pqrv": [424, 558, 712, 567] }
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          424,
+          558,
+          712,
+          567
+        ]
+      }
     ]
   },
   "metalAlloy": {
     "Chromium Steel": [
-      { "notes": "", "Planet": "Asteroids", "pqrv": [730, 723, 666, 434] }
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          730,
+          723,
+          666,
+          434
+        ]
+      }
     ],
     "Bronze": [
-      { "notes": "refine tin and copper from Akacala", "Planet": "Akacala", "pqrv": [395, 543, 721, 621] }
+      {
+        "notes": "refine tin and copper from Akacala",
+        "Planet": "Akacala",
+        "pqrv": [
+          395,
+          543,
+          721,
+          621
+        ]
+      }
     ]
   },
   "antiGravium": {
     "Anti-Gravium": [
-      { "notes": "", "Planet": "Akacala", "pqrv": [501, 700, 370, 715] },
-      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [191, 556, 336, 788] },
-      { "notes": "", "Planet": "Herastag", "pqrv": [439, 571, 423, 797] },
-      { "notes": "", "Planet": "Bacaratis III", "pqrv": [287, 543, 360, 754] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          501,
+          700,
+          370,
+          715
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          191,
+          556,
+          336,
+          788
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          439,
+          571,
+          423,
+          797
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          287,
+          543,
+          360,
+          754
+        ]
+      }
     ]
   },
   "commonMetal": {
     "Chromium": [
-      { "notes": "", "Planet": "space", "pqrv": [730, 371, 666, 434] }
+      {
+        "notes": "",
+        "Planet": "space",
+        "pqrv": [
+          730,
+          371,
+          666,
+          434
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          755,
+          544,
+          584,
+          380
+        ]
+      }
     ],
     "Copper": [
-      { "notes": "", "Planet": "Bacaratis III", "pqrv": [113, 470, 787, 606] }
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          113,
+          470,
+          787,
+          606
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          317,
+          373,
+          704,
+          621
+        ]
+      }
     ],
     "Manganese": [
-      { "notes": "", "Planet": "space", "pqrv": [434, 735, 470, 644] }
+      {
+        "notes": "",
+        "Planet": "space",
+        "pqrv": [
+          434,
+          735,
+          470,
+          644
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          417,
+          733,
+          310,
+          693
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          117,
+          785,
+          458,
+          642
+        ]
+      }
     ],
     "Zinc": [
-      { "notes": "not certain on planet", "Planet": "Bacaratis III", "pqrv": [503, 479, 409, 735] }
+      {
+        "notes": "not certain on planet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          503,
+          479,
+          409,
+          735
+        ]
+      }
+    ],
+    "Nickel": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          387,
+          669,
+          729,
+          207
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          326,
+          529,
+          731,
+          299
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          479,
+          619,
+          742,
+          349
+        ]
+      }
     ]
   },
   "uncommonGem": {
     "Jade": [
-      { "notes": "from Raindeers", "Planet": "Herastag", "pqrv": [386, 511, 547, 736] },
-      { "notes": "", "Planet": "Badapalus IV (WW)", "pqrv": [353, 395, 677, 700] },
-      { "notes": "refine using schist", "Planet": "Baracatis III", "pqrv": [280, 415, 747, 638] },
-      { "notes": "refine using schist", "Planet": "Herastag", "pqrv": [599, 482, 793, 657] },
-      { "notes": "from Raindeers", "Planet": "Akacala", "pqrv": [496, 458, 596, 748] }
+      {
+        "notes": "from Raindeers",
+        "Planet": "Herastag",
+        "pqrv": [
+          386,
+          511,
+          547,
+          736
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          353,
+          395,
+          677,
+          700
+        ]
+      },
+      {
+        "notes": "refine using schist",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          280,
+          415,
+          747,
+          638
+        ]
+      },
+      {
+        "notes": "refine using schist",
+        "Planet": "Herastag",
+        "pqrv": [
+          599,
+          482,
+          793,
+          657
+        ]
+      },
+      {
+        "notes": "from Raindeers",
+        "Planet": "Akacala",
+        "pqrv": [
+          496,
+          458,
+          596,
+          748
+        ]
+      }
     ],
     "Lapis Lazuli": [
-      { "notes": "refine using limestone", "Planet": "Baracatis III", "pqrv": [310, 466, 721, 600] },
-      { "notes": "refine using limestone", "Planet": "Badapalus IV (WW)", "pqrv": [397, 366, 747, 612] }
+      {
+        "notes": "refine using limestone",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          310,
+          466,
+          721,
+          600
+        ]
+      },
+      {
+        "notes": "refine using limestone",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          397,
+          366,
+          747,
+          612
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          663,
+          734,
+          407,
+          335
+        ]
+      }
     ],
     "Turquoise": [
-      { "notes": "refine using shale", "Planet": "Akacala", "pqrv": [668, 392, 124, 733] },
-      { "notes": "refine using shale (not native here)", "Planet": "Baracatis III ", "pqrv": [514, 488, 402, 700] }
+      {
+        "notes": "refine using shale",
+        "Planet": "Akacala",
+        "pqrv": [
+          668,
+          392,
+          124,
+          733
+        ]
+      },
+      {
+        "notes": "refine using shale (not native here)",
+        "Planet": "Baracatis III ",
+        "pqrv": [
+          514,
+          488,
+          402,
+          700
+        ]
+      }
     ],
     "Topaz": [
-      { "notes": "", "Planet": "Akacala", "pqrv": [743, 483, 473, 626] },
-      { "notes": "", "Planet": "Baracatis III", "pqrv": [761, 401, 285, 643] },
-      { "notes": "", "Planet": "Herastag", "pqrv": [785, 460, 262, 583] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          743,
+          483,
+          473,
+          626
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          761,
+          401,
+          285,
+          643
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          785,
+          460,
+          262,
+          583
+        ]
+      }
     ],
     "Tourmaline": [
-      { "notes": "", "Planet": "Akacala", "pqrv": [570, 409, 458, 794] },
-      { "notes": "", "Planet": "Baracatis III", "pqrv": [523, 413, 416, 778] },
-      { "notes": "", "Planet": "Herastag", "pqrv": [648, 451, 435, 737] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          570,
+          409,
+          458,
+          794
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          523,
+          413,
+          416,
+          778
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          648,
+          451,
+          435,
+          737
+        ]
+      }
     ],
     "Opal": [
-      { "notes": "", "Planet": "Unknown", "pqrv": [319, 515, 800, 310] }
+      {
+        "notes": "",
+        "Planet": "Unknown",
+        "pqrv": [
+          319,
+          515,
+          800,
+          310
+        ]
+      }
     ]
   },
   "plastic": {
     "Plastic": [
-      { "notes": "refine chert to oil", "Planet": "Baracatis III", "pqrv": [710, 423, 676, 176] },
-      { "notes": "refine chert to oil", "Planet": "Akacala", "pqrv": [730, 411, 678, 578] },
-      { "notes": "refine breccia to oil", "Planet": "Akacala", "pqrv": [460, 755, 654, 353] },
-      { "notes": "refine chert to oil", "Planet": "Herastag", "pqrv": [725, 307, 587, 526] },
-      { "notes": "refine chert to oil", "Planet": "Badapalus IV (WW)", "pqrv": [788, 474, 635, 170] }
+      {
+        "notes": "refine chert to oil",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          710,
+          423,
+          676,
+          176
+        ]
+      },
+      {
+        "notes": "refine chert to oil",
+        "Planet": "Akacala",
+        "pqrv": [
+          730,
+          411,
+          678,
+          578
+        ]
+      },
+      {
+        "notes": "refine breccia to oil",
+        "Planet": "Akacala",
+        "pqrv": [
+          460,
+          755,
+          654,
+          353
+        ]
+      },
+      {
+        "notes": "refine chert to oil",
+        "Planet": "Herastag",
+        "pqrv": [
+          725,
+          307,
+          587,
+          526
+        ]
+      },
+      {
+        "notes": "refine chert to oil",
+        "Planet": "Badapalus IV (WW)",
+        "pqrv": [
+          788,
+          474,
+          635,
+          170
+        ]
+      }
     ]
   },
   "uncommonMetal": {
     "Tin": [
-      { "notes": "", "Planet": "Akacala", "pqrv": [395, 543, 721, 390] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          395,
+          543,
+          721,
+          390
+        ]
+      }
     ],
     "Lead": [
-      { "notes": "", "Planet": "Akacala", "pqrv": [198, 408, 788, 600] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          198,
+          408,
+          788,
+          600
+        ]
+      }
+    ],
+    "Tungsten": [
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          669,
+          452,
+          183,
+          773
+        ]
+      }
+    ],
+    "Bismuth": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          722,
+          468,
+          541,
+          407
+        ]
+      }
     ]
   },
   "commonGem": {
     "Amethyst": [
-      { "notes": "", "Planet": "Baracatis III", "pqrv": [544, 787, 382, 494] },
-      { "notes": "", "Planet": "Akacala", "pqrv": [610, 786, 533, 424] },
-      { "notes": "", "Planet": "Herastag", "pqrv": [698, 751, 179, 431] }
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          610,
+          786,
+          533,
+          424
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          698,
+          751,
+          179,
+          431
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          544,
+          787,
+          382,
+          494
+        ]
+      }
+    ],
+    "Quartz": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          706,
+          465,
+          245,
+          679
+        ]
+      }
+    ],
+    "Agate": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          367,
+          302,
+          569,
+          745
+        ]
+      }
+    ],
+    "Salt": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          550,
+          432,
+          498,
+          748
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          514,
+          163,
+          326,
+          759
+        ]
+      }
+    ],
+    "Garnet": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          316,
+          601,
+          740,
+          394
+        ]
+      }
     ]
   },
   "veryCommonMetal": {
     "Iron": [
-      { "notes": "", "Planet": "Space", "pqrv": [197, 723, 501, 300] }
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          197,
+          723,
+          501,
+          300
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          130,
+          763,
+          607,
+          343
+        ]
+      }
+    ],
+    "Magnetized Iron": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          390,
+          549,
+          778,
+          480
+        ]
+      }
+    ]
+  },
+  "Aluminum": {
+    "Aluminum": [
+      {
+        "notes": "",
+        "Planet": "Ingoviko V (WW)",
+        "pqrv": [
+          494,
+          596,
+          294,
+          750
+        ]
+      }
+    ]
+  },
+  "sedimentaryRock": {
+    "Breccia": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          460,
+          755,
+          654,
+          353
+        ]
+      }
+    ],
+    "Coal": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          742,
+          177,
+          579,
+          434
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          721,
+          126,
+          577,
+          330
+        ]
+      }
+    ],
+    "Sandstone": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          169,
+          558,
+          440,
+          777
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          346,
+          664,
+          421,
+          787
+        ]
+      }
+    ],
+    "Chert": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          730,
+          411,
+          678,
+          578
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          710,
+          423,
+          676,
+          176
+        ]
+      }
+    ],
+    "Chalk": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          365,
+          484,
+          741,
+          562
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          472,
+          229,
+          795,
+          517
+        ]
+      }
+    ],
+    "Shale": [
+      {
+        "notes": "Lithify Clay Soil to Shale",
+        "Planet": "Akacala",
+        "pqrv": [
+          668,
+          392,
+          124,
+          733
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          696,
+          427,
+          580,
+          740
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          514,
+          488,
+          402,
+          700
+        ]
+      }
+    ],
+    "Conglomerate": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          549,
+          780,
+          223,
+          372
+        ]
+      }
+    ],
+    "Limestone": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          310,
+          466,
+          721,
+          600
+        ]
+      }
+    ]
+  },
+  "siltySoil": {
+    "Loam": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          547,
+          170,
+          745,
+          356
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          537,
+          124,
+          773,
+          400
+        ]
+      }
+    ],
+    "Silt": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          330,
+          758,
+          604,
+          465
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          430,
+          715,
+          530,
+          410
+        ]
+      }
+    ],
+    "Alluvial Soil": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          171,
+          677,
+          420,
+          704
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          166,
+          587,
+          438,
+          713
+        ]
+      }
+    ]
+  },
+  "igneousRock": {
+    "Pumice": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          336,
+          266,
+          752,
+          511
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          435,
+          538,
+          748,
+          646
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          429,
+          334,
+          740,
+          643
+        ]
+      }
+    ],
+    "Granite": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          406,
+          782,
+          574,
+          192
+        ]
+      }
+    ],
+    "Diorite": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          717,
+          410,
+          348,
+          665
+        ]
+      }
+    ]
+  },
+  "claySoil": {
+    "Clay": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          556,
+          759,
+          578,
+          394
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          360,
+          752,
+          528,
+          380
+        ]
+      }
+    ],
+    "Chalky Soil": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          474,
+          323,
+          704,
+          560
+        ]
+      }
+    ],
+    "Laterite Soil": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          642,
+          402,
+          249,
+          750
+        ]
+      }
+    ]
+  },
+  "sandySoil": {
+    "Sand": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          581,
+          547,
+          363,
+          762
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          489,
+          583,
+          349,
+          735
+        ]
+      }
+    ]
+  },
+  "metamorphicRock": {
+    "Gneiss": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          736,
+          504,
+          325,
+          409
+        ]
+      }
+    ],
+    "Schist": [
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          148,
+          340,
+          741,
+          586
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          280,
+          415,
+          747,
+          638
+        ]
+      }
+    ]
+  },
+  "Platinum": {
+    "Platinum": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          528,
+          727,
+          149,
+          337
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          621,
+          775,
+          339,
+          337
+        ]
+      }
+    ]
+  },
+  "exoticGem": {
+    "Vesuvianite": [
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          384,
+          577,
+          733,
+          605
+        ]
+      }
+    ],
+    "Pyroxene": [
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          797,
+          409,
+          140,
+          581
+        ]
+      }
     ]
   }
 }
