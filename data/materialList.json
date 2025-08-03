@@ -672,6 +672,16 @@
           721,
           390
         ]
+      },
+      {
+        "notes": "harvested from Verdark Cone",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          333,
+          575,
+          731,
+          166
+        ]
       }
     ],
     "Lead": [
@@ -835,6 +845,16 @@
           549,
           778,
           480
+        ]
+      },
+      {
+        "notes": "harvested from Hexavine Spire",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          494,
+          611,
+          747,
+          167
         ]
       }
     ]
@@ -1291,6 +1311,1034 @@
           409,
           140,
           581
+        ]
+      }
+    ]
+  },
+  "fungus": {
+    "Alien Mushroom Chunk": [
+      {
+        "notes": "from Witchs Ringlet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          400,
+          310,
+          295,
+          185
+        ]
+      },
+      {
+        "notes": "from Dark Wizard",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          198,
+          536,
+          589,
+          263
+        ]
+      },
+      {
+        "notes": "from Brimmed Bonnet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          203,
+          338,
+          322,
+          353
+        ]
+      },
+      {
+        "notes": "from Lilac Dandy",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          513,
+          549,
+          456,
+          192
+        ]
+      },
+      {
+        "notes": "from Blushing Bonnet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          256,
+          454,
+          495,
+          102
+        ]
+      }
+    ],
+    "Golden Poplar Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          485,
+          766,
+          592,
+          117
+        ]
+      }
+    ],
+    "King Stropheria Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          456,
+          542,
+          715,
+          455
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          485,
+          691,
+          746,
+          430
+        ]
+      }
+    ],
+    "Brown Shimeji Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          463,
+          650,
+          738,
+          552
+        ]
+      }
+    ],
+    "Amanita Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          566,
+          714,
+          506,
+          470
+        ]
+      }
+    ],
+    "Chanterelle Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          515,
+          486,
+          248,
+          762
+        ]
+      }
+    ],
+    "Fairy Morel Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          731,
+          184,
+          417,
+          697
+        ]
+      }
+    ]
+  },
+  "inertGas": {
+    "Neon": [
+      {
+        "notes": "from Luminweave Tendril",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          783,
+          524,
+          546,
+          448
+        ]
+      }
+    ],
+    "Radon": [
+      {
+        "notes": "from Blue Veil or Lilac Dandy",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          515,
+          776,
+          366,
+          580
+        ]
+      }
+    ],
+    "Xenon": [
+      {
+        "notes": "from Lunareth or Brimmed Bonnet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          748,
+          652,
+          308,
+          588
+        ]
+      }
+    ],
+    "Nitrogen": [
+      {
+        "notes": "from Witchs Ringlet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          407,
+          432,
+          508,
+          749
+        ]
+      }
+    ]
+  },
+  "fruit": {
+    "Strawberry": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          582,
+          420,
+          469,
+          761
+        ]
+      }
+    ],
+    "Coconut": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          570,
+          721,
+          548,
+          387
+        ]
+      }
+    ],
+    "Banana": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          198,
+          786,
+          491,
+          667
+        ]
+      }
+    ],
+    "Goji Berry": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          731,
+          581,
+          342,
+          469
+        ]
+      }
+    ]
+  },
+  "Antimatter Gas": {
+    "Antimatter Gas": [
+      {
+        "notes": "from Dark Wizard",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          752,
+          551,
+          490,
+          558
+        ]
+      }
+    ]
+  },
+  "reactiveGas": {
+    "Ammonia": [
+      {
+        "notes": "from Blushing Bonnet",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          618,
+          725,
+          463,
+          438
+        ]
+      }
+    ]
+  },
+  "seedling": {
+    "Pampas Grass Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          722,
+          315,
+          727,
+          689
+        ]
+      }
+    ],
+    "Blue Emberbloom Torch Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          370,
+          669,
+          450,
+          576
+        ]
+      }
+    ],
+    "Purple Emberbloom Torch Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          412,
+          655,
+          542,
+          162
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          212,
+          203,
+          816,
+          112
+        ]
+      }
+    ],
+    "Tear Leaf Bush Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          418,
+          362,
+          421,
+          450
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          344,
+          861,
+          146,
+          794
+        ]
+      }
+    ],
+    "Dragon Leaf Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          718,
+          809,
+          123,
+          419
+        ]
+      }
+    ],
+    "Young Fern Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          260,
+          886,
+          710,
+          305
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          582,
+          509,
+          115,
+          889
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          461,
+          687,
+          481,
+          729
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          213,
+          459,
+          462,
+          792
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          110,
+          239,
+          768,
+          219
+        ]
+      }
+    ],
+    "Orange Emberbloom Torch Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          803,
+          328,
+          827,
+          662
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          712,
+          778,
+          600,
+          453
+        ]
+      }
+    ],
+    "Dark Wizard Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          408,
+          258,
+          373,
+          415
+        ]
+      }
+    ],
+    "Small Blue Emberbloom Torch Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          210,
+          690,
+          483,
+          885
+        ]
+      }
+    ],
+    "Pitcher Plant Seedling": [
+      {
+        "notes": "",
+        "Planet": "Bacaratis III",
+        "pqrv": [
+          815,
+          398,
+          248,
+          494
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          448,
+          371,
+          482,
+          495
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          314,
+          300,
+          601,
+          100
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          789,
+          785,
+          574,
+          579
+        ]
+      }
+    ],
+    "Verdark Cone Seedling": [
+      {
+        "notes": "",
+        "Planet": "Bacaratis III",
+        "pqrv": [
+          224,
+          736,
+          184,
+          698
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Bacaratis III",
+        "pqrv": [
+          172,
+          106,
+          404,
+          278
+        ]
+      }
+    ],
+    "Yellow Snapdragon Seedling": [
+      {
+        "notes": "",
+        "Planet": "Bacaratis III",
+        "pqrv": [
+          577,
+          435,
+          786,
+          269
+        ]
+      }
+    ],
+    "Lumineweave Tendril Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          788,
+          289,
+          243,
+          893
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          483,
+          429,
+          261,
+          353
+        ]
+      }
+    ],
+    "Teal Bellflower Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          870,
+          662,
+          327,
+          167
+        ]
+      }
+    ],
+    "Witchs Ringlet Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          701,
+          213,
+          407,
+          355
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          768,
+          298,
+          201,
+          794
+        ]
+      }
+    ],
+    "Brimmed Bonnet Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          857,
+          446,
+          847,
+          654
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          870,
+          727,
+          215,
+          269
+        ]
+      }
+    ],
+    "Red Currant Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          600,
+          267,
+          545,
+          831
+        ]
+      }
+    ],
+    "Ornamental Palm Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          196,
+          806,
+          129,
+          603
+        ]
+      }
+    ],
+    "Hexavine Spires Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          782,
+          822,
+          414,
+          189
+        ]
+      }
+    ],
+    "Bromeliad Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          838,
+          507,
+          857,
+          601
+        ]
+      }
+    ],
+    "White Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          295,
+          587,
+          196,
+          679
+        ]
+      }
+    ],
+    "Red Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          634,
+          323,
+          528,
+          733
+        ]
+      }
+    ],
+    "Pink Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          214,
+          211,
+          478,
+          554
+        ]
+      }
+    ],
+    "Hosta Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          704,
+          754,
+          863,
+          430
+        ]
+      }
+    ],
+    "Elephant Ear Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          614,
+          121,
+          545,
+          739
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          340,
+          562,
+          457,
+          276
+        ]
+      }
+    ],
+    "Fan Palm Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          710,
+          464,
+          155,
+          813
+        ]
+      }
+    ],
+    "Purple Snapdragon Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          610,
+          121,
+          509,
+          397
+        ]
+      }
+    ],
+    "Giant Land Lily Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          220,
+          669,
+          755,
+          806
+        ]
+      }
+    ],
+    "Dracaena Fragrans Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          252,
+          223,
+          128,
+          868
+        ]
+      }
+    ],
+    "Leafy Bush Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          149,
+          559,
+          382,
+          197
+        ]
+      }
+    ],
+    "Pink Snapdragon Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          239,
+          722,
+          798,
+          258
+        ]
+      }
+    ],
+    "Strawberry Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          228,
+          322,
+          271,
+          792
+        ]
+      }
+    ],
+    "Teal Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          279,
+          406,
+          429,
+          750
+        ]
+      }
+    ],
+    "Yellow Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          845,
+          799,
+          647,
+          633
+        ]
+      }
+    ],
+    "Goji Berry Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          861,
+          648,
+          349,
+          528
+        ]
+      }
+    ],
+    "Teal Snapdragon Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          440,
+          446,
+          814,
+          574
+        ]
+      }
+    ],
+    "Gold Bellflower Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          769,
+          729,
+          461,
+          243
+        ]
+      }
+    ],
+    "Purple Bellflower Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          733,
+          546,
+          895,
+          834
+        ]
+      }
+    ],
+    "Skunk Cabbage Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          297,
+          646,
+          489,
+          719
+        ]
+      }
+    ],
+    "Purple Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          156,
+          538,
+          343,
+          803
+        ]
+      }
+    ],
+    "Lilac Dandy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          704,
+          874,
+          542,
+          400
+        ]
+      }
+    ],
+    "Yellow Bellflower Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          160,
+          471,
+          803,
+          507
+        ]
+      }
+    ]
+  },
+  "stock": {
+    "King Stropheria Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          796,
+          690,
+          492,
+          187
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          556,
+          151,
+          139,
+          103
+        ]
+      }
+    ],
+    "Golden Poplar Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          453,
+          737,
+          457,
+          376
+        ]
+      }
+    ],
+    "Brown Shimeji Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          827,
+          723,
+          774,
+          461
+        ]
+      }
+    ],
+    "Amanita Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          253,
+          231,
+          299,
+          229
+        ]
+      }
+    ],
+    "Fairy Morel Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          149,
+          794,
+          516,
+          405
+        ]
+      }
+    ],
+    "Blue Veil Root Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          186,
+          139,
+          688,
+          432
+        ]
+      }
+    ],
+    "Lunareth Tree Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          382,
+          172,
+          718,
+          277
+        ]
+      }
+    ],
+    "Chanterelle Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          293,
+          281,
+          171,
+          159
         ]
       }
     ]
