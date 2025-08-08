@@ -4,6 +4,7 @@
       {
         "notes": "",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Mining",
         "pqrv": [
           512,
           756,
@@ -14,6 +15,7 @@
       {
         "notes": "refine from Aluvial Soil",
         "Planet": "Baracatis III",
+        "Source": "Refining",
         "pqrv": [
           166,
           587,
@@ -24,6 +26,7 @@
       {
         "notes": "refine from Aluvial Soil",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Refining",
         "pqrv": [
           418,
           543,
@@ -34,6 +37,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           290,
           746,
@@ -44,6 +48,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           207,
           750,
@@ -54,11 +59,23 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           182,
           775,
           693,
           329
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          218,
+          707,
+          610,
+          312
         ]
       }
     ],
@@ -66,6 +83,7 @@
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           486,
           671,
@@ -76,6 +94,7 @@
       {
         "notes": "",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Mining",
         "pqrv": [
           408,
           632,
@@ -88,6 +107,7 @@
       {
         "notes": "",
         "Planet": "Unknown",
+        "Source": "Mining",
         "pqrv": [
           718,
           529,
@@ -98,6 +118,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           718,
           529,
@@ -110,6 +131,7 @@
       {
         "notes": "",
         "Planet": "Unknown",
+        "Source": "Mining",
         "pqrv": [
           696,
           427,
@@ -120,6 +142,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           112,
           774,
@@ -132,11 +155,23 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           581,
           451,
           142,
           743
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          664,
+          327,
+          577,
+          753
         ]
       }
     ]
@@ -146,6 +181,7 @@
       {
         "notes": "",
         "Planet": "Unknown",
+        "Source": "Mining",
         "pqrv": [
           513,
           707,
@@ -156,6 +192,7 @@
       {
         "notes": "",
         "Planet": "Unknown",
+        "Source": "Mining",
         "pqrv": [
           241,
           716,
@@ -166,6 +203,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           248,
           800,
@@ -176,6 +214,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           289,
           722,
@@ -186,6 +225,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           443,
           750,
@@ -194,22 +234,11 @@
         ]
       }
     ],
-    "": [
-      {
-        "notes": "",
-        "Planet": "",
-        "pqrv": [
-          525,
-          693,
-          388,
-          610
-        ]
-      }
-    ],
     "Uranium": [
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           631,
           490,
@@ -222,6 +251,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           424,
           558,
@@ -236,6 +266,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Refining",
         "pqrv": [
           730,
           723,
@@ -248,6 +279,7 @@
       {
         "notes": "refine tin and copper from Akacala",
         "Planet": "Akacala",
+        "Source": "Refining",
         "pqrv": [
           395,
           543,
@@ -262,6 +294,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           501,
           700,
@@ -272,6 +305,7 @@
       {
         "notes": "",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Mining",
         "pqrv": [
           191,
           556,
@@ -282,6 +316,7 @@
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           439,
           571,
@@ -292,6 +327,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           287,
           543,
@@ -306,6 +342,7 @@
       {
         "notes": "",
         "Planet": "space",
+        "Source": "Mining",
         "pqrv": [
           730,
           371,
@@ -316,6 +353,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           755,
           544,
@@ -328,6 +366,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           113,
           470,
@@ -338,6 +377,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           317,
           373,
@@ -350,6 +390,7 @@
       {
         "notes": "",
         "Planet": "space",
+        "Source": "Mining",
         "pqrv": [
           434,
           735,
@@ -360,6 +401,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           417,
           733,
@@ -370,6 +412,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           117,
           785,
@@ -382,6 +425,7 @@
       {
         "notes": "not certain on planet",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           503,
           479,
@@ -394,6 +438,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           387,
           669,
@@ -404,6 +449,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           326,
           529,
@@ -414,6 +460,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           479,
           619,
@@ -428,6 +475,7 @@
       {
         "notes": "from Raindeers",
         "Planet": "Herastag",
+        "Source": "Raindeer",
         "pqrv": [
           386,
           511,
@@ -438,6 +486,7 @@
       {
         "notes": "",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Mining",
         "pqrv": [
           353,
           395,
@@ -448,6 +497,7 @@
       {
         "notes": "refine using schist",
         "Planet": "Baracatis III",
+        "Source": "Refining",
         "pqrv": [
           280,
           415,
@@ -458,6 +508,7 @@
       {
         "notes": "refine using schist",
         "Planet": "Herastag",
+        "Source": "Refining",
         "pqrv": [
           599,
           482,
@@ -468,6 +519,7 @@
       {
         "notes": "from Raindeers",
         "Planet": "Akacala",
+        "Source": "Raindeer",
         "pqrv": [
           496,
           458,
@@ -480,6 +532,7 @@
       {
         "notes": "refine using limestone",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           310,
           466,
@@ -490,6 +543,7 @@
       {
         "notes": "refine using limestone",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Refining",
         "pqrv": [
           397,
           366,
@@ -500,6 +554,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           663,
           734,
@@ -512,6 +567,7 @@
       {
         "notes": "refine using shale",
         "Planet": "Akacala",
+        "Source": "Refining",
         "pqrv": [
           668,
           392,
@@ -522,6 +578,7 @@
       {
         "notes": "refine using shale (not native here)",
         "Planet": "Baracatis III ",
+        "Source": "Refining",
         "pqrv": [
           514,
           488,
@@ -534,6 +591,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           743,
           483,
@@ -544,6 +602,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           761,
           401,
@@ -554,6 +613,7 @@
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           785,
           460,
@@ -566,6 +626,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           570,
           409,
@@ -576,6 +637,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           523,
           413,
@@ -586,6 +648,7 @@
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           648,
           451,
@@ -598,6 +661,7 @@
       {
         "notes": "",
         "Planet": "Unknown",
+        "Source": "Mining",
         "pqrv": [
           319,
           515,
@@ -612,6 +676,7 @@
       {
         "notes": "refine chert to oil",
         "Planet": "Baracatis III",
+        "Source": "Refining",
         "pqrv": [
           710,
           423,
@@ -622,6 +687,7 @@
       {
         "notes": "refine chert to oil",
         "Planet": "Akacala",
+        "Source": "Refining",
         "pqrv": [
           730,
           411,
@@ -632,6 +698,7 @@
       {
         "notes": "refine breccia to oil",
         "Planet": "Akacala",
+        "Source": "Refining",
         "pqrv": [
           460,
           755,
@@ -642,6 +709,7 @@
       {
         "notes": "refine chert to oil",
         "Planet": "Herastag",
+        "Source": "Refining",
         "pqrv": [
           725,
           307,
@@ -652,6 +720,7 @@
       {
         "notes": "refine chert to oil",
         "Planet": "Badapalus IV (WW)",
+        "Source": "Refining",
         "pqrv": [
           788,
           474,
@@ -666,6 +735,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           395,
           543,
@@ -676,6 +746,7 @@
       {
         "notes": "harvested from Verdark Cone",
         "Planet": "Baracatis III",
+        "Source": "Verdark Cone",
         "pqrv": [
           333,
           575,
@@ -688,11 +759,23 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           198,
           408,
           788,
           600
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          319,
+          370,
+          744,
+          570
         ]
       }
     ],
@@ -700,6 +783,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           669,
           452,
@@ -712,6 +796,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           722,
           468,
@@ -726,6 +811,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           610,
           786,
@@ -736,6 +822,7 @@
       {
         "notes": "",
         "Planet": "Herastag",
+        "Source": "Mining",
         "pqrv": [
           698,
           751,
@@ -746,6 +833,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           544,
           787,
@@ -758,11 +846,23 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           706,
           465,
           245,
           679
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          794,
+          424,
+          319,
+          606
         ]
       }
     ],
@@ -770,6 +870,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           367,
           302,
@@ -782,6 +883,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           550,
           432,
@@ -792,6 +894,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           514,
           163,
@@ -804,11 +907,23 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           316,
           601,
           740,
           394
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          449,
+          596,
+          754,
+          143
         ]
       }
     ]
@@ -818,6 +933,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           197,
           723,
@@ -828,11 +944,23 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           130,
           763,
           607,
           343
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          600,
+          717,
+          529,
+          452
         ]
       }
     ],
@@ -840,6 +968,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           390,
           549,
@@ -850,11 +979,23 @@
       {
         "notes": "harvested from Hexavine Spire",
         "Planet": "Baracatis III",
+        "Source": "Hexavine Spire",
         "pqrv": [
           494,
           611,
           747,
           167
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          318,
+          559,
+          762,
+          407
         ]
       }
     ]
@@ -864,6 +1005,7 @@
       {
         "notes": "",
         "Planet": "Ingoviko V (WW)",
+        "Source": "Mining",
         "pqrv": [
           494,
           596,
@@ -878,6 +1020,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           460,
           755,
@@ -890,6 +1033,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           742,
           177,
@@ -900,6 +1044,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           721,
           126,
@@ -912,6 +1057,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           169,
           558,
@@ -922,6 +1068,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           346,
           664,
@@ -934,6 +1081,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           730,
           411,
@@ -944,6 +1092,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           710,
           423,
@@ -956,6 +1105,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           365,
           484,
@@ -966,6 +1116,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           472,
           229,
@@ -978,6 +1129,7 @@
       {
         "notes": "Lithify Clay Soil to Shale",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           668,
           392,
@@ -988,6 +1140,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           696,
           427,
@@ -998,11 +1151,23 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           514,
           488,
           402,
           700
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          566,
+          341,
+          266,
+          720
         ]
       }
     ],
@@ -1010,6 +1175,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           549,
           780,
@@ -1022,6 +1188,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           310,
           466,
@@ -1036,6 +1203,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           547,
           170,
@@ -1046,6 +1214,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           537,
           124,
@@ -1058,6 +1227,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           330,
           758,
@@ -1068,6 +1238,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           430,
           715,
@@ -1080,6 +1251,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           171,
           677,
@@ -1090,11 +1262,25 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           166,
           587,
           438,
           713
+        ]
+      }
+    ],
+    "Red Soil": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          703,
+          499,
+          497,
+          605
         ]
       }
     ]
@@ -1104,6 +1290,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           336,
           266,
@@ -1114,6 +1301,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           435,
           538,
@@ -1124,11 +1312,23 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           429,
           334,
           740,
           643
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          419,
+          124,
+          724,
+          532
         ]
       }
     ],
@@ -1136,6 +1336,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           406,
           782,
@@ -1148,6 +1349,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           717,
           410,
@@ -1162,6 +1364,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           556,
           759,
@@ -1172,11 +1375,23 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           360,
           752,
           528,
           380
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "Source": "Mining",
+        "pqrv": [
+          300,
+          718,
+          652,
+          434
         ]
       }
     ],
@@ -1184,6 +1399,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           474,
           323,
@@ -1196,6 +1412,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           642,
           402,
@@ -1210,6 +1427,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           581,
           547,
@@ -1220,6 +1438,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           489,
           583,
@@ -1234,6 +1453,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           736,
           504,
@@ -1246,6 +1466,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           148,
           340,
@@ -1256,6 +1477,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           280,
           415,
@@ -1270,6 +1492,7 @@
       {
         "notes": "",
         "Planet": "Akacala",
+        "Source": "Mining",
         "pqrv": [
           528,
           727,
@@ -1280,6 +1503,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Mining",
         "pqrv": [
           621,
           775,
@@ -1294,6 +1518,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           384,
           577,
@@ -1306,6 +1531,7 @@
       {
         "notes": "",
         "Planet": "Space",
+        "Source": "Mining",
         "pqrv": [
           797,
           409,
@@ -1320,6 +1546,7 @@
       {
         "notes": "from Witchs Ringlet",
         "Planet": "Baracatis III",
+        "Source": "Witchs Ringlet",
         "pqrv": [
           400,
           310,
@@ -1330,6 +1557,7 @@
       {
         "notes": "from Dark Wizard",
         "Planet": "Baracatis III",
+        "Source": "Dark Wizard",
         "pqrv": [
           198,
           536,
@@ -1340,6 +1568,7 @@
       {
         "notes": "from Brimmed Bonnet",
         "Planet": "Baracatis III",
+        "Source": "Brimmed Bonnet",
         "pqrv": [
           203,
           338,
@@ -1350,6 +1579,7 @@
       {
         "notes": "from Lilac Dandy",
         "Planet": "Baracatis III",
+        "Source": "Lilac Dandy",
         "pqrv": [
           513,
           549,
@@ -1360,6 +1590,7 @@
       {
         "notes": "from Blushing Bonnet",
         "Planet": "Baracatis III",
+        "Source": "Blushing Bonnet",
         "pqrv": [
           256,
           454,
@@ -1372,6 +1603,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Golden Poplar",
         "pqrv": [
           485,
           766,
@@ -1384,6 +1616,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "King Stropheria",
         "pqrv": [
           456,
           542,
@@ -1394,6 +1627,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "King Stropheria",
         "pqrv": [
           485,
           691,
@@ -1406,6 +1640,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Brown Shimeji",
         "pqrv": [
           463,
           650,
@@ -1418,6 +1653,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Amanita",
         "pqrv": [
           566,
           714,
@@ -1430,6 +1666,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Chanterelle",
         "pqrv": [
           515,
           486,
@@ -1442,6 +1679,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Fairy Morel",
         "pqrv": [
           731,
           184,
@@ -1456,6 +1694,7 @@
       {
         "notes": "from Luminweave Tendril",
         "Planet": "Baracatis III",
+        "Source": "Lumineweave Tendril",
         "pqrv": [
           783,
           524,
@@ -1466,20 +1705,55 @@
     ],
     "Radon": [
       {
-        "notes": "from Blue Veil or Lilac Dandy or Skyshark",
+        "notes": "from Blue Veil",
         "Planet": "Baracatis III",
+        "Source": "Blue Veil",
         "pqrv": [
           515,
           776,
           366,
           580
         ]
+      },
+      {
+        "notes": "from Lilac Dandy",
+        "Planet": "Baracatis III",
+        "Source": "Lilac Dandy",
+        "pqrv": [
+          515,
+          776,
+          366,
+          580
+        ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          574,
+          717,
+          394,
+          682
+        ],
+        "Source": "Flying Fish"
       }
     ],
     "Xenon": [
       {
-        "notes": "from Lunareth or Brimmed Bonnet",
+        "notes": "from Lunareth",
         "Planet": "Baracatis III",
+        "Source": "Lunareth Tree",
+        "pqrv": [
+          748,
+          652,
+          308,
+          588
+        ]
+      },
+      {
+        "notes": "from Brimmed Bonnet",
+        "Planet": "Baracatis III",
+        "Source": "Brimmed Bonnet",
         "pqrv": [
           748,
           652,
@@ -1492,6 +1766,7 @@
       {
         "notes": "from Witchs Ringlet",
         "Planet": "Baracatis III",
+        "Source": "Witchs Ringlet",
         "pqrv": [
           407,
           432,
@@ -1506,6 +1781,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Strawberry",
         "pqrv": [
           582,
           420,
@@ -1518,6 +1794,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Coconut Tree",
         "pqrv": [
           570,
           721,
@@ -1530,6 +1807,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Banana Tree",
         "pqrv": [
           198,
           786,
@@ -1542,6 +1820,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Goji Berry",
         "pqrv": [
           731,
           581,
@@ -1556,6 +1835,7 @@
       {
         "notes": "from Dark Wizard",
         "Planet": "Baracatis III",
+        "Source": "Dark Wizard",
         "pqrv": [
           752,
           551,
@@ -1570,6 +1850,7 @@
       {
         "notes": "from Blushing Bonnet",
         "Planet": "Baracatis III",
+        "Source": "Blushing Bonnet",
         "pqrv": [
           618,
           725,
@@ -1584,6 +1865,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pampas Grass",
         "pqrv": [
           722,
           315,
@@ -1596,6 +1878,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Blue Emberbloom Torch",
         "pqrv": [
           370,
           669,
@@ -1608,6 +1891,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Purple Emberbloom Torch",
         "pqrv": [
           412,
           655,
@@ -1618,6 +1902,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Purple Emberbloom Torch",
         "pqrv": [
           212,
           203,
@@ -1630,6 +1915,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Tear Leaf Bush",
         "pqrv": [
           418,
           362,
@@ -1640,6 +1926,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Tear Leaf Bush",
         "pqrv": [
           344,
           861,
@@ -1652,6 +1939,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Dragon Leaf",
         "pqrv": [
           718,
           809,
@@ -1664,6 +1952,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Young Fern",
         "pqrv": [
           260,
           886,
@@ -1674,6 +1963,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Young Fern",
         "pqrv": [
           582,
           509,
@@ -1684,6 +1974,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Young Fern",
         "pqrv": [
           461,
           687,
@@ -1694,6 +1985,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Young Fern",
         "pqrv": [
           213,
           459,
@@ -1704,6 +1996,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Young Fern",
         "pqrv": [
           110,
           239,
@@ -1716,6 +2009,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Orange Emberbloom Torch",
         "pqrv": [
           803,
           328,
@@ -1726,6 +2020,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Orange Emberbloom Torch",
         "pqrv": [
           712,
           778,
@@ -1738,6 +2033,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Dark Wizard",
         "pqrv": [
           408,
           258,
@@ -1750,6 +2046,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Small Blue Emberbloom Torch",
         "pqrv": [
           210,
           690,
@@ -1762,6 +2059,7 @@
       {
         "notes": "",
         "Planet": "Bacaratis III",
+        "Source": "Pitcher Plant",
         "pqrv": [
           815,
           398,
@@ -1772,6 +2070,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pitcher Plant",
         "pqrv": [
           448,
           371,
@@ -1782,6 +2081,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pitcher Plant",
         "pqrv": [
           314,
           300,
@@ -1792,6 +2092,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pitcher Plant",
         "pqrv": [
           789,
           785,
@@ -1804,6 +2105,7 @@
       {
         "notes": "",
         "Planet": "Bacaratis III",
+        "Source": "Verdark Cone",
         "pqrv": [
           224,
           736,
@@ -1814,6 +2116,7 @@
       {
         "notes": "",
         "Planet": "Bacaratis III",
+        "Source": "Verdark Cone",
         "pqrv": [
           172,
           106,
@@ -1826,6 +2129,7 @@
       {
         "notes": "",
         "Planet": "Bacaratis III",
+        "Source": "Yellow Snapdragon",
         "pqrv": [
           577,
           435,
@@ -1838,6 +2142,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Lumineweave Tendril",
         "pqrv": [
           788,
           289,
@@ -1848,6 +2153,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Lumineweave Tendril",
         "pqrv": [
           483,
           429,
@@ -1860,6 +2166,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Teal Bellflower",
         "pqrv": [
           870,
           662,
@@ -1872,6 +2179,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Witchs Ringlet",
         "pqrv": [
           701,
           213,
@@ -1882,6 +2190,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Witchs Ringlet",
         "pqrv": [
           768,
           298,
@@ -1894,6 +2203,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Brimmed Bonnet",
         "pqrv": [
           857,
           446,
@@ -1904,6 +2214,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Brimmed Bonnet",
         "pqrv": [
           870,
           727,
@@ -1916,6 +2227,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Red Currant",
         "pqrv": [
           600,
           267,
@@ -1928,6 +2240,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Ornamental Palm",
         "pqrv": [
           196,
           806,
@@ -1940,6 +2253,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Hexavine Spire",
         "pqrv": [
           782,
           822,
@@ -1952,6 +2266,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Bromeliad",
         "pqrv": [
           838,
           507,
@@ -1964,6 +2279,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "White Daisy",
         "pqrv": [
           295,
           587,
@@ -1976,6 +2292,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Red Daisy",
         "pqrv": [
           634,
           323,
@@ -1988,6 +2305,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pink Daisy",
         "pqrv": [
           214,
           211,
@@ -2000,6 +2318,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Hosta",
         "pqrv": [
           704,
           754,
@@ -2012,6 +2331,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Elephant Ear",
         "pqrv": [
           614,
           121,
@@ -2022,6 +2342,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Elephant Ear",
         "pqrv": [
           340,
           562,
@@ -2034,6 +2355,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Fan Palm",
         "pqrv": [
           710,
           464,
@@ -2046,6 +2368,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Purple Snapdragon",
         "pqrv": [
           610,
           121,
@@ -2058,6 +2381,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Giant Land Lily",
         "pqrv": [
           220,
           669,
@@ -2070,6 +2394,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Dracaena Fragrans",
         "pqrv": [
           252,
           223,
@@ -2082,6 +2407,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Leafy Bush",
         "pqrv": [
           149,
           559,
@@ -2094,6 +2420,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Pink Snapdragon",
         "pqrv": [
           239,
           722,
@@ -2106,6 +2433,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Strawberry",
         "pqrv": [
           228,
           322,
@@ -2118,6 +2446,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Teal Daisy",
         "pqrv": [
           279,
           406,
@@ -2130,6 +2459,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Yellow Daisy",
         "pqrv": [
           845,
           799,
@@ -2142,6 +2472,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Goji Berry",
         "pqrv": [
           861,
           648,
@@ -2154,6 +2485,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Teal Snapdragon",
         "pqrv": [
           440,
           446,
@@ -2166,6 +2498,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Gold Bellflower",
         "pqrv": [
           769,
           729,
@@ -2178,6 +2511,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Purple Bellflower",
         "pqrv": [
           733,
           546,
@@ -2190,6 +2524,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Skunk Cabbage",
         "pqrv": [
           297,
           646,
@@ -2202,6 +2537,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Purple Daisy",
         "pqrv": [
           156,
           538,
@@ -2214,6 +2550,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Lilac Dandy",
         "pqrv": [
           704,
           874,
@@ -2226,6 +2563,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Yellow Bellflower",
         "pqrv": [
           160,
           471,
@@ -2240,6 +2578,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "King Stropheria",
         "pqrv": [
           796,
           690,
@@ -2250,6 +2589,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "King Stropheria",
         "pqrv": [
           556,
           151,
@@ -2262,6 +2602,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Golden Poplar",
         "pqrv": [
           453,
           737,
@@ -2274,6 +2615,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Brown Shimeji",
         "pqrv": [
           827,
           723,
@@ -2286,6 +2628,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Amanita",
         "pqrv": [
           253,
           231,
@@ -2298,6 +2641,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Fairy Morel",
         "pqrv": [
           149,
           794,
@@ -2310,6 +2654,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Blue Veil",
         "pqrv": [
           186,
           139,
@@ -2322,6 +2667,7 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Lunareth Tree",
         "pqrv": [
           382,
           172,
@@ -2334,12 +2680,98 @@
       {
         "notes": "",
         "Planet": "Baracatis III",
+        "Source": "Chanterelle",
         "pqrv": [
           293,
           281,
           171,
           159
         ]
+      }
+    ]
+  },
+  "Wood": {
+    "Dark Soft Wood": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          717,
+          659,
+          121,
+          489
+        ],
+        "Source": "Podwalker"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          705,
+          661,
+          280,
+          450
+        ],
+        "Source": "Coconut Tree"
+      }
+    ],
+    "Light Hard Wood": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          304,
+          708,
+          604,
+          132
+        ],
+        "Source": "Oak Tree"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          355,
+          790,
+          595,
+          153
+        ],
+        "Source": "Lemon Tree"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          484,
+          727,
+          597,
+          103
+        ],
+        "Source": "Lunareth Tree"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          443,
+          726,
+          665,
+          105
+        ],
+        "Source": "Banyan Tree"
+      }
+    ],
+    "Light Soft Wood": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          526,
+          254,
+          783,
+          350
+        ],
+        "Source": "Banana Tree"
       }
     ]
   }
