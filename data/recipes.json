@@ -421,7 +421,7 @@
     "Carbon": [
       [
         {
-          "Material": "wood",
+          "Material": "Wood",
           "Quantity": "0"
         }
       ],
@@ -989,13 +989,13 @@
     "Oil": [
       [
         {
-          "Material": "sedimentary rock",
+          "Material": "sedimentaryRock",
           "Quantity": "0"
         }
       ],
       [
         {
-          "Material": "wood",
+          "Material": "Wood",
           "Quantity": "0"
         }
       ]
