@@ -42,7 +42,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "uAl",
+        "Material": "u-Al",
         "Quantity": "0"
       },
       {
@@ -264,7 +264,7 @@
         }
       ]
     ],
-    "Aluminium": [
+    "Aluminum": [
       {
         "Material": "bauxite",
         "Quantity": "0"
@@ -834,7 +834,7 @@
     ],
     "Lithalum": [
       {
-        "Material": "aluminium",
+        "Material": "aluminum",
         "Quantity": "0"
       },
       {
@@ -1356,7 +1356,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "aluminium",
+        "Material": "aluminum",
         "Quantity": "0"
       }
     ],
