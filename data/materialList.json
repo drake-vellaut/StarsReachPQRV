@@ -5887,7 +5887,7 @@
                 ]
             }
         ],
-        "U-Al": [
+        "UAl": [
             {
                 "notes": "Refined from uranium with pqrv [631, 490, 308, 717] on planet Herastag and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
                 "Planet": "",
@@ -5978,8 +5978,8 @@
             }
         ]
     },
-    "Anti-Gravium": {
-        "Anti-Gravium": [
+    "AntiGravium": {
+        "AntiGravium": [
             {
                 "notes": "",
                 "Planet": "Akacala",
@@ -11485,6 +11485,124 @@
                     254,
                     783,
                     350
+                ]
+            }
+        ]
+    },
+    "Anti-Gravium": {
+        "Anti-Gravium": [
+            {
+                "notes": "Refined from antimatter with pqrv [752, 551, 490, 558] not found on planet but refined from Antimatter Gas with pqrv [752, 551, 490, 558] on planet Baracatis III and Refined from magnetite with pqrv [730, 411, 678, 578] not found on planet but refined from Chert with pqrv [730, 411, 678, 578] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    752.0,
+                    551.0,
+                    678.0,
+                    578.0
+                ]
+            },
+            {
+                "notes": "Refined from antimatter with pqrv [752, 551, 490, 558] not found on planet but refined from Antimatter Gas with pqrv [752, 551, 490, 558] on planet Baracatis III and Refined from magnetite with pqrv [710, 423, 676, 176] not found on planet but refined from Chert with pqrv [710, 423, 676, 176] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    752.0,
+                    551.0,
+                    676.0,
+                    558.0
+                ]
+            }
+        ]
+    },
+    "U-Al": {
+        "U-Al": [
+            {
+                "notes": "Refined from uranium with pqrv [631, 490, 308, 717] on planet Herastag and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    631.0,
+                    596.0,
+                    308.0,
+                    750.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [631, 490, 308, 717] on planet Herastag and Refined from aluminum with pqrv [642, 402, 249, 750] not found on planet but refined from Bauxite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    642.0,
+                    490.0,
+                    308.0,
+                    750.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [549, 780, 223, 372] not found on planet but refined from Pitchblende with pqrv [549, 780, 223, 372] not found on planet but refined from Conglomerate with pqrv [549, 780, 223, 372] on planet Baracatis III and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    549.0,
+                    780.0,
+                    294.0,
+                    750.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [549, 780, 223, 372] not found on planet but refined from Pitchblende with pqrv [549, 780, 223, 372] not found on planet but refined from Conglomerate with pqrv [549, 780, 223, 372] on planet Baracatis III and Refined from aluminum with pqrv [642, 402, 249, 750] not found on planet but refined from Bauxite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    642.0,
+                    780.0,
+                    249.0,
+                    750.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [169, 558, 440, 777] not found on planet but refined from Carnotite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    494.0,
+                    596.0,
+                    440.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [169, 558, 440, 777] not found on planet but refined from Carnotite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from aluminum with pqrv [642, 402, 249, 750] not found on planet but refined from Bauxite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    642.0,
+                    558.0,
+                    440.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [346, 664, 421, 787] not found on planet but refined from Carnotite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    494.0,
+                    664.0,
+                    421.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [346, 664, 421, 787] not found on planet but refined from Carnotite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from aluminum with pqrv [642, 402, 249, 750] not found on planet but refined from Bauxite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    642.0,
+                    664.0,
+                    421.0,
+                    787.0
                 ]
             }
         ]

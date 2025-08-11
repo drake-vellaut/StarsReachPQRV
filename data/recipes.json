@@ -42,7 +42,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "u-Al",
+        "Material": "uAl",
         "Quantity": "0"
       },
       {
@@ -290,7 +290,7 @@
         "Quantity": "0"
       }
     ],
-    "Anti-Gravium": [
+    "AntiGravium": [
       {
         "Material": "antimatter",
         "Quantity": "0"
@@ -1350,7 +1350,7 @@
         }
       ]
     ],
-    "U-Al": [
+    "UAl": [
       {
         "Material": "uranium",
         "Quantity": "0"
