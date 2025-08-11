@@ -11489,8 +11489,8 @@
             }
         ]
     },
-    "Anti-Gravium": {
-        "Anti-Gravium": [
+    "AntiGravium": {
+        "AntiGravium": [
             {
                 "notes": "Refined from antimatter with pqrv [752, 551, 490, 558] not found on planet but refined from Antimatter Gas with pqrv [752, 551, 490, 558] on planet Baracatis III and Refined from magnetite with pqrv [730, 411, 678, 578] not found on planet but refined from Chert with pqrv [730, 411, 678, 578] on planet Akacala",
                 "Planet": "",
@@ -11515,8 +11515,8 @@
             }
         ]
     },
-    "U-Al": {
-        "U-Al": [
+    "UAl": {
+        "UAl": [
             {
                 "notes": "Refined from uranium with pqrv [631, 490, 308, 717] on planet Herastag and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
                 "Planet": "",
