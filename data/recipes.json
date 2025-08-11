@@ -421,7 +421,7 @@
     "Carbon": [
       [
         {
-          "Material": "Wood",
+          "Material": "wood",
           "Quantity": "0"
         }
       ],
@@ -995,7 +995,7 @@
       ],
       [
         {
-          "Material": "Wood",
+          "Material": "wood",
           "Quantity": "0"
         }
       ]
