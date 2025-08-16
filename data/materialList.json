@@ -158,6 +158,17 @@
                     574,
                     192
                 ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
+                ]
             }
         ],
         "Emerald": [
@@ -327,6 +338,17 @@
                     793,
                     657
                 ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
             }
         ]
     },
@@ -454,6 +476,17 @@
                     421,
                     787
                 ]
+            },
+            {
+                "notes": "refined from Carnotite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ],
         "Mercury": [
@@ -557,6 +590,17 @@
                     721,
                     600
                 ]
+            },
+            {
+                "notes": "refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ],
         "Silver": [
@@ -569,6 +613,17 @@
                     504,
                     325,
                     409
+                ]
+            },
+            {
+                "notes": "refined from Argentite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
                 ]
             }
         ]
@@ -1093,6 +1148,193 @@
                     574.0,
                     409.0
                 ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    787.0,
+                    606.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    704.0,
+                    621.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    603.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    346.0,
+                    751.0,
+                    603.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    736.0,
+                    751.0,
+                    603.0,
+                    409.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [395, 543, 721, 390] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    395.0,
+                    580.0,
+                    721.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [333, 575, 731, 166] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    580.0,
+                    731.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [171, 677, 420, 704] not found on planet but refined from Alluvial Soil with pqrv [171, 677, 420, 704] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    171.0,
+                    677.0,
+                    420.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [166, 587, 438, 713] not found on planet but refined from Alluvial Soil with pqrv [166, 587, 438, 713] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    166.0,
+                    587.0,
+                    438.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [406, 782, 574, 192] not found on planet but refined from Cassiterite with pqrv [406, 782, 574, 192] not found on planet but refined from Granite with pqrv [406, 782, 574, 192] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    406.0,
+                    782.0,
+                    574.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    603.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [395, 543, 721, 390] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    543.0,
+                    721.0,
+                    390.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [333, 575, 731, 166] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    575.0,
+                    731.0,
+                    234.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [171, 677, 420, 704] not found on planet but refined from Alluvial Soil with pqrv [171, 677, 420, 704] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    677.0,
+                    420.0,
+                    704.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [166, 587, 438, 713] not found on planet but refined from Alluvial Soil with pqrv [166, 587, 438, 713] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    587.0,
+                    438.0,
+                    713.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [406, 782, 574, 192] not found on planet but refined from Cassiterite with pqrv [406, 782, 574, 192] not found on planet but refined from Granite with pqrv [406, 782, 574, 192] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    782.0,
+                    574.0,
+                    234.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    751.0,
+                    603.0,
+                    359.0
+                ]
             }
         ],
         "Brass": [
@@ -1590,6 +1832,281 @@
                     459.0,
                     707.0
                 ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116.0,
+                    580.0,
+                    787.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    317.0,
+                    580.0,
+                    704.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    169.0,
+                    580.0,
+                    440.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    346.0,
+                    664.0,
+                    421.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    736.0,
+                    580.0,
+                    325.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    503.0,
+                    580.0,
+                    409.0,
+                    735.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    668.0,
+                    580.0,
+                    300.0,
+                    733.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    696.0,
+                    580.0,
+                    580.0,
+                    740.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    514.0,
+                    580.0,
+                    402.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    566.0,
+                    580.0,
+                    300.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    169.0,
+                    580.0,
+                    440.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    346.0,
+                    664.0,
+                    421.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    310.0,
+                    580.0,
+                    721.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    541.0,
+                    580.0,
+                    459.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116.0,
+                    580.0,
+                    300.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    479.0,
+                    409.0,
+                    735.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    392.0,
+                    351.0,
+                    733.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    427.0,
+                    580.0,
+                    740.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    488.0,
+                    402.0,
+                    700.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    341.0,
+                    351.0,
+                    720.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    558.0,
+                    440.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    664.0,
+                    421.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    466.0,
+                    721.0,
+                    600.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    498.0,
+                    459.0,
+                    707.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    580.0,
+                    351.0,
+                    728.0
+                ]
             }
         ],
         "Cadmiumin": [
@@ -1977,6 +2494,149 @@
                     721.0,
                     600.0
                 ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    668.0,
+                    751.0,
+                    603.0,
+                    733.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    696.0,
+                    751.0,
+                    603.0,
+                    740.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    514.0,
+                    751.0,
+                    603.0,
+                    700.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    566.0,
+                    751.0,
+                    603.0,
+                    720.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    603.0,
+                    777.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    346.0,
+                    751.0,
+                    603.0,
+                    787.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    721.0,
+                    600.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [395, 543, 721, 390] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    395.0,
+                    580.0,
+                    721.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [333, 575, 731, 166] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    580.0,
+                    731.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [171, 677, 420, 704] not found on planet but refined from Alluvial Soil with pqrv [171, 677, 420, 704] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    171.0,
+                    677.0,
+                    420.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [166, 587, 438, 713] not found on planet but refined from Alluvial Soil with pqrv [166, 587, 438, 713] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    166.0,
+                    587.0,
+                    438.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [406, 782, 574, 192] not found on planet but refined from Cassiterite with pqrv [406, 782, 574, 192] not found on planet but refined from Granite with pqrv [406, 782, 574, 192] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    406.0,
+                    782.0,
+                    574.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    603.0,
+                    728.0
+                ]
             }
         ],
         "Electrum": [
@@ -1997,6 +2657,28 @@
                 "Source": "Refined",
                 "pqrv": [
                     736.0,
+                    587.0,
+                    438.0,
+                    713.0
+                ]
+            },
+            {
+                "notes": "Refined from gold with pqrv [171, 677, 420, 704] not found on planet but refined from Alluvial Soil with pqrv [171, 677, 420, 704] on planet Akacala and Refined from silver with pqrv [792, 102, 351, 234] not found on planet but refined from Argentite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
+                    677.0,
+                    420.0,
+                    704.0
+                ]
+            },
+            {
+                "notes": "Refined from gold with pqrv [166, 587, 438, 713] not found on planet but refined from Alluvial Soil with pqrv [166, 587, 438, 713] on planet Baracatis III and Refined from silver with pqrv [792, 102, 351, 234] not found on planet but refined from Argentite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792.0,
                     587.0,
                     438.0,
                     713.0
@@ -4139,6 +4821,1106 @@
                     392.0,
                     728.5
                 ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    251.5,
+                    624.5,
+                    758.0,
+                    667.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    352.0,
+                    624.5,
+                    716.5,
+                    674.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    278.0,
+                    624.5,
+                    584.5,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    366.5,
+                    666.5,
+                    575.0,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    561.5,
+                    624.5,
+                    527.0,
+                    568.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    445.0,
+                    624.5,
+                    569.0,
+                    731.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    527.5,
+                    624.5,
+                    514.5,
+                    730.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    541.5,
+                    624.5,
+                    654.5,
+                    734.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    450.5,
+                    624.5,
+                    565.5,
+                    714.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    476.5,
+                    624.5,
+                    514.5,
+                    724.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    278.0,
+                    624.5,
+                    584.5,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    366.5,
+                    666.5,
+                    575.0,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    348.5,
+                    624.5,
+                    725.0,
+                    664.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    464.0,
+                    624.5,
+                    594.0,
+                    717.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    251.5,
+                    624.5,
+                    514.5,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    647.5,
+                    574.0,
+                    569.0,
+                    484.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    730.0,
+                    530.5,
+                    540.0,
+                    483.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    744.0,
+                    548.0,
+                    654.5,
+                    487.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    653.0,
+                    578.5,
+                    565.5,
+                    467.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    679.0,
+                    505.0,
+                    540.0,
+                    477.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    589.5,
+                    613.5,
+                    584.5,
+                    505.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    589.5,
+                    666.5,
+                    575.0,
+                    510.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    589.5,
+                    567.5,
+                    725.0,
+                    417.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    666.5,
+                    583.5,
+                    594.0,
+                    470.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [387, 669, 729, 207] on planet Akacala and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    589.5,
+                    624.5,
+                    540.0,
+                    481.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    221.0,
+                    554.5,
+                    759.0,
+                    667.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    321.5,
+                    554.5,
+                    717.5,
+                    674.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    247.5,
+                    569.0,
+                    585.5,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    336.0,
+                    622.0,
+                    576.0,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    531.0,
+                    554.5,
+                    528.0,
+                    568.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    414.5,
+                    554.5,
+                    570.0,
+                    731.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    497.0,
+                    554.5,
+                    515.5,
+                    730.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    511.0,
+                    554.5,
+                    655.5,
+                    734.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    420.0,
+                    554.5,
+                    566.5,
+                    714.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    446.0,
+                    554.5,
+                    515.5,
+                    724.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    247.5,
+                    569.0,
+                    585.5,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    336.0,
+                    622.0,
+                    576.0,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    318.0,
+                    554.5,
+                    726.0,
+                    664.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    433.5,
+                    554.5,
+                    595.0,
+                    717.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    221.0,
+                    580.0,
+                    515.5,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    647.5,
+                    504.0,
+                    570.0,
+                    517.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    730.0,
+                    460.5,
+                    541.0,
+                    516.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    744.0,
+                    478.0,
+                    655.5,
+                    519.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    653.0,
+                    508.5,
+                    566.5,
+                    499.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    679.0,
+                    435.0,
+                    541.0,
+                    509.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    559.0,
+                    543.5,
+                    585.5,
+                    538.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    569.0,
+                    596.5,
+                    576.0,
+                    543.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    559.0,
+                    497.5,
+                    726.0,
+                    449.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    666.5,
+                    513.5,
+                    595.0,
+                    503.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [326, 529, 731, 299] on planet Space and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    559.0,
+                    554.5,
+                    541.0,
+                    513.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    297.5,
+                    599.5,
+                    764.5,
+                    667.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    398.0,
+                    599.5,
+                    723.0,
+                    674.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    324.0,
+                    599.5,
+                    591.0,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    412.5,
+                    641.5,
+                    581.5,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    607.5,
+                    599.5,
+                    533.5,
+                    568.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    491.0,
+                    599.5,
+                    575.5,
+                    731.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    573.5,
+                    599.5,
+                    521.0,
+                    730.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    587.5,
+                    599.5,
+                    661.0,
+                    734.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    496.5,
+                    599.5,
+                    572.0,
+                    714.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    522.5,
+                    599.5,
+                    521.0,
+                    724.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    324.0,
+                    599.5,
+                    591.0,
+                    752.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    412.5,
+                    641.5,
+                    581.5,
+                    757.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    394.5,
+                    599.5,
+                    731.5,
+                    664.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    510.0,
+                    599.5,
+                    600.5,
+                    717.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    297.5,
+                    599.5,
+                    521.0,
+                    728.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    647.5,
+                    549.0,
+                    575.5,
+                    542.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    730.0,
+                    505.5,
+                    546.5,
+                    541.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    744.0,
+                    523.0,
+                    661.0,
+                    544.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    653.0,
+                    553.5,
+                    572.0,
+                    524.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    679.0,
+                    480.0,
+                    546.5,
+                    534.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    635.5,
+                    588.5,
+                    591.0,
+                    563.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    635.5,
+                    641.5,
+                    581.5,
+                    568.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    635.5,
+                    542.5,
+                    731.5,
+                    474.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    666.5,
+                    558.5,
+                    600.5,
+                    528.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [479, 619, 742, 349] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    635.5,
+                    599.5,
+                    546.5,
+                    538.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [113, 470, 787, 606] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    379.0,
+                    525.0,
+                    543.5,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [317, 373, 704, 621] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    479.5,
+                    491.0,
+                    502.0,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [169, 558, 440, 777] not found on planet but refined from Chalcopyrite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    405.5,
+                    569.0,
+                    370.0,
+                    763.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [346, 664, 421, 787] not found on planet but refined from Chalcopyrite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    494.0,
+                    622.0,
+                    360.5,
+                    768.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [736, 504, 325, 409] not found on planet but refined from Chalcopyrite with pqrv [736, 504, 325, 409] not found on planet but refined from Gneiss with pqrv [736, 504, 325, 409] on planet Akacala and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    689.0,
+                    542.0,
+                    312.5,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    572.5,
+                    529.5,
+                    354.5,
+                    742.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    655.0,
+                    491.0,
+                    274.5,
+                    741.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    669.0,
+                    503.5,
+                    440.0,
+                    745.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    578.0,
+                    534.0,
+                    351.0,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    604.0,
+                    491.0,
+                    283.0,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    405.5,
+                    569.0,
+                    370.0,
+                    763.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    494.0,
+                    622.0,
+                    360.5,
+                    768.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    476.0,
+                    523.0,
+                    510.5,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    591.5,
+                    539.0,
+                    379.5,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [116, 580, 300, 728] not found on planet but refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    379.0,
+                    580.0,
+                    300.0,
+                    739.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [503, 479, 409, 735] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    440.5,
+                    380.0,
+                    742.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [668, 392, 124, 733] not found on planet but refined from Sphalerite with pqrv [668, 392, 124, 733] not found on planet but refined from Shale with pqrv [668, 392, 124, 733] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    730.0,
+                    397.0,
+                    300.0,
+                    741.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [696, 427, 580, 740] not found on planet but refined from Sphalerite with pqrv [696, 427, 580, 740] not found on planet but refined from Shale with pqrv [696, 427, 580, 740] on planet Space",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    744.0,
+                    414.5,
+                    465.5,
+                    745.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [514, 488, 402, 700] not found on planet but refined from Sphalerite with pqrv [514, 488, 402, 700] not found on planet but refined from Shale with pqrv [514, 488, 402, 700] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    445.0,
+                    376.5,
+                    725.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [566, 341, 266, 720] not found on planet but refined from Sphalerite with pqrv [566, 341, 266, 720] not found on planet but refined from Shale with pqrv [566, 341, 266, 720] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    371.5,
+                    308.5,
+                    735.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [169, 558, 440, 777] not found on planet but refined from Sphalerite with pqrv [169, 558, 440, 777] not found on planet but refined from Sandstone with pqrv [169, 558, 440, 777] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    480.0,
+                    395.5,
+                    763.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [346, 664, 421, 787] not found on planet but refined from Sphalerite with pqrv [346, 664, 421, 787] not found on planet but refined from Sandstone with pqrv [346, 664, 421, 787] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    533.0,
+                    386.0,
+                    768.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [310, 466, 721, 600] not found on planet but refined from Sphalerite with pqrv [310, 466, 721, 600] not found on planet but refined from Limestone with pqrv [310, 466, 721, 600] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    434.0,
+                    536.0,
+                    675.0
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [541, 498, 459, 707] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    450.0,
+                    405.0,
+                    728.5
+                ]
+            },
+            {
+                "notes": "Refined from nickel with pqrv [642, 402, 249, 750] not found on planet but refined from Pendlandite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III and Refined from copper with pqrv [792, 102, 351, 234] not found on planet but refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag and Refined from zinc with pqrv [116, 580, 300, 728] not found on planet but refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    717.0,
+                    491.0,
+                    325.5,
+                    739.0
+                ]
             }
         ],
         "Pewter": [
@@ -4248,6 +6030,28 @@
                 "pqrv": [
                     406.0,
                     782.0,
+                    744.0,
+                    570.0
+                ]
+            },
+            {
+                "notes": "Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag and Refined from lead with pqrv [198, 408, 788, 600] on planet Akacala",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
+                    788.0,
+                    600.0
+                ]
+            },
+            {
+                "notes": "Refined from tin with pqrv [333, 751, 603, 359] not found on planet but refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag and Refined from lead with pqrv [319, 370, 744, 570] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333.0,
+                    751.0,
                     744.0,
                     570.0
                 ]
@@ -6547,6 +8351,28 @@
                     421.0,
                     787.0
                 ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [116, 580, 300, 728] not found on planet but refined from Carnotite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from aluminum with pqrv [494, 596, 294, 750] on planet Ingoviko V (WW)",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    494.0,
+                    596.0,
+                    300.0,
+                    750.0
+                ]
+            },
+            {
+                "notes": "Refined from uranium with pqrv [116, 580, 300, 728] not found on planet but refined from Carnotite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag and Refined from aluminum with pqrv [642, 402, 249, 750] not found on planet but refined from Bauxite with pqrv [642, 402, 249, 750] not found on planet but refined from Laterite Soil with pqrv [642, 402, 249, 750] on planet Baracatis III",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    642.0,
+                    580.0,
+                    300.0,
+                    750.0
+                ]
             }
         ],
         "Uralex": [
@@ -6592,6 +8418,17 @@
                     664.0,
                     544.0,
                     787.0
+                ]
+            },
+            {
+                "notes": "Refined from titanium with pqrv [609, 306, 544, 722] on planet Herastag and Refined from uranium with pqrv [116, 580, 300, 728] not found on planet but refined from Carnotite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    609.0,
+                    580.0,
+                    544.0,
+                    728.0
                 ]
             }
         ]
@@ -6723,6 +8560,28 @@
                     504,
                     325,
                     409
+                ]
+            },
+            {
+                "notes": "refined from Chalcopyrite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
+            },
+            {
+                "notes": "refined from Chalcopyrite with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
                 ]
             }
         ],
@@ -6871,6 +8730,17 @@
                     707
                 ],
                 "Source": "Mining"
+            },
+            {
+                "notes": "refined from Sphalerite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ],
         "Nickel": [
@@ -7100,6 +8970,17 @@
                     664,
                     421,
                     787
+                ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
                 ]
             }
         ],
@@ -7452,6 +9333,17 @@
                     783,
                     350
                 ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ]
     },
@@ -7510,6 +9402,17 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Cassiterite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ],
@@ -7571,6 +9474,17 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Bismuthite with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -7761,6 +9675,28 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -8061,6 +9997,17 @@
                     421,
                     787
                 ]
+            },
+            {
+                "notes": "",
+                "Planet": "Herastag",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ],
+                "Source": "Mining"
             }
         ],
         "Chert": [
@@ -8329,6 +10276,17 @@
                     574,
                     192
                 ]
+            },
+            {
+                "notes": "",
+                "Planet": "Herastag",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
+                ],
+                "Source": "Mining"
             }
         ],
         "Diorite": [
@@ -8342,6 +10300,17 @@
                     348,
                     665
                 ]
+            },
+            {
+                "notes": "",
+                "Planet": "Herastag",
+                "pqrv": [
+                    730,
+                    477,
+                    585,
+                    538
+                ],
+                "Source": "Mining"
             }
         ]
     },
@@ -8516,6 +10485,17 @@
                     325,
                     409
                 ]
+            },
+            {
+                "notes": "",
+                "Planet": "Herastag",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ],
+                "Source": "Mining"
             }
         ],
         "Schist": [
@@ -8549,6 +10529,19 @@
                     482,
                     793,
                     657
+                ],
+                "Source": "Mining"
+            }
+        ],
+        "Quartzite": [
+            {
+                "notes": "",
+                "Planet": "Herastag",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
                 ],
                 "Source": "Mining"
             }
@@ -8847,6 +10840,17 @@
                     421,
                     787
                 ]
+            },
+            {
+                "notes": "refined from Carnotite with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ],
         "Xenon": [
@@ -8980,6 +10984,17 @@
                     466,
                     721,
                     600
+                ]
+            },
+            {
+                "notes": "refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
                 ]
             }
         ],
@@ -10009,6 +12024,17 @@
                     325,
                     409
                 ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
             }
         ]
     },
@@ -10112,6 +12138,17 @@
                     795,
                     517
                 ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ]
     },
@@ -10126,6 +12163,17 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -10153,6 +12201,17 @@
                     421,
                     787
                 ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ]
     },
@@ -10167,6 +12226,17 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -10359,6 +12429,39 @@
                     266,
                     720
                 ]
+            },
+            {
+                "notes": "refined from Silica Ore with pqrv [152, 655, 782, 479] not found on planet but refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
+                ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
+                ]
             }
         ]
     },
@@ -10395,6 +12498,28 @@
                     504,
                     325,
                     409
+                ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
                 ]
             }
         ]
@@ -10499,6 +12624,28 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -10681,6 +12828,17 @@
                     795,
                     517
                 ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ]
     },
@@ -10851,6 +13009,17 @@
                     795,
                     517
                 ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
             }
         ]
     },
@@ -10898,6 +13067,17 @@
                     482,
                     793,
                     657
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -10996,6 +13176,39 @@
                     574,
                     192
                 ]
+            },
+            {
+                "notes": "refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
+                ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
+                ]
             }
         ]
     },
@@ -11058,6 +13271,17 @@
                     423,
                     676,
                     176
+                ]
+            },
+            {
+                "notes": "refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
                 ]
             }
         ]
@@ -11139,6 +13363,17 @@
                     466,
                     721,
                     600
+                ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
                 ]
             }
         ]
@@ -11224,6 +13459,17 @@
                     482,
                     793,
                     657
+                ]
+            },
+            {
+                "notes": "refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
                 ]
             }
         ]
@@ -11695,6 +13941,28 @@
                     577,
                     330
                 ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [116, 580, 300, 728] not found on planet but refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
+                ]
+            },
+            {
+                "notes": "refined from Graphite with pqrv [599, 482, 793, 657] not found on planet but refined from Schist with pqrv [599, 482, 793, 657] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    599,
+                    482,
+                    793,
+                    657
+                ]
             }
         ]
     },
@@ -11801,6 +14069,39 @@
                     782,
                     574,
                     192
+                ]
+            },
+            {
+                "notes": "refined from Silica Ore with pqrv [152, 655, 782, 479] not found on planet but refined from Quartzite with pqrv [152, 655, 782, 479] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    152,
+                    655,
+                    782,
+                    479
+                ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [792, 102, 351, 234] not found on planet but refined from Gneiss with pqrv [792, 102, 351, 234] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    792,
+                    102,
+                    351,
+                    234
+                ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [333, 751, 603, 359] not found on planet but refined from Granite with pqrv [333, 751, 603, 359] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    333,
+                    751,
+                    603,
+                    359
                 ]
             }
         ]
@@ -12140,6 +14441,17 @@
                     254,
                     783,
                     350
+                ]
+            },
+            {
+                "notes": "refined from Sandstone with pqrv [116, 580, 300, 728] on planet Herastag",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    116,
+                    580,
+                    300,
+                    728
                 ]
             }
         ]
