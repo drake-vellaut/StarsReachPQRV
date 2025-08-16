@@ -247,6 +247,34 @@
         "Material": "plastic",
         "Quantity": "0"
       }
+    ],
+    "depositor": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "25"
+      },
+      {
+        "Material": "commonGem",
+        "Quantity": "10"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "15"
+      }
+    ],
+    "chronophaser": [
+      {
+        "Material": "commonMetal",
+        "Quantity": "25"
+      },
+      {
+        "Material": "inertGas",
+        "Quantity": "10"
+      },
+      {
+        "Material": "metalAlloy",
+        "Quantity": "15"
+      }
     ]
   },
   "refinery": {
