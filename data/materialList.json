@@ -6584,39 +6584,6 @@
         "Plastic": [
             {
                 "notes": "refine chert to oil",
-                "Planet": "Baracatis III",
-                "Source": "Refining",
-                "pqrv": [
-                    710,
-                    423,
-                    676,
-                    176
-                ]
-            },
-            {
-                "notes": "refine chert to oil",
-                "Planet": "Akacala",
-                "Source": "Refining",
-                "pqrv": [
-                    730,
-                    411,
-                    678,
-                    578
-                ]
-            },
-            {
-                "notes": "refine breccia to oil",
-                "Planet": "Akacala",
-                "Source": "Refining",
-                "pqrv": [
-                    460,
-                    755,
-                    654,
-                    353
-                ]
-            },
-            {
-                "notes": "refine chert to oil",
                 "Planet": "Herastag",
                 "Source": "Refining",
                 "pqrv": [
