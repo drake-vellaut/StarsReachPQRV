@@ -1,0 +1,102 @@
+{
+  "toolmaker": {
+    "gravMesh":
+      {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "instaformer": 
+      {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "omniblaster": {
+        "p": ["Homing Radius"],
+        "q": ["Turning Radius"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "pathfinder": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "trailblazer": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "companionOrbs": {
+        "p": ["Node Ring Count"],
+        "q": ["Boomerang Shot Count"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "fabricator": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "fortressShield": {
+        "p": ["Capacitor Size"],
+        "q": ["-"],
+        "r": ["Shield Duration"],
+        "v": ["-"]
+      },
+    "grapple": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "gravityGun": {
+        "p": ["Primary Beam Knockback"],
+        "q": ["Boomer Radius"],
+        "r": ["Black Hole Radius"],
+        "v": ["Max Battery","Battery Regen"]
+      },
+    "harvester": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "healix": {
+        "p": ["Surge Radius"],
+        "q": ["Mass Heal Radius"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "paver": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "reflectionShield": {
+        "p": ["Capacitor Size"],
+        "q": ["-"],
+        "r": ["Shield Duration"],
+        "v": ["-"]
+      },
+    "terraformer": {
+        "p": ["Scan Result"],
+        "q": ["Excation Magnitude"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "xyloslicer": {
+        "p": ["-"],
+        "q": ["Chopping Battery Drain"],
+        "r": ["Planting Battery Drain"],
+        "v": ["-"]
+      }
+  }
+}
