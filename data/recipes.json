@@ -275,6 +275,20 @@
         "Material": "metalAlloy",
         "Quantity": "15"
       }
+    ],
+    "pruningShear": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "10"
+      },
+      {
+        "Material": "commonGem",
+        "Quantity": "5"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
     ]
   },
   "refinery": {
