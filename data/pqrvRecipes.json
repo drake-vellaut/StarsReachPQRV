@@ -97,6 +97,25 @@
         "q": ["Chopping Battery Drain"],
         "r": ["Planting Battery Drain"],
         "v": ["-"]
+      },
+    "chronophaser": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "depositor": {
+        "p": ["-"],
+        "q": ["Deposit Efficiency"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
+      },
+    "pruningShear": {
+        "p": ["Pruning Speed"],
+        "q": ["Growth Speed"],
+        "r": ["Battery Regen"],
+        "v": ["Max Battery"]
       }
+
   }
 }
