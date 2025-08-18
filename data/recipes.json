@@ -42,7 +42,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "uAl",
+        "Material": "metalAlloy",
         "Quantity": "0"
       },
       {
@@ -92,7 +92,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "uralex",
+        "Material": "metalAlloy",
         "Quantity": "0"
       }
     ],
@@ -124,7 +124,7 @@
         "Quantity": "0"
       },
       {
-        "Material": "palladiance",
+        "Material": "metalAlloy",
         "Quantity": "0"
       }
     ],
