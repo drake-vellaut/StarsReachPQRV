@@ -12548,6 +12548,39 @@
           753
         ],
         "Source": "Asteroids"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          501,
+          700,
+          370,
+          715
+        ],
+        "Source": "Asteroids"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          439,
+          571,
+          423,
+          797
+        ],
+        "Source": "Asteroids"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          287,
+          543,
+          360,
+          754
+        ],
+        "Source": "Asteroids"
       }
     ]
   },
