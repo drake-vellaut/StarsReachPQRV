@@ -22789,5 +22789,37 @@
         ]
       }
     ]
+  },
+  "animal": {
+    "hide": {
+      "Hide": [
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            746,
+            673,
+            484,
+            461
+          ],
+          "Source": "Sleetah"
+        }
+      ]
+    },
+    "bone": {
+      "Bone": [
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            442,
+            314,
+            701,
+            560
+          ],
+          "Source": "Sleetah"
+        }
+      ]
+    }
   }
 }
