@@ -15,10 +15,10 @@
         "v": ["-"]
       },
     "omniblaster": {
-        "p": ["Homing Radius"],
-        "q": ["Turning Radius"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "p": ["Turning Radius"],
+        "q": ["Primary Shot Damage"],
+        "r": ["Homing Radius"],
+        "v": ["Battery Efficiency"]
       },
     "pathfinder": {
         "p": ["-"],
@@ -29,14 +29,14 @@
     "trailblazer": {
         "p": ["-"],
         "q": ["-"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["B-"],
+        "v": ["Battery Efficiency"]
       },
     "companionOrbs": {
-        "p": ["Node Ring Count"],
-        "q": ["Boomerang Shot Count"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "p": ["Boomerang Shot Count"],
+        "q": ["Primary Shot Damage"],
+        "r": ["Node Ring Count"],
+        "v": ["Battery Efficiency"]
       },
     "fabricator": {
         "p": ["-"],
@@ -60,25 +60,25 @@
         "p": ["Primary Beam Knockback"],
         "q": ["Boomer Radius"],
         "r": ["Black Hole Radius"],
-        "v": ["Max Battery","Battery Regen"]
+        "v": ["Battery Efficiency"]
       },
     "harvester": {
         "p": ["-"],
         "q": ["-"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
       },
     "healix": {
         "p": ["Surge Radius"],
-        "q": ["Mass Heal Radius"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "q": ["Primary Beam Healing"],
+        "r": ["Mass Heal Radius"],
+        "v": ["Battery Efficiency"]
       },
     "paver": {
         "p": ["-"],
         "q": ["-"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
       },
     "reflectionShield": {
         "p": ["Capacitor Size"],
@@ -87,10 +87,10 @@
         "v": ["-"]
       },
     "terraformer": {
-        "p": ["Scan Result"],
+        "p": ["Hopper Capacity"],
         "q": ["Excation Magnitude"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["Scan Results"],
+        "v": ["Battery Efficiency"]
       },
     "xyloslicer": {
         "p": ["-"],
@@ -100,21 +100,21 @@
       },
     "chronophaser": {
         "p": ["-"],
-        "q": ["-"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "q": ["Heat Maximum"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
       },
     "depositor": {
         "p": ["-"],
         "q": ["Deposit Efficiency"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
       },
     "pruningShear": {
         "p": ["Pruning Speed"],
         "q": ["Growth Speed"],
-        "r": ["Battery Regen"],
-        "v": ["Max Battery"]
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
       }
 
   }

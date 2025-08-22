@@ -2957,6 +2957,17 @@
             243
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Kirogen (WW)",
+          "pqrv": [
+            789,
+            571,
+            428,
+            265
+          ],
+          "Source": "Mining"
         }
       ],
       "Schist": [
