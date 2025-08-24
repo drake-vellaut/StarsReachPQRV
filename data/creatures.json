@@ -243,9 +243,9 @@
       "videos": [],
       "type": ""
     },
-    "rainder": {
+    "raindeer": {
       "image": [
-        "assets/creatures/rainder.webp"
+        "assets/creatures/raindeer.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -322,7 +322,8 @@
         "bone"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -721,6 +722,14 @@
       "image": [
         "assets/creatures/owldeeer.webp"
       ],
+      "byproducts": [],
+      "planets": [],
+      "preferredFood": [],
+      "videos": [],
+      "type": ""
+    },
+    "razorbeak": {
+      "image": [],
       "byproducts": [],
       "planets": [],
       "preferredFood": [],
