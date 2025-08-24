@@ -2507,7 +2507,7 @@
   },
   "wood": {
     "lightWood": {
-      "Light Hard Wood": [
+      "lightHrdWood": [
         {
           "notes": "",
           "Planet": "Akacala",
@@ -2553,7 +2553,7 @@
           "Source": "Banyan Tree"
         }
       ],
-      "Light Soft Wood": [
+      "lightSoftWood": [
         {
           "notes": "",
           "Planet": "Akacala",
@@ -2568,7 +2568,7 @@
       ]
     },
     "darkWood": {
-      "Dark Soft Wood": [
+      "darkSoftWood": [
         {
           "notes": "",
           "Planet": "Akacala",
@@ -22802,7 +22802,7 @@
     ]
   },
   "animal": {
-    "hide": {
+    "nonSkeletal": {
       "Hide": [
         {
           "notes": "",
@@ -22817,7 +22817,7 @@
         }
       ]
     },
-    "bone": {
+    "skeletal": {
       "Bone": [
         {
           "notes": "",
