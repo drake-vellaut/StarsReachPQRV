@@ -2,7 +2,7 @@
   "bushes": {
     "amberCoral": {
       "image": [
-        "assets/creatures/amberCoral.webp"
+        "assets/flora/amberCoral.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -11,7 +11,7 @@
     },
     "kelp": {
       "image": [
-        "assets/creatures/kelp.webp"
+        "assets/flora/kelp.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -20,7 +20,7 @@
     },
     "seaweed": {
       "image": [
-        "assets/creatures/seaweed.webp"
+        "assets/flora/seaweed.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -29,7 +29,7 @@
     },
     "waterLily": {
       "image": [
-        "assets/creatures/waterLily.webp"
+        "assets/flora/waterLily.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -38,7 +38,7 @@
     },
     "pinkBellflower": {
       "image": [
-        "assets/creatures/pinkBellflower.webp"
+        "assets/flora/pinkBellflower.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -47,7 +47,7 @@
     },
     "pinkDaisy": {
       "image": [
-        "assets/creatures/pinkDaisy.webp"
+        "assets/flora/pinkDaisy.webp"
       ],
       "byproducts": [
         "pink daisy seedling"
@@ -60,7 +60,7 @@
     },
     "pinkSnapdragon": {
       "image": [
-        "assets/creatures/pinkSnapdragon.webp"
+        "assets/flora/pinkSnapdragon.webp"
       ],
       "byproducts": [
         "pink snapdragon seedling"
@@ -73,7 +73,7 @@
     },
     "glowyDandelion": {
       "image": [
-        "assets/creatures/glowyDandelion.webp"
+        "assets/flora/glowyDandelion.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -82,7 +82,7 @@
     },
     "glowyRose": {
       "image": [
-        "assets/creatures/glowyRose.webp"
+        "assets/flora/glowyRose.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -91,7 +91,7 @@
     },
     "purpleDaisy": {
       "image": [
-        "assets/creatures/purpleDaisy.webp"
+        "assets/flora/purpleDaisy.webp"
       ],
       "byproducts": [
         "purple daisy seedling"
@@ -104,7 +104,7 @@
     },
     "purpleEmberbloomTorch": {
       "image": [
-        "assets/creatures/purpleEmberbloomTorch.webp"
+        "assets/flora/purpleEmberbloomTorch.webp"
       ],
       "byproducts": [
         "purple emberbloom torch seedling"
@@ -117,7 +117,7 @@
     },
     "purpleSnapdragon": {
       "image": [
-        "assets/creatures/purpleSnapdragon.webp"
+        "assets/flora/purpleSnapdragon.webp"
       ],
       "byproducts": [
         "purple snapdragon seedling"
@@ -130,7 +130,7 @@
     },
     "orangeEmberbloomTorch": {
       "image": [
-        "assets/creatures/orangeEmberbloomTorch.webp"
+        "assets/flora/orangeEmberbloomTorch.webp"
       ],
       "byproducts": [
         "orange emberbloom torch seedling"
@@ -143,7 +143,7 @@
     },
     "redDaisy": {
       "image": [
-        "assets/creatures/redDaisy.webp"
+        "assets/flora/redDaisy.webp"
       ],
       "byproducts": [
         "red daisy seedling"
@@ -156,7 +156,7 @@
     },
     "tealBellflower": {
       "image": [
-        "assets/creatures/tealBellflower.webp"
+        "assets/flora/tealBellflower.webp"
       ],
       "byproducts": [
         "teal bellflower seedling"
@@ -169,7 +169,7 @@
     },
     "tealDaisy": {
       "image": [
-        "assets/creatures/tealDaisy.webp"
+        "assets/flora/tealDaisy.webp"
       ],
       "byproducts": [
         "teal daisy seedling"
@@ -182,7 +182,7 @@
     },
     "tealSnapdragon": {
       "image": [
-        "assets/creatures/tealSnapdragon.webp"
+        "assets/flora/tealSnapdragon.webp"
       ],
       "byproducts": [
         "teal snapdragon seedling"
@@ -195,7 +195,7 @@
     },
     "queenAnnesLace": {
       "image": [
-        "assets/creatures/queenAnnesLace.webp"
+        "assets/flora/queenAnnesLace.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -204,7 +204,7 @@
     },
     "whiteDaisy": {
       "image": [
-        "assets/creatures/whiteDaisy.webp"
+        "assets/flora/whiteDaisy.webp"
       ],
       "byproducts": [
         "white daisy seedling"
@@ -217,7 +217,7 @@
     },
     "whiteSnapdragon": {
       "image": [
-        "assets/creatures/whiteSnapdragon.webp"
+        "assets/flora/whiteSnapdragon.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -226,7 +226,7 @@
     },
     "goldBellflower": {
       "image": [
-        "assets/creatures/goldBellflower.webp"
+        "assets/flora/goldBellflower.webp"
       ],
       "byproducts": [
         "gold bellflower seedling"
@@ -239,7 +239,7 @@
     },
     "yellowDaisy": {
       "image": [
-        "assets/creatures/yellowDaisy.webp"
+        "assets/flora/yellowDaisy.webp"
       ],
       "byproducts": [
         "yellow daisy seedling"
@@ -252,7 +252,7 @@
     },
     "yellowSnapdragon": {
       "image": [
-        "assets/creatures/yellowSnapdragon.webp"
+        "assets/flora/yellowSnapdragon.webp"
       ],
       "byproducts": [
         "yellow snapdragon seedling"
@@ -265,7 +265,7 @@
     },
     "blueberryBush": {
       "image": [
-        "assets/creatures/blueberryBush.webp"
+        "assets/flora/blueberryBush.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -274,7 +274,7 @@
     },
     "gojiBerry": {
       "image": [
-        "assets/creatures/gojiBerry.webp"
+        "assets/flora/gojiBerry.webp"
       ],
       "byproducts": [
         "goji berry",
@@ -288,7 +288,7 @@
     },
     "redCurrant": {
       "image": [
-        "assets/creatures/redCurrant.webp"
+        "assets/flora/redCurrant.webp"
       ],
       "byproducts": [
         "red currant seedling"
@@ -301,7 +301,7 @@
     },
     "strawberry": {
       "image": [
-        "assets/creatures/strawberry.webp"
+        "assets/flora/strawberry.webp"
       ],
       "byproducts": [
         "strawberry",
@@ -315,7 +315,7 @@
     },
     "lumineweaveTendril": {
       "image": [
-        "assets/creatures/lumineweaveTendril.webp"
+        "assets/flora/lumineweaveTendril.webp"
       ],
       "byproducts": [
         "neon",
@@ -329,7 +329,7 @@
     },
     "pumpkin": {
       "image": [
-        "assets/creatures/pumpkin.webp"
+        "assets/flora/pumpkin.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -338,7 +338,7 @@
     },
     "spirae": {
       "image": [
-        "assets/creatures/spirae.webp"
+        "assets/flora/spirae.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -347,7 +347,7 @@
     },
     "funnelPlant": {
       "image": [
-        "assets/creatures/funnelPlant.webp"
+        "assets/flora/funnelPlant.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -356,7 +356,7 @@
     },
     "pampasGrass": {
       "image": [
-        "assets/creatures/pampasGrass.webp"
+        "assets/flora/pampasGrass.webp"
       ],
       "byproducts": [
         "pampas grass seedling"
@@ -369,7 +369,7 @@
     },
     "blueEmberbloomTorch": {
       "image": [
-        "assets/creatures/blueEmberbloomTorch.webp"
+        "assets/flora/blueEmberbloomTorch.webp"
       ],
       "byproducts": [
         "blue emberbloom torch seedling"
@@ -382,7 +382,7 @@
     },
     "tearLeafBush": {
       "image": [
-        "assets/creatures/tearLeafBush.webp"
+        "assets/flora/tearLeafBush.webp"
       ],
       "byproducts": [
         "tear leaf bush seedling"
@@ -395,7 +395,7 @@
     },
     "dragonLeaf": {
       "image": [
-        "assets/creatures/dragonLeaf.webp"
+        "assets/flora/dragonLeaf.webp"
       ],
       "byproducts": [
         "dragon leaf seedling"
@@ -408,7 +408,7 @@
     },
     "youngFern": {
       "image": [
-        "assets/creatures/youngFern.webp"
+        "assets/flora/youngFern.webp"
       ],
       "byproducts": [
         "young fern seedling"
@@ -421,7 +421,7 @@
     },
     "smallBlueEmberbloomTorch": {
       "image": [
-        "assets/creatures/smallBlueEmberbloomTorch.webp"
+        "assets/flora/smallBlueEmberbloomTorch.webp"
       ],
       "byproducts": [
         "small blue emberbloom torch seedling"
@@ -434,7 +434,7 @@
     },
     "pitcherPlant": {
       "image": [
-        "assets/creatures/pitcherPlant.webp"
+        "assets/flora/pitcherPlant.webp"
       ],
       "byproducts": [
         "pitcher plant seedling"
@@ -448,7 +448,7 @@
     },
     "verdarkCone": {
       "image": [
-        "assets/creatures/verdarkCone.webp"
+        "assets/flora/verdarkCone.webp"
       ],
       "byproducts": [
         "tin",
@@ -463,7 +463,7 @@
     },
     "ornamentalPalm": {
       "image": [
-        "assets/creatures/ornamentalPalm.webp"
+        "assets/flora/ornamentalPalm.webp"
       ],
       "byproducts": [
         "ornamental palm seedling"
@@ -476,7 +476,7 @@
     },
     "hexavineSpire": {
       "image": [
-        "assets/creatures/hexavineSpire.webp"
+        "assets/flora/hexavineSpire.webp"
       ],
       "byproducts": [
         "magnetized iron",
@@ -490,7 +490,7 @@
     },
     "bromeliad": {
       "image": [
-        "assets/creatures/bromeliad.webp"
+        "assets/flora/bromeliad.webp"
       ],
       "byproducts": [
         "bromeliad seedling"
@@ -503,7 +503,7 @@
     },
     "hosta": {
       "image": [
-        "assets/creatures/hosta.webp"
+        "assets/flora/hosta.webp"
       ],
       "byproducts": [
         "hosta seedling"
@@ -516,7 +516,7 @@
     },
     "elephantEar": {
       "image": [
-        "assets/creatures/elephantEar.webp"
+        "assets/flora/elephantEar.webp"
       ],
       "byproducts": [
         "elephant ear seedling"
@@ -529,7 +529,7 @@
     },
     "fanPalm": {
       "image": [
-        "assets/creatures/fanPalm.webp"
+        "assets/flora/fanPalm.webp"
       ],
       "byproducts": [
         "fan palm seedling"
@@ -542,7 +542,7 @@
     },
     "giantLandLily": {
       "image": [
-        "assets/creatures/giantLandLily.webp"
+        "assets/flora/giantLandLily.webp"
       ],
       "byproducts": [
         "giant land lily seedling"
@@ -555,7 +555,7 @@
     },
     "dracaenaFragrans": {
       "image": [
-        "assets/creatures/dracaenaFragrans.webp"
+        "assets/flora/dracaenaFragrans.webp"
       ],
       "byproducts": [
         "dracaena fragrans seedling"
@@ -568,7 +568,7 @@
     },
     "leafyBush": {
       "image": [
-        "assets/creatures/leafyBush.webp"
+        "assets/flora/leafyBush.webp"
       ],
       "byproducts": [
         "leafy bush seedling"
@@ -581,7 +581,7 @@
     },
     "skunkCabbage": {
       "image": [
-        "assets/creatures/skunkCabbage.webp"
+        "assets/flora/skunkCabbage.webp"
       ],
       "byproducts": [
         "skunk cabbage seedling"
@@ -596,7 +596,7 @@
   "mushrooms": {
     "darkWizard": {
       "image": [
-        "assets/creatures/darkWizard.webp"
+        "assets/flora/darkWizard.webp"
       ],
       "byproducts": [
         "alien mushroom chunk",
@@ -611,7 +611,7 @@
     },
     "witchsRinglet": {
       "image": [
-        "assets/creatures/witchsRinglet.webp"
+        "assets/flora/witchsRinglet.webp"
       ],
       "byproducts": [
         "nitrogen",
@@ -626,7 +626,7 @@
     },
     "brimmedBonnet": {
       "image": [
-        "assets/creatures/brimmedBonnet.webp"
+        "assets/flora/brimmedBonnet.webp"
       ],
       "byproducts": [
         "xenon",
@@ -641,7 +641,7 @@
     },
     "lilacDandy": {
       "image": [
-        "assets/creatures/lilacDandy.webp"
+        "assets/flora/lilacDandy.webp"
       ],
       "byproducts": [
         "radon",
@@ -656,7 +656,7 @@
     },
     "blushingBonnet": {
       "image": [
-        "assets/creatures/blushingBonnet.webp"
+        "assets/flora/blushingBonnet.webp"
       ],
       "byproducts": [
         "ammonia",
@@ -670,7 +670,7 @@
     },
     "goldenPoplar": {
       "image": [
-        "assets/creatures/goldenPoplar.webp"
+        "assets/flora/goldenPoplar.webp"
       ],
       "byproducts": [
         "golden poplar chunk",
@@ -684,7 +684,7 @@
     },
     "kingStropheria": {
       "image": [
-        "assets/creatures/kingStropheria.webp"
+        "assets/flora/kingStropheria.webp"
       ],
       "byproducts": [
         "king stropheria chunk",
@@ -698,7 +698,7 @@
     },
     "brownShimeji": {
       "image": [
-        "assets/creatures/brownShimeji.webp"
+        "assets/flora/brownShimeji.webp"
       ],
       "byproducts": [
         "brown shimeji chunk",
@@ -712,7 +712,7 @@
     },
     "amanita": {
       "image": [
-        "assets/creatures/amanita.webp"
+        "assets/flora/amanita.webp"
       ],
       "byproducts": [
         "amanita chunk",
@@ -726,7 +726,7 @@
     },
     "chanterelle": {
       "image": [
-        "assets/creatures/chanterelle.webp"
+        "assets/flora/chanterelle.webp"
       ],
       "byproducts": [
         "chanterelle chunk",
@@ -740,7 +740,7 @@
     },
     "fairyMorel": {
       "image": [
-        "assets/creatures/fairyMorel.webp"
+        "assets/flora/fairyMorel.webp"
       ],
       "byproducts": [
         "fairy morel chunk",
@@ -751,12 +751,175 @@
       ],
       "preferredClimate": [],
       "videos": []
+    },
+    "agave": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "aloe": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticLupine": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticPoppy": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticRush": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "besomeScrub": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bostonFern": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bourvardia": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "campanula": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "cordyline": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "creosote": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ilima": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mangrovePalm": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mizudashi": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "monstera": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "paradisePlant": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "sagebrush": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    }
+  },
+  "cacti": {
+    "barrelCactus": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "organPipeCactus": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pricklyPear": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "saguaroCactus": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "varA": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "varB": {
+      "image": [],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
     }
   },
   "trees": {
     "blueVeil": {
       "image": [
-        "assets/creatures/blueVeil.webp"
+        "assets/flora/blueVeil.webp"
       ],
       "byproducts": [
         "radon",
@@ -770,7 +933,7 @@
     },
     "lunarethTree": {
       "image": [
-        "assets/creatures/lunarethTree.webp"
+        "assets/flora/lunarethTree.webp"
       ],
       "byproducts": [
         "xenon",
@@ -786,7 +949,7 @@
     },
     "alpine": {
       "image": [
-        "assets/creatures/alpine.webp"
+        "assets/flora/alpine.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -795,7 +958,7 @@
     },
     "bamboo": {
       "image": [
-        "assets/creatures/bamboo.webp"
+        "assets/flora/bamboo.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -804,7 +967,7 @@
     },
     "banyanTree": {
       "image": [
-        "assets/creatures/banyanTree.webp"
+        "assets/flora/banyanTree.webp"
       ],
       "byproducts": [
         "light hard wood"
@@ -817,7 +980,7 @@
     },
     "beechTree": {
       "image": [
-        "assets/creatures/beechTree.webp"
+        "assets/flora/beechTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -826,7 +989,7 @@
     },
     "elmTree": {
       "image": [
-        "assets/creatures/elmTree.webp"
+        "assets/flora/elmTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -835,7 +998,7 @@
     },
     "joshuaTree": {
       "image": [
-        "assets/creatures/joshuaTree.webp"
+        "assets/flora/joshuaTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -844,7 +1007,7 @@
     },
     "lemonTree": {
       "image": [
-        "assets/creatures/lemonTree.webp"
+        "assets/flora/lemonTree.webp"
       ],
       "byproducts": [
         "light hard wood"
@@ -857,7 +1020,7 @@
     },
     "limeTree": {
       "image": [
-        "assets/creatures/limeTree.webp"
+        "assets/flora/limeTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -866,7 +1029,7 @@
     },
     "pangloriaBloom": {
       "image": [
-        "assets/creatures/pangloriaBloom.webp"
+        "assets/flora/pangloriaBloom.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -875,7 +1038,7 @@
     },
     "podwalker": {
       "image": [
-        "assets/creatures/podwalker.webp"
+        "assets/flora/podwalker.webp"
       ],
       "byproducts": [
         "dark soft wood"
@@ -888,7 +1051,7 @@
     },
     "sporePodTree": {
       "image": [
-        "assets/creatures/sporePodTree.webp"
+        "assets/flora/sporePodTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -897,7 +1060,7 @@
     },
     "stripedMapleTree": {
       "image": [
-        "assets/creatures/stripedMapleTree.webp"
+        "assets/flora/stripedMapleTree.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -906,8 +1069,15 @@
     },
     "willowTree": {
       "image": [
-        "assets/creatures/willowTree.webp"
+        "assets/flora/willowTree.webp"
       ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bananaTree": {
+      "image": [],
       "byproducts": [],
       "planets": [],
       "preferredClimate": [],
