@@ -3,161 +3,161 @@
     "gravMesh": [
       {
         "Material": "rareGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "rareMetal",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "15"
       },
       {
         "Material": "antiGravium",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "instaformer": [
       {
         "Material": "commonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "omniblaster": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "rareGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "pathfinder": [
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "commonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "trailblazer": [
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "uncommonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "companionOrbs": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "rareMetal",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "rareGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "fabricator": [
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "reactiveGas",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "fortressShield": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "rareGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "20"
       }
     ],
     "grapple": [
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "uncommonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "gravityGun": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "rareMetal",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "reactiveGas",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "antimatter",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "harvester": [
@@ -181,47 +181,47 @@
     "healix": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "reactiveGas",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "paver": [
       {
         "Material": "veryCommonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "commonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "reflectionShield": [
       {
         "Material": "uncommonMetal",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "uncommonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "metalAlloy",
-        "Quantity": "0"
+        "Quantity": "20"
       },
       {
         "Material": "antiGravium",
-        "Quantity": "0"
+        "Quantity": "10"
       }
     ],
     "terraformer": [
@@ -245,15 +245,15 @@
     "xyloslicer": [
       {
         "Material": "commonMetal",
-        "Quantity": "0"
+        "Quantity": "25"
       },
       {
         "Material": "commonGem",
-        "Quantity": "0"
+        "Quantity": "10"
       },
       {
         "Material": "plastic",
-        "Quantity": "0"
+        "Quantity": "15"
       }
     ],
     "depositor": [
@@ -384,6 +384,228 @@
       {
         "Material": "darkWoodPlanking",
         "Quantity": "15"
+      }
+    ],
+    "trowel": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "15"
+      },
+      {
+        "Material": "reactiveGas",
+        "Quantity": "5"
+      },
+      {
+        "Material": "metalAlloy",
+        "Quantity": "10"
+      }
+    ],
+    "tiller": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "15"
+      },
+      {
+        "Material": "commonGem",
+        "Quantity": "5"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
+    ],
+    "thermalMeter": [
+      {
+        "Material": "commonMetal",
+        "Quantity": "15"
+      },
+      {
+        "Material": "commonGem",
+        "Quantity": "10"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
+    ],
+    "hydroMeter": [
+      {
+        "Material": "commonMetal",
+        "Quantity": "15"
+      },
+      {
+        "Material": "inertGas",
+        "Quantity": "10"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
+    ],
+    "growthPod": [
+      {
+        "Material": "commonMetal",
+        "Quantity": "15"
+      },
+      {
+        "Material": "inertGas",
+        "Quantity": "10"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
+    ],
+    "gardenBed": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "10"
+      },
+      {
+        "Material": "wood",
+        "Quantity": "10"
+      }
+    ],
+    "beacon": [
+      {
+        "Material": "rareMetal",
+        "Quantity": "20"
+      },
+      {
+        "Material": "inertGas",
+        "Quantity": "10"
+      },
+      {
+        "Material": "plastic",
+        "Quantity": "10"
+      }
+    ],
+    "droneLight": [
+      {
+        "Material": "commonMetal",
+        "Quantity": "10"
+      },
+      {
+        "Material": "reactiveGas",
+        "Quantity": "5"
+      }
+    ],
+    "titleSelect": [
+      {
+        "Material": "metal",
+        "Quantity": "5"
+      }
+    ],
+    "campKit": [
+      {
+        "Material": "veryCommonMetal",
+        "Quantity": "30"
+      },
+      {
+        "Material": "gemstone",
+        "Quantity": "15"
+      }
+    ]
+  },
+  "stove": {
+    "focusBooster": [
+      {
+        "Material": "fruit",
+        "Quantity": "15"
+      }
+    ],
+    "healthBooster": [
+      {
+        "Material": "meat",
+        "Quantity": "15"
+      }
+    ],
+    "staminaBooster": [
+      {
+        "Material": "fungus",
+        "Quantity": "15"
+      }
+    ],
+    "powerCell": [
+      {
+        "Material": "reactiveGas",
+        "Quantity": "10"
+      },
+      {
+        "Material": "commonMetal",
+        "Quantity": "5"
+      }
+    ],
+    "cureAll": [
+      {
+        "Material": "fungus",
+        "Quantity": "10"
+      },
+      {
+        "Material": "oil",
+        "Quantity": "5"
+      }
+    ],
+    "flameOut": [
+      {
+        "Material": "fruit",
+        "Quantity": "10"
+      },
+      {
+        "Material": "inertGas",
+        "Quantity": "5"
+      }
+    ],
+    "fruitJam": [
+      {
+        "Material": "fruit",
+        "Quantity": "10"
+      }
+    ],
+    "goJuice": [
+      {
+        "Material": "fruit",
+        "Quantity": "10"
+      },
+      {
+        "Material": "UAl",
+        "Quantity": "5"
+      }
+    ],
+    "meatKabob": [
+      {
+        "Material": "meat",
+        "Quantity": "10"
+      }
+    ],
+    "mushroomPatty": [
+      {
+        "Material": "fungus",
+        "Quantity": "10"
+      }
+    ],
+    "thawBones": [
+      {
+        "Material": "fruit",
+        "Quantity": "10"
+      },
+      {
+        "Material": "cactusFiber",
+        "Quantity": "5"
+      }
+    ],
+    "powerCell": [
+      {
+        "Material": "oil",
+        "Quantity": "5"
+      },
+      {
+        "Material": "brass",
+        "Quantity": "5"
+      },
+      {
+        "Material": "electrum",
+        "Quantity": "5"
       }
     ]
   },
