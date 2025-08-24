@@ -26658,6 +26658,17 @@
                 },
                 {
                     "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        725,
+                        607,
+                        377,
+                        116
+                    ],
+                    "Source": "Hare"
+                },
+                {
+                    "notes": "",
                     "Planet": "Baracatis III",
                     "pqrv": [
                         750,
