@@ -591,6 +591,159 @@
       ],
       "preferredClimate": [],
       "videos": []
+    },
+    "agave": {
+      "image": [
+        "assets/flora/agave.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "aloe": {
+      "image": [
+        "assets/flora/aloe.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticLupine": {
+      "image": [
+        "assets/flora/arcticLupine.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticPoppy": {
+      "image": [
+        "assets/flora/arcticPoppy.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticRush": {
+      "image": [
+        "assets/flora/arcticRush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "besomeScrub": {
+      "image": [
+        "assets/flora/besomeScrub.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bostonFern": {
+      "image": [
+        "assets/flora/bostonFern.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bourvardia": {
+      "image": [
+        "assets/flora/bourvardia.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "campanula": {
+      "image": [
+        "assets/flora/campanula.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "cordyline": {
+      "image": [
+        "assets/flora/cordyline.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "creosote": {
+      "image": [
+        "assets/flora/creosote.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ilima": {
+      "image": [
+        "assets/flora/ilima.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mangrovePalm": {
+      "image": [
+        "assets/flora/mangrovePalm.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mizudashi": {
+      "image": [
+        "assets/flora/mizudashi.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "monstera": {
+      "image": [
+        "assets/flora/monstera.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "paradisePlant": {
+      "image": [
+        "assets/flora/paradisePlant.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "sagebrush": {
+      "image": [
+        "assets/flora/sagebrush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
     }
   },
   "mushrooms": {
@@ -749,159 +902,6 @@
       "planets": [
         "Baracatis III"
       ],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "agave": {
-      "image": [
-        "assets/flora/agave.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "aloe": {
-      "image": [
-        "assets/flora/aloe.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "arcticLupine": {
-      "image": [
-        "assets/flora/arcticLupine.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "arcticPoppy": {
-      "image": [
-        "assets/flora/arcticPoppy.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "arcticRush": {
-      "image": [
-        "assets/flora/arcticRush.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "besomeScrub": {
-      "image": [
-        "assets/flora/besomeScrub.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "bostonFern": {
-      "image": [
-        "assets/flora/bostonFern.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "bourvardia": {
-      "image": [
-        "assets/flora/bourvardia.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "campanula": {
-      "image": [
-        "assets/flora/campanula.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "cordyline": {
-      "image": [
-        "assets/flora/cordyline.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "creosote": {
-      "image": [
-        "assets/flora/creosote.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "ilima": {
-      "image": [
-        "assets/flora/ilima.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "mangrovePalm": {
-      "image": [
-        "assets/flora/mangrovePalm.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "mizudashi": {
-      "image": [
-        "assets/flora/mizudashi.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "monstera": {
-      "image": [
-        "assets/flora/monstera.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "paradisePlant": {
-      "image": [
-        "assets/flora/paradisePlant.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
-      "preferredClimate": [],
-      "videos": []
-    },
-    "sagebrush": {
-      "image": [
-        "assets/flora/sagebrush.webp"
-      ],
-      "byproducts": [],
-      "planets": [],
       "preferredClimate": [],
       "videos": []
     }
