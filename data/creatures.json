@@ -247,8 +247,14 @@
       "image": [
         "assets/creatures/raindeer.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "jade",
+        "hide"
+      ],
+      "planets": [
+        "Herastag",
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -729,9 +735,16 @@
       "type": ""
     },
     "razorbeak": {
-      "image": [],
-      "byproducts": [],
-      "planets": [],
+      "image": [
+        "assets/creatures/razorbeak.webp"
+      ],
+      "byproducts": [
+        "bone"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Kirogen (WW)"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
