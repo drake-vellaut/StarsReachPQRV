@@ -4,12 +4,8 @@
       "image": [
         "assets/creatures/ballhive.webp"
       ],
-      "byproducts": [
-        "horn"
-      ],
-      "planets": [
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -28,12 +24,8 @@
       "image": [
         "assets/creatures/scatterhive.webp"
       ],
-      "byproducts": [
-        "horn"
-      ],
-      "planets": [
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -104,13 +96,8 @@
       "image": [
         "assets/creatures/brutehog.webp"
       ],
-      "byproducts": [
-        "helium"
-      ],
-      "planets": [
-        "Space",
-        "Kirogen (WW)"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -119,14 +106,8 @@
       "image": [
         "assets/creatures/chuckerhog.webp"
       ],
-      "byproducts": [
-        "zircon",
-        "helium"
-      ],
-      "planets": [
-        "Akacala",
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -287,13 +268,8 @@
       "image": [
         "assets/creatures/banedeer.webp"
       ],
-      "byproducts": [
-        "hide"
-      ],
-      "planets": [
-        "Baracatis III",
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -304,12 +280,8 @@
       "image": [
         "assets/creatures/jackalope.webp"
       ],
-      "byproducts": [
-        "bone"
-      ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -318,12 +290,8 @@
       "image": [
         "assets/creatures/hare.webp"
       ],
-      "byproducts": [
-        "bone"
-      ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -332,13 +300,8 @@
       "image": [
         "assets/creatures/coney.webp"
       ],
-      "byproducts": [
-        "bone"
-      ],
-      "planets": [
-        "Akacala",
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -389,13 +352,8 @@
       "image": [
         "assets/creatures/prowler.webp"
       ],
-      "byproducts": [
-        "hide"
-      ],
-      "planets": [
-        "Kirogen (WW)",
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -439,12 +397,8 @@
       "image": [
         "assets/creatures/wildcat.webp"
       ],
-      "byproducts": [
-        "hide"
-      ],
-      "planets": [
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -475,13 +429,8 @@
       "image": [
         "assets/creatures/skyshark.webp"
       ],
-      "byproducts": [
-        "radon"
-      ],
-      "planets": [
-        "Akacala",
-        "Kirogen (WW)"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -514,8 +463,7 @@
         "radon"
       ],
       "planets": [
-        "Akacala",
-        "Kirogen (WW)"
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -555,12 +503,8 @@
       "image": [
         "assets/creatures/spittershark.webp"
       ],
-      "byproducts": [
-        "sapphire"
-      ],
-      "planets": [
-        "Kirogen (WW)"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -761,12 +705,8 @@
       "image": [
         "assets/creatures/thunderhoof.webp"
       ],
-      "byproducts": [
-        "hide"
-      ],
-      "planets": [
-        "Kirogen (WW)"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""

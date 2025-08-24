@@ -3126,7 +3126,7 @@
     },
     "wood": {
         "lightWood": {
-            "lightHardWood": [
+            "Light Hard Wood": [
                 {
                     "notes": "",
                     "Planet": "Akacala",
@@ -3172,7 +3172,7 @@
                     "Source": "Banyan Tree"
                 }
             ],
-            "lightSoftWood": [
+            "Light Soft Wood": [
                 {
                     "notes": "",
                     "Planet": "Akacala",
@@ -3187,7 +3187,7 @@
             ]
         },
         "darkWood": {
-            "darkSoftWood": [
+            "Dark Soft Wood": [
                 {
                     "notes": "",
                     "Planet": "Akacala",

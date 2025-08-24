@@ -107,10 +107,12 @@
         "assets/flora/purpleEmberbloomTorch.webp"
       ],
       "byproducts": [
-        "purple emberbloom torch seedling"
+        "purple emberbloom torch seedling",
+        "ammonia"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -133,10 +135,12 @@
         "assets/flora/orangeEmberbloomTorch.webp"
       ],
       "byproducts": [
-        "orange emberbloom torch seedling"
+        "orange emberbloom torch seedling",
+        "ammonia"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -322,7 +326,9 @@
         "lumineweave tendril seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala",
+        "Kirogen (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -372,10 +378,12 @@
         "assets/flora/blueEmberbloomTorch.webp"
       ],
       "byproducts": [
-        "blue emberbloom torch seedling"
+        "blue emberbloom torch seedling",
+        "ammonia"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -424,10 +432,12 @@
         "assets/flora/smallBlueEmberbloomTorch.webp"
       ],
       "byproducts": [
-        "small blue emberbloom torch seedling"
+        "small blue emberbloom torch seedling",
+        "ammonia"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -480,10 +490,14 @@
       ],
       "byproducts": [
         "magnetized iron",
-        "hexavine spires seedling"
+        "hexavine spires seedling",
+        "chlorine"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala",
+        "Herastag",
+        "Kirogen (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -584,10 +598,12 @@
         "assets/flora/skunkCabbage.webp"
       ],
       "byproducts": [
-        "skunk cabbage seedling"
+        "skunk cabbage seedling",
+        "methane"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -754,10 +770,12 @@
       "byproducts": [
         "alien mushroom chunk",
         "dark wizard seedling",
-        "antimatter gas"
+        "antimatter gas",
+        "salt"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -772,7 +790,8 @@
         "witchs ringlet seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -787,7 +806,8 @@
         "brimmed bonnet seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -813,10 +833,12 @@
       ],
       "byproducts": [
         "ammonia",
-        "alien mushroom chunk"
+        "alien mushroom chunk",
+        "salt"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
