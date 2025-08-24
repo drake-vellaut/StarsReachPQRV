@@ -1316,7 +1316,7 @@
     ],
     "Nickel": [
       {
-        "Material": "pendlandite",
+        "Material": "pentlandite",
         "Quantity": "0"
       }
     ],
@@ -1382,7 +1382,7 @@
         "Quantity": "0"
       }
     ],
-    "Pendlandite": [
+    "Pentlandite": [
       [
         {
           "Material": "laterite soil",
