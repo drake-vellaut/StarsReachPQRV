@@ -255,7 +255,7 @@
         "Herastag",
         "Akacala"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Salt"],
       "videos": [],
       "type": ""
     },
@@ -300,7 +300,7 @@
         "Baracatis III",
         "Herastag"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Salt"],
       "videos": [],
       "type": ""
     }
@@ -331,7 +331,7 @@
         "Baracatis III",
         "Akacala"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Chanterelle Stock"],
       "videos": [],
       "type": ""
     },
@@ -346,7 +346,7 @@
         "Akacala",
         "Baracatis III"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Chanterelle Chunk"],
       "videos": [],
       "type": ""
     },
@@ -403,7 +403,7 @@
         "Kirogen (WW)",
         "Herastag"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Raw Herbivore Meat"],
       "videos": [],
       "type": ""
     },
@@ -428,7 +428,7 @@
       ],
       "byproducts": [],
       "planets": [],
-      "preferredFood": [],
+      "preferredFood": ["Raw Herbivore Meat"],
       "videos": [],
       "type": ""
     },
@@ -452,7 +452,7 @@
       "planets": [
         "Herastag"
       ],
-      "preferredFood": [],
+      "preferredFood": ["Raw Herbivore Meat"],
       "videos": [],
       "type": ""
     },
