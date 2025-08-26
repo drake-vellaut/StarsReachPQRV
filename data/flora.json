@@ -982,6 +982,24 @@
       "planets": [],
       "preferredClimate": [],
       "videos": []
+    },
+    "lumipora": {
+      "image": [
+        "assets/flora/lumipora.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "cactus": {
+      "image": [
+        "assets/flora/cactus.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
     }
   },
   "trees": {

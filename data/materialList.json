@@ -1372,6 +1372,17 @@
             577,
             330
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            741,
+            418,
+            635,
+            148
+          ],
+          "Source": "Spore Pod Tree"
         }
       ],
       "Chlorine": [
@@ -6252,6 +6263,19 @@
           469
         ]
       }
+    ],
+    "Cactus Fruit": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          763,
+          695,
+          163,
+          461
+        ],
+        "Source": "Prickly Pear"
+      }
     ]
   },
   "Galena": {
@@ -7256,6 +7280,32 @@
           171,
           159
         ]
+      }
+    ],
+    "Lumipora Root Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          760,
+          148,
+          720,
+          605
+        ],
+        "Source": "Lumipora"
+      }
+    ],
+    "Flowering Cactus Root Stock": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          844,
+          112,
+          601,
+          635
+        ],
+        "Source": "Flowering Cactus"
       }
     ]
   },
@@ -8297,6 +8347,110 @@
           803,
           507
         ]
+      }
+    ],
+    "Aloe Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          123,
+          405,
+          520,
+          638
+        ],
+        "Source": "Aloe"
+      }
+    ],
+    "Pumpkin": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          748,
+          576,
+          362,
+          519
+        ],
+        "Source": "Pumpkin"
+      }
+    ],
+    "Spirae": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          663,
+          457,
+          700,
+          330
+        ],
+        "Source": "Spirae"
+      }
+    ],
+    "Funnel Plant Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          890,
+          288,
+          665,
+          466
+        ],
+        "Source": "Funnel Plant"
+      }
+    ],
+    "Bush Palm": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          623,
+          188,
+          127,
+          281
+        ],
+        "Source": "Bush Palm"
+      }
+    ],
+    "Creosote Bush Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          605,
+          230,
+          844,
+          193
+        ],
+        "Source": "Creosote Bush"
+      }
+    ],
+    "Barrel Cactus Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          321,
+          255,
+          590,
+          521
+        ],
+        "Source": "Barrel Cactus"
+      }
+    ],
+    "Pineapple": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          642,
+          852,
+          694,
+          365
+        ],
+        "Source": "Pineapple"
       }
     ]
   },
@@ -27062,6 +27216,17 @@
             701
           ],
           "Source": "Kharvix"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            462,
+            531,
+            124,
+            713
+          ],
+          "Source": "Kharvix"
         }
       ]
     }
@@ -27079,6 +27244,45 @@
             780
           ],
           "Source": "Kharvix"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            385,
+            405,
+            530,
+            728
+          ],
+          "Source": "Kharvix"
+        }
+      ]
+    }
+  },
+  "plant": {
+    "fiber": {
+      "Cactus Fiber": [
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            658,
+            768,
+            180,
+            397
+          ],
+          "Source": "Cactus"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            625,
+            709,
+            285,
+            304
+          ],
+          "Source": "Flowering Cactus"
         }
       ]
     }
