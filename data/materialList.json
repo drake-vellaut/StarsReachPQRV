@@ -27049,6 +27049,38 @@
           "Source": "Ballhive"
         }
       ]
+    },
+    "meat": {
+      "Raw Insect Meat": [
+        {
+          "notes": "",
+          "Planet": "Miraskal III (WW)",
+          "pqrv": [
+            304,
+            592,
+            245,
+            701
+          ],
+          "Source": "Kharvix"
+        }
+      ]
+    }
+  },
+  "liquid": {
+    "nonWater": {
+      "Acid": [
+        {
+          "notes": "",
+          "Planet": "Miraskal III (WW)",
+          "pqrv": [
+            347,
+            536,
+            533,
+            780
+          ],
+          "Source": "Kharvix"
+        }
+      ]
     }
   }
 }

@@ -255,7 +255,9 @@
         "Herastag",
         "Akacala"
       ],
-      "preferredFood": ["Salt"],
+      "preferredFood": [
+        "Salt"
+      ],
       "videos": [],
       "type": ""
     },
@@ -300,7 +302,9 @@
         "Baracatis III",
         "Herastag"
       ],
-      "preferredFood": ["Salt"],
+      "preferredFood": [
+        "Salt"
+      ],
       "videos": [],
       "type": ""
     }
@@ -331,7 +335,9 @@
         "Baracatis III",
         "Akacala"
       ],
-      "preferredFood": ["Chanterelle Stock"],
+      "preferredFood": [
+        "Chanterelle Stock"
+      ],
       "videos": [],
       "type": ""
     },
@@ -346,7 +352,9 @@
         "Akacala",
         "Baracatis III"
       ],
-      "preferredFood": ["Chanterelle Chunk"],
+      "preferredFood": [
+        "Chanterelle Chunk"
+      ],
       "videos": [],
       "type": ""
     },
@@ -403,7 +411,26 @@
         "Kirogen (WW)",
         "Herastag"
       ],
-      "preferredFood": ["Raw Herbivore Meat"],
+      "preferredFood": [
+        "Raw Herbivore Meat"
+      ],
+      "videos": [],
+      "type": ""
+    },
+    "kharvix": {
+      "image": [
+        "assets/creatures/kharvix.webp"
+      ],
+      "byproducts": [
+        "raw insect meat",
+        "acid"
+      ],
+      "planets": [
+        "Miraskal III (WW)"
+      ],
+      "preferredFood": [
+        "Raw Carnivore Meat"
+      ],
       "videos": [],
       "type": ""
     },
@@ -428,7 +455,9 @@
       ],
       "byproducts": [],
       "planets": [],
-      "preferredFood": ["Raw Herbivore Meat"],
+      "preferredFood": [
+        "Raw Herbivore Meat"
+      ],
       "videos": [],
       "type": ""
     },
@@ -452,7 +481,9 @@
       "planets": [
         "Herastag"
       ],
-      "preferredFood": ["Raw Herbivore Meat"],
+      "preferredFood": [
+        "Raw Herbivore Meat"
+      ],
       "videos": [],
       "type": ""
     },
