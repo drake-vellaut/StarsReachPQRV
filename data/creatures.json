@@ -426,7 +426,8 @@
         "acid"
       ],
       "planets": [
-        "Miraskal III (WW)"
+        "Miraskal III (WW)",
+        "Akacala"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -528,8 +529,14 @@
       "image": [
         "assets/creatures/blastaria.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lapis lazuli",
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -538,8 +545,13 @@
       "image": [
         "assets/creatures/caustisect.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -563,8 +575,13 @@
       "image": [
         "assets/creatures/midge.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -573,8 +590,13 @@
       "image": [
         "assets/creatures/roach.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -657,8 +679,14 @@
       "image": [
         "assets/creatures/coldFishun.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "vesuvianite",
+        "xenon",
+        "raw avian meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -687,8 +715,13 @@
       "image": [
         "assets/creatures/hypermaw.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "vesuvianite",
+        "raw avian meat"
+      ],
+      "planets": [
+        "Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""

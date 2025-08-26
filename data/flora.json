@@ -337,8 +337,12 @@
       "image": [
         "assets/flora/pumpkin.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "pumpkin"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -346,8 +350,12 @@
       "image": [
         "assets/flora/spirae.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "spirae"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -355,8 +363,12 @@
       "image": [
         "assets/flora/funnelPlant.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "funnel plant seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -621,8 +633,12 @@
       "image": [
         "assets/flora/aloe.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "aloe seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -758,6 +774,45 @@
       ],
       "byproducts": [],
       "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "fragrantFern": {
+      "image": [
+        "assets/flora/fragrantFern.webp"
+      ],
+      "byproducts": [
+        "fragrant fern"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pineapple": {
+      "image": [
+        "assets/flora/pineapple.webp"
+      ],
+      "byproducts": [
+        "pineapple"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bushPalm": {
+      "image": [
+        "assets/flora/bushPalm.webp"
+      ],
+      "byproducts": [
+        "bush palm"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     }
@@ -933,8 +988,12 @@
       "image": [
         "assets/flora/barrelCactus.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "barrel cactus seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -951,8 +1010,12 @@
       "image": [
         "assets/flora/pricklyPear.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "cactus fruit"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -987,8 +1050,12 @@
       "image": [
         "assets/flora/lumipora.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lumipora root stock"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -996,8 +1063,12 @@
       "image": [
         "assets/flora/cactus.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "cactus fiber"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     }
@@ -1139,8 +1210,12 @@
       "image": [
         "assets/flora/sporePodTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "methane"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },

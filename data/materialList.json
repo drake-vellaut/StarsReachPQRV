@@ -554,6 +554,17 @@
             407,
             335
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            580,
+            702,
+            291,
+            311
+          ],
+          "Source": "Blastaria"
         }
       ],
       "Turquoise": [
@@ -1174,6 +1185,28 @@
             733,
             605
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            384,
+            577,
+            733,
+            605
+          ],
+          "Source": "Cold Fishun"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            384,
+            577,
+            733,
+            605
+          ],
+          "Source": "Hypermaw"
         }
       ],
       "Armorcryst": []
@@ -1625,6 +1658,17 @@
             344
           ],
           "Source": "Brimmed Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            703,
+            696,
+            370,
+            231
+          ],
+          "Source": "Cold Fishun"
         }
       ],
       "Nitrogen": [
@@ -7534,6 +7578,50 @@
           721,
           600
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          740,
+          501,
+          517,
+          385
+        ],
+        "Source": "Blastaria"
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          740,
+          501,
+          517,
+          385
+        ],
+        "Source": "Midge"
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          740,
+          501,
+          517,
+          385
+        ],
+        "Source": "Roach"
+      },
+      {
+        "notes": "",
+        "Planet": "Space",
+        "pqrv": [
+          740,
+          501,
+          517,
+          385
+        ],
+        "Source": "Caustisect"
       }
     ]
   },
@@ -8451,6 +8539,19 @@
           365
         ],
         "Source": "Pineapple"
+      }
+    ],
+    "Fragrant Fern": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          104,
+          197,
+          181,
+          473
+        ],
+        "Source": "Fragrant Fern"
       }
     ]
   },
@@ -27227,6 +27328,76 @@
             713
           ],
           "Source": "Kharvix"
+        }
+      ],
+      "Raw Shellfish Meat": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            158,
+            344,
+            741,
+            526
+          ],
+          "Source": "Blastaria"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            158,
+            344,
+            741,
+            526
+          ],
+          "Source": "Caustisect"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            158,
+            344,
+            741,
+            526
+          ],
+          "Source": "Midge"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            158,
+            344,
+            741,
+            526
+          ],
+          "Source": "Roach"
+        }
+      ],
+      "Raw Avian Meat": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            595,
+            409,
+            743,
+            448
+          ],
+          "Source": "Cold Fishun"
+        },
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            595,
+            409,
+            743,
+            448
+          ],
+          "Source": "Hypermaw"
         }
       ]
     }
