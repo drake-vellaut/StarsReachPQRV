@@ -1,5 +1,14 @@
 {
   "bushes": {
+    "lily": {
+      "image": [
+        "assets/flora/lily.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "yellowBellflower": {
       "image": [
         "assets/flora/yellowBellflower.webp"
@@ -803,9 +812,9 @@
       "preferredClimate": [],
       "videos": []
     },
-    "creosote": {
+    "creosoteBush": {
       "image": [
-        "assets/flora/creosote.webp"
+        "assets/flora/creosoteBush.webp"
       ],
       "byproducts": [],
       "planets": [],
@@ -1087,6 +1096,15 @@
     }
   },
   "cacti": {
+    "floweringCactus": {
+      "image": [
+        "assets/flora/floweringCactus.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "barrelCactus": {
       "image": [
         "assets/flora/barrelCactus.webp"
@@ -1178,6 +1196,24 @@
     }
   },
   "trees": {
+    "coconutTree": {
+      "image": [
+        "assets/flora/coconutTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ashTree": {
+      "image": [
+        "assets/flora/ashTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "duskleafTree": {
       "image": [
         "assets/flora/duskleafTree.webp"
@@ -1223,9 +1259,9 @@
       "preferredClimate": [],
       "videos": []
     },
-    "blueVeil": {
+    "blueVeilTree": {
       "image": [
-        "assets/flora/blueVeil.webp"
+        "assets/flora/blueVeilTree.webp"
       ],
       "byproducts": [
         "radon",
