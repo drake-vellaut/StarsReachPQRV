@@ -817,12 +817,18 @@
     }
   },
   "owldeers": {
-    "owldeeer": {
+    "owldeer": {
       "image": [
-        "assets/creatures/owldeeer.webp"
+        "assets/creatures/owldeer.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone",
+        "raw herbivore meat"
+      ],
+      "planets": [
+        "Kirogen (WW)",
+        "Tyragala II"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
