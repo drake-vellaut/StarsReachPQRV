@@ -13,8 +13,12 @@
       "image": [
         "assets/flora/kelp.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "kelp cutting"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -40,8 +44,12 @@
       "image": [
         "assets/flora/pinkBellflower.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "pink bellflower seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -53,7 +61,8 @@
         "pink daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -66,7 +75,8 @@
         "pink snapdragon seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -75,8 +85,12 @@
       "image": [
         "assets/flora/glowyDandelion.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "glowy dandelion seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -84,8 +98,12 @@
       "image": [
         "assets/flora/glowyRose.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "glowy rose seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -97,7 +115,8 @@
         "purple daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -112,7 +131,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -125,7 +145,8 @@
         "purple snapdragon seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -140,7 +161,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -153,7 +175,8 @@
         "red daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -166,7 +189,8 @@
         "teal bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -179,7 +203,8 @@
         "teal daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -192,7 +217,8 @@
         "teal snapdragon seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -214,7 +240,8 @@
         "white daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -223,8 +250,12 @@
       "image": [
         "assets/flora/whiteSnapdragon.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "white snapdragon seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -262,7 +293,8 @@
         "yellow snapdragon seedling"
       ],
       "planets": [
-        "Bacaratis III"
+        "Bacaratis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -285,7 +317,8 @@
         "goji berry seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -298,7 +331,8 @@
         "red currant seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -312,7 +346,8 @@
         "strawberry seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -328,7 +363,8 @@
       "planets": [
         "Baracatis III",
         "Akacala",
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -341,7 +377,8 @@
         "pumpkin"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -354,7 +391,8 @@
         "spirae"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -380,7 +418,8 @@
         "pampas grass seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -395,7 +434,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -408,7 +448,8 @@
         "tear leaf bush seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -434,7 +475,8 @@
         "young fern seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -449,7 +491,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -463,7 +506,8 @@
       ],
       "planets": [
         "Bacaratis III",
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -478,7 +522,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Bacaratis III"
+        "Bacaratis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -535,7 +580,8 @@
         "hosta seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -646,8 +692,12 @@
       "image": [
         "assets/flora/arcticLupine.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "arctic lupine seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -655,8 +705,12 @@
       "image": [
         "assets/flora/arcticPoppy.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "arctic poppy seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -664,8 +718,12 @@
       "image": [
         "assets/flora/arcticRush.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "arctic rush seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -700,8 +758,12 @@
       "image": [
         "assets/flora/campanula.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "campanula seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -830,7 +892,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -846,7 +909,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -858,11 +922,13 @@
       "byproducts": [
         "xenon",
         "alien mushroom chunk",
-        "brimmed bonnet seedling"
+        "brimmed bonnet seedling",
+        "salt"
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -874,10 +940,12 @@
       "byproducts": [
         "radon",
         "alien mushroom chunk",
-        "lilac dandy seedling"
+        "lilac dandy seedling",
+        "salt"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -889,11 +957,13 @@
       "byproducts": [
         "ammonia",
         "alien mushroom chunk",
-        "salt"
+        "salt",
+        "blushing bonnet seedling"
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -907,7 +977,8 @@
         "golden poplar stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -921,7 +992,8 @@
         "king stropheria stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -935,7 +1007,8 @@
         "brown shimeji stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -949,7 +1022,8 @@
         "amanita stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -963,7 +1037,8 @@
         "chanterelle stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -977,7 +1052,8 @@
         "fairy morel stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1054,7 +1130,8 @@
         "lumipora root stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1099,7 +1176,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1139,8 +1217,14 @@
       "image": [
         "assets/flora/beechTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "light hard wood",
+        "beech tree root stock"
+      ],
+      "planets": [
+        "Tyragala II",
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1148,8 +1232,13 @@
       "image": [
         "assets/flora/elmTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "light soft wood",
+        "elm tree root stock"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1223,8 +1312,13 @@
       "image": [
         "assets/flora/stripedMapleTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "light hard wood",
+        "striped maple tree root stock"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1232,8 +1326,13 @@
       "image": [
         "assets/flora/willowTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "light hard wood",
+        "willow tree root stock"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1247,7 +1346,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredClimate": [],
       "videos": []

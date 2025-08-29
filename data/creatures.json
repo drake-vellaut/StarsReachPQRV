@@ -18,8 +18,13 @@
       "image": [
         "assets/creatures/homingHive.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "horn",
+        "raw reptile meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -29,10 +34,12 @@
         "assets/creatures/scatterhive.webp"
       ],
       "byproducts": [
-        "horn"
+        "horn",
+        "raw reptile meat"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Baracatis III"
       ],
       "preferredFood": [],
       "videos": [],
@@ -329,11 +336,13 @@
         "assets/creatures/hare.webp"
       ],
       "byproducts": [
-        "bone"
+        "bone",
+        "raw herbivore meat"
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredFood": [
         "Chanterelle Stock"
@@ -346,11 +355,13 @@
         "assets/creatures/coney.webp"
       ],
       "byproducts": [
-        "bone"
+        "bone",
+        "raw herbivore meat"
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Tyragala II"
       ],
       "preferredFood": [
         "Chanterelle Chunk"
@@ -372,8 +383,13 @@
       "image": [
         "assets/creatures/velocirabbit.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "amethyst",
+        "hydrogen"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -382,8 +398,13 @@
       "image": [
         "assets/creatures/bouncingBunny.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "amethyst",
+        "hydrogen"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -427,7 +448,8 @@
       ],
       "planets": [
         "Miraskal III (WW)",
-        "Akacala"
+        "Akacala",
+        "Tyragala II"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -515,11 +537,13 @@
         "assets/creatures/skyshark.webp"
       ],
       "byproducts": [
-        "radon"
+        "radon",
+        "raw fish meat"
       ],
       "planets": [
         "Akacala",
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredFood": [],
       "videos": [],
@@ -561,11 +585,13 @@
         "assets/creatures/flyingFish.webp"
       ],
       "byproducts": [
-        "radon"
+        "radon",
+        "raw fish meat"
       ],
       "planets": [
         "Akacala",
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredFood": [],
       "videos": [],
@@ -616,10 +642,13 @@
         "assets/creatures/spittershark.webp"
       ],
       "byproducts": [
-        "sapphire"
+        "sapphire",
+        "radon",
+        "raw fish meat"
       ],
       "planets": [
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredFood": [],
       "videos": [],
@@ -803,11 +832,13 @@
         "assets/creatures/razorbeak.webp"
       ],
       "byproducts": [
-        "bone"
+        "bone",
+        "raw herbivore meat"
       ],
       "planets": [
         "Baracatis III",
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredFood": [],
       "videos": [],
@@ -827,8 +858,12 @@
       "image": [
         "assets/creatures/glacierhorn.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw herbivore meat"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -848,10 +883,13 @@
         "assets/creatures/thunderhoof.webp"
       ],
       "byproducts": [
-        "hide"
+        "hide",
+        "bone",
+        "raw herbivore meat"
       ],
       "planets": [
-        "Kirogen (WW)"
+        "Kirogen (WW)",
+        "Tyragala II"
       ],
       "preferredFood": [],
       "videos": [],
