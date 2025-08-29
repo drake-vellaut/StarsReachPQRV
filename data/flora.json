@@ -1,5 +1,32 @@
 {
   "bushes": {
+    "yellowBellflower": {
+      "image": [
+        "assets/flora/yellowBellflower.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "purpleBellflower": {
+      "image": [
+        "assets/flora/purpleBellflower.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "berryBush": {
+      "image": [
+        "assets/flora/berryBush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "amberCoral": {
       "image": [
         "assets/flora/amberCoral.webp"
@@ -1151,6 +1178,51 @@
     }
   },
   "trees": {
+    "duskleafTree": {
+      "image": [
+        "assets/flora/duskleafTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "poplarTree": {
+      "image": [
+        "assets/flora/poplarTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "aspenTree": {
+      "image": [
+        "assets/flora/aspenTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "oakTree": {
+      "image": [
+        "assets/flora/oakTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "papayaTree": {
+      "image": [
+        "assets/flora/papayaTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "blueVeil": {
       "image": [
         "assets/flora/blueVeil.webp"
@@ -1182,7 +1254,7 @@
       "preferredClimate": [],
       "videos": []
     },
-    "alpine": {
+    "alpineTree": {
       "image": [
         "assets/flora/alpine.webp"
       ],
