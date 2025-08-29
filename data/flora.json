@@ -781,6 +781,15 @@
       "preferredClimate": [],
       "videos": []
     },
+    "swordFern": {
+      "image": [
+        "assets/flora/swordFern.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
     "bourvardia": {
       "image": [
         "assets/flora/bourvardia.webp"
