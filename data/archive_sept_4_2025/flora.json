@@ -1,0 +1,1473 @@
+{
+  "bushes": {
+    "lily": {
+      "image": [
+        "assets/flora/lily.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "yellowBellflower": {
+      "image": [
+        "assets/flora/yellowBellflower.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "purpleBellflower": {
+      "image": [
+        "assets/flora/purpleBellflower.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "berryBush": {
+      "image": [
+        "assets/flora/berryBush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "amberCoral": {
+      "image": [
+        "assets/flora/amberCoral.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "kelp": {
+      "image": [
+        "assets/flora/kelp.webp"
+      ],
+      "byproducts": [
+        "kelp cutting"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "seaweed": {
+      "image": [
+        "assets/flora/seaweed.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "waterLily": {
+      "image": [
+        "assets/flora/waterLily.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pinkBellflower": {
+      "image": [
+        "assets/flora/pinkBellflower.webp"
+      ],
+      "byproducts": [
+        "pink bellflower seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pinkDaisy": {
+      "image": [
+        "assets/flora/pinkDaisy.webp"
+      ],
+      "byproducts": [
+        "pink daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pinkSnapdragon": {
+      "image": [
+        "assets/flora/pinkSnapdragon.webp"
+      ],
+      "byproducts": [
+        "pink snapdragon seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "glowyDandelion": {
+      "image": [
+        "assets/flora/glowyDandelion.webp"
+      ],
+      "byproducts": [
+        "glowy dandelion seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "glowyRose": {
+      "image": [
+        "assets/flora/glowyRose.webp"
+      ],
+      "byproducts": [
+        "glowy rose seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "purpleDaisy": {
+      "image": [
+        "assets/flora/purpleDaisy.webp"
+      ],
+      "byproducts": [
+        "purple daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "purpleEmberbloomTorch": {
+      "image": [
+        "assets/flora/purpleEmberbloomTorch.webp"
+      ],
+      "byproducts": [
+        "purple emberbloom torch seedling",
+        "ammonia"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "purpleSnapdragon": {
+      "image": [
+        "assets/flora/purpleSnapdragon.webp"
+      ],
+      "byproducts": [
+        "purple snapdragon seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "orangeEmberbloomTorch": {
+      "image": [
+        "assets/flora/orangeEmberbloomTorch.webp"
+      ],
+      "byproducts": [
+        "orange emberbloom torch seedling",
+        "ammonia"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "redDaisy": {
+      "image": [
+        "assets/flora/redDaisy.webp"
+      ],
+      "byproducts": [
+        "red daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "tealBellflower": {
+      "image": [
+        "assets/flora/tealBellflower.webp"
+      ],
+      "byproducts": [
+        "teal bellflower seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "tealDaisy": {
+      "image": [
+        "assets/flora/tealDaisy.webp"
+      ],
+      "byproducts": [
+        "teal daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "tealSnapdragon": {
+      "image": [
+        "assets/flora/tealSnapdragon.webp"
+      ],
+      "byproducts": [
+        "teal snapdragon seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "queenAnnesLace": {
+      "image": [
+        "assets/flora/queenAnnesLace.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "whiteDaisy": {
+      "image": [
+        "assets/flora/whiteDaisy.webp"
+      ],
+      "byproducts": [
+        "white daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "whiteSnapdragon": {
+      "image": [
+        "assets/flora/whiteSnapdragon.webp"
+      ],
+      "byproducts": [
+        "white snapdragon seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "goldBellflower": {
+      "image": [
+        "assets/flora/goldBellflower.webp"
+      ],
+      "byproducts": [
+        "gold bellflower seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "yellowDaisy": {
+      "image": [
+        "assets/flora/yellowDaisy.webp"
+      ],
+      "byproducts": [
+        "yellow daisy seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "yellowSnapdragon": {
+      "image": [
+        "assets/flora/yellowSnapdragon.webp"
+      ],
+      "byproducts": [
+        "yellow snapdragon seedling"
+      ],
+      "planets": [
+        "Bacaratis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "blueberryBush": {
+      "image": [
+        "assets/flora/blueberryBush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "gojiBerry": {
+      "image": [
+        "assets/flora/gojiBerry.webp"
+      ],
+      "byproducts": [
+        "goji berry",
+        "goji berry seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "redCurrant": {
+      "image": [
+        "assets/flora/redCurrant.webp"
+      ],
+      "byproducts": [
+        "red currant seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "strawberry": {
+      "image": [
+        "assets/flora/strawberry.webp"
+      ],
+      "byproducts": [
+        "strawberry",
+        "strawberry seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "lumineweaveTendril": {
+      "image": [
+        "assets/flora/lumineweaveTendril.webp"
+      ],
+      "byproducts": [
+        "neon",
+        "lumineweave tendril seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Kirogen (WW)",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pumpkin": {
+      "image": [
+        "assets/flora/pumpkin.webp"
+      ],
+      "byproducts": [
+        "pumpkin"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "spirae": {
+      "image": [
+        "assets/flora/spirae.webp"
+      ],
+      "byproducts": [
+        "spirae"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "funnelPlant": {
+      "image": [
+        "assets/flora/funnelPlant.webp"
+      ],
+      "byproducts": [
+        "funnel plant seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pampasGrass": {
+      "image": [
+        "assets/flora/pampasGrass.webp"
+      ],
+      "byproducts": [
+        "pampas grass seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "blueEmberbloomTorch": {
+      "image": [
+        "assets/flora/blueEmberbloomTorch.webp"
+      ],
+      "byproducts": [
+        "blue emberbloom torch seedling",
+        "ammonia"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "tearLeafBush": {
+      "image": [
+        "assets/flora/tearLeafBush.webp"
+      ],
+      "byproducts": [
+        "tear leaf bush seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "dragonLeaf": {
+      "image": [
+        "assets/flora/dragonLeaf.webp"
+      ],
+      "byproducts": [
+        "dragon leaf seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "youngFern": {
+      "image": [
+        "assets/flora/youngFern.webp"
+      ],
+      "byproducts": [
+        "young fern seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "smallBlueEmberbloomTorch": {
+      "image": [
+        "assets/flora/smallBlueEmberbloomTorch.webp"
+      ],
+      "byproducts": [
+        "small blue emberbloom torch seedling",
+        "ammonia"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pitcherPlant": {
+      "image": [
+        "assets/flora/pitcherPlant.webp"
+      ],
+      "byproducts": [
+        "pitcher plant seedling"
+      ],
+      "planets": [
+        "Bacaratis III",
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "verdarkCone": {
+      "image": [
+        "assets/flora/verdarkCone.webp"
+      ],
+      "byproducts": [
+        "tin",
+        "verdark cone seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Bacaratis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ornamentalPalm": {
+      "image": [
+        "assets/flora/ornamentalPalm.webp"
+      ],
+      "byproducts": [
+        "ornamental palm seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "hexavineSpire": {
+      "image": [
+        "assets/flora/hexavineSpire.webp"
+      ],
+      "byproducts": [
+        "magnetized iron",
+        "hexavine spires seedling",
+        "chlorine"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Herastag",
+        "Kirogen (WW)"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bromeliad": {
+      "image": [
+        "assets/flora/bromeliad.webp"
+      ],
+      "byproducts": [
+        "bromeliad seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "hosta": {
+      "image": [
+        "assets/flora/hosta.webp"
+      ],
+      "byproducts": [
+        "hosta seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "elephantEar": {
+      "image": [
+        "assets/flora/elephantEar.webp"
+      ],
+      "byproducts": [
+        "elephant ear seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "fanPalm": {
+      "image": [
+        "assets/flora/fanPalm.webp"
+      ],
+      "byproducts": [
+        "fan palm seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "giantLandLily": {
+      "image": [
+        "assets/flora/giantLandLily.webp"
+      ],
+      "byproducts": [
+        "giant land lily seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "dracaenaFragrans": {
+      "image": [
+        "assets/flora/dracaenaFragrans.webp"
+      ],
+      "byproducts": [
+        "dracaena fragrans seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "leafyBush": {
+      "image": [
+        "assets/flora/leafyBush.webp"
+      ],
+      "byproducts": [
+        "leafy bush seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "skunkCabbage": {
+      "image": [
+        "assets/flora/skunkCabbage.webp"
+      ],
+      "byproducts": [
+        "skunk cabbage seedling",
+        "methane"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "agave": {
+      "image": [
+        "assets/flora/agave.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "aloe": {
+      "image": [
+        "assets/flora/aloe.webp"
+      ],
+      "byproducts": [
+        "aloe seedling"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticLupine": {
+      "image": [
+        "assets/flora/arcticLupine.webp"
+      ],
+      "byproducts": [
+        "arctic lupine seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticPoppy": {
+      "image": [
+        "assets/flora/arcticPoppy.webp"
+      ],
+      "byproducts": [
+        "arctic poppy seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "arcticRush": {
+      "image": [
+        "assets/flora/arcticRush.webp"
+      ],
+      "byproducts": [
+        "arctic rush seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "besomeScrub": {
+      "image": [
+        "assets/flora/besomeScrub.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bostonFern": {
+      "image": [
+        "assets/flora/bostonFern.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "swordFern": {
+      "image": [
+        "assets/flora/swordFern.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bourvardia": {
+      "image": [
+        "assets/flora/bourvardia.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "campanula": {
+      "image": [
+        "assets/flora/campanula.webp"
+      ],
+      "byproducts": [
+        "campanula seedling"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "cordyline": {
+      "image": [
+        "assets/flora/cordyline.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "creosoteBush": {
+      "image": [
+        "assets/flora/creosoteBush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ilima": {
+      "image": [
+        "assets/flora/ilima.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mangrovePalm": {
+      "image": [
+        "assets/flora/mangrovePalm.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "mizudashi": {
+      "image": [
+        "assets/flora/mizudashi.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "monstera": {
+      "image": [
+        "assets/flora/monstera.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "paradisePlant": {
+      "image": [
+        "assets/flora/paradisePlant.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "sagebrush": {
+      "image": [
+        "assets/flora/sagebrush.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "fragrantFern": {
+      "image": [
+        "assets/flora/fragrantFern.webp"
+      ],
+      "byproducts": [
+        "fragrant fern"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pineapple": {
+      "image": [
+        "assets/flora/pineapple.webp"
+      ],
+      "byproducts": [
+        "pineapple"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bushPalm": {
+      "image": [
+        "assets/flora/bushPalm.webp"
+      ],
+      "byproducts": [
+        "bush palm"
+      ],
+      "planets": [
+        "Herastag"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    }
+  },
+  "mushrooms": {
+    "darkWizard": {
+      "image": [
+        "assets/flora/darkWizard.webp"
+      ],
+      "byproducts": [
+        "alien mushroom chunk",
+        "dark wizard seedling",
+        "antimatter gas",
+        "salt"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "witchsRinglet": {
+      "image": [
+        "assets/flora/witchsRinglet.webp"
+      ],
+      "byproducts": [
+        "nitrogen",
+        "alien mushroom chunk",
+        "witchs ringlet seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "brimmedBonnet": {
+      "image": [
+        "assets/flora/brimmedBonnet.webp"
+      ],
+      "byproducts": [
+        "xenon",
+        "alien mushroom chunk",
+        "brimmed bonnet seedling",
+        "salt"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "lilacDandy": {
+      "image": [
+        "assets/flora/lilacDandy.webp"
+      ],
+      "byproducts": [
+        "radon",
+        "alien mushroom chunk",
+        "lilac dandy seedling",
+        "salt"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "blushingBonnet": {
+      "image": [
+        "assets/flora/blushingBonnet.webp"
+      ],
+      "byproducts": [
+        "ammonia",
+        "alien mushroom chunk",
+        "salt",
+        "blushing bonnet seedling"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "goldenPoplar": {
+      "image": [
+        "assets/flora/goldenPoplar.webp"
+      ],
+      "byproducts": [
+        "golden poplar chunk",
+        "golden poplar stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "kingStropheria": {
+      "image": [
+        "assets/flora/kingStropheria.webp"
+      ],
+      "byproducts": [
+        "king stropheria chunk",
+        "king stropheria stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "brownShimeji": {
+      "image": [
+        "assets/flora/brownShimeji.webp"
+      ],
+      "byproducts": [
+        "brown shimeji chunk",
+        "brown shimeji stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "amanita": {
+      "image": [
+        "assets/flora/amanita.webp"
+      ],
+      "byproducts": [
+        "amanita chunk",
+        "amanita stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "chanterelle": {
+      "image": [
+        "assets/flora/chanterelle.webp"
+      ],
+      "byproducts": [
+        "chanterelle chunk",
+        "chanterelle stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "fairyMorel": {
+      "image": [
+        "assets/flora/fairyMorel.webp"
+      ],
+      "byproducts": [
+        "fairy morel chunk",
+        "fairy morel stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    }
+  },
+  "cacti": {
+    "floweringCactus": {
+      "image": [
+        "assets/flora/floweringCactus.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "barrelCactus": {
+      "image": [
+        "assets/flora/barrelCactus.webp"
+      ],
+      "byproducts": [
+        "barrel cactus seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "organPipeCactus": {
+      "image": [
+        "assets/flora/organPipeCactus.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pricklyPear": {
+      "image": [
+        "assets/flora/pricklyPear.webp"
+      ],
+      "byproducts": [
+        "cactus fruit"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "saguaroCactus": {
+      "image": [
+        "assets/flora/saguaroCactus.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "varA": {
+      "image": [
+        "assets/flora/varA.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "varB": {
+      "image": [
+        "assets/flora/varB.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "lumipora": {
+      "image": [
+        "assets/flora/lumipora.webp"
+      ],
+      "byproducts": [
+        "lumipora root stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "cactus": {
+      "image": [
+        "assets/flora/cactus.webp"
+      ],
+      "byproducts": [
+        "cactus fiber"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    }
+  },
+  "trees": {
+    "coconutTree": {
+      "image": [
+        "assets/flora/coconutTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "ashTree": {
+      "image": [
+        "assets/flora/ashTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "duskleafTree": {
+      "image": [
+        "assets/flora/duskleafTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "poplarTree": {
+      "image": [
+        "assets/flora/poplarTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "aspenTree": {
+      "image": [
+        "assets/flora/aspenTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "oakTree": {
+      "image": [
+        "assets/flora/oakTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "papayaTree": {
+      "image": [
+        "assets/flora/papayaTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "blueVeilTree": {
+      "image": [
+        "assets/flora/blueVeilTree.webp"
+      ],
+      "byproducts": [
+        "radon",
+        "blue veil root stock"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "lunarethTree": {
+      "image": [
+        "assets/flora/lunarethTree.webp"
+      ],
+      "byproducts": [
+        "xenon",
+        "light hard wood",
+        "lunareth tree stock"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Akacala",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "alpineTree": {
+      "image": [
+        "assets/flora/alpine.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bamboo": {
+      "image": [
+        "assets/flora/bamboo.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "banyanTree": {
+      "image": [
+        "assets/flora/banyanTree.webp"
+      ],
+      "byproducts": [
+        "light hard wood"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "beechTree": {
+      "image": [
+        "assets/flora/beechTree.webp"
+      ],
+      "byproducts": [
+        "light hard wood",
+        "beech tree root stock"
+      ],
+      "planets": [
+        "Tyragala II",
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "elmTree": {
+      "image": [
+        "assets/flora/elmTree.webp"
+      ],
+      "byproducts": [
+        "light soft wood",
+        "elm tree root stock"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "joshuaTree": {
+      "image": [
+        "assets/flora/joshuaTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "lemonTree": {
+      "image": [
+        "assets/flora/lemonTree.webp"
+      ],
+      "byproducts": [
+        "light hard wood"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "limeTree": {
+      "image": [
+        "assets/flora/limeTree.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "pangloriaBloom": {
+      "image": [
+        "assets/flora/pangloriaBloom.webp"
+      ],
+      "byproducts": [],
+      "planets": [],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "podwalker": {
+      "image": [
+        "assets/flora/podwalker.webp"
+      ],
+      "byproducts": [
+        "dark soft wood"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "sporePodTree": {
+      "image": [
+        "assets/flora/sporePodTree.webp"
+      ],
+      "byproducts": [
+        "methane"
+      ],
+      "planets": [
+        "Herastag"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "stripedMapleTree": {
+      "image": [
+        "assets/flora/stripedMapleTree.webp"
+      ],
+      "byproducts": [
+        "light hard wood",
+        "striped maple tree root stock"
+      ],
+      "planets": [
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "willowTree": {
+      "image": [
+        "assets/flora/willowTree.webp"
+      ],
+      "byproducts": [
+        "light hard wood",
+        "willow tree root stock"
+      ],
+      "planets": [
+        "Akacala"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    },
+    "bananaTree": {
+      "image": [
+        "assets/flora/bananaTree.webp"
+      ],
+      "byproducts": [
+        "light soft wood",
+        "banana"
+      ],
+      "planets": [
+        "Akacala",
+        "Baracatis III",
+        "Tyragala II"
+      ],
+      "preferredClimate": [],
+      "videos": []
+    }
+  }
+}

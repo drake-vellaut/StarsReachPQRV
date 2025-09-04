@@ -115,8 +115,7 @@
         "helium"
       ],
       "planets": [
-        "Space",
-        "Kirogen (WW)"
+        "Space"
       ],
       "preferredFood": [],
       "videos": [],
@@ -341,8 +340,7 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala",
-        "Tyragala II"
+        "Akacala"
       ],
       "preferredFood": [
         "Chanterelle Stock"
@@ -360,8 +358,7 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III",
-        "Tyragala II"
+        "Baracatis III"
       ],
       "preferredFood": [
         "Chanterelle Chunk"
@@ -387,9 +384,7 @@
         "amethyst",
         "hydrogen"
       ],
-      "planets": [
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -402,9 +397,7 @@
         "amethyst",
         "hydrogen"
       ],
-      "planets": [
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -429,7 +422,6 @@
         "hide"
       ],
       "planets": [
-        "Kirogen (WW)",
         "Herastag"
       ],
       "preferredFood": [
@@ -447,9 +439,7 @@
         "acid"
       ],
       "planets": [
-        "Miraskal III (WW)",
-        "Akacala",
-        "Tyragala II"
+        "Akacala"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -541,9 +531,7 @@
         "raw fish meat"
       ],
       "planets": [
-        "Akacala",
-        "Kirogen (WW)",
-        "Tyragala II"
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -589,9 +577,7 @@
         "raw fish meat"
       ],
       "planets": [
-        "Akacala",
-        "Kirogen (WW)",
-        "Tyragala II"
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -646,10 +632,7 @@
         "radon",
         "raw fish meat"
       ],
-      "planets": [
-        "Kirogen (WW)",
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -825,10 +808,7 @@
         "bone",
         "raw herbivore meat"
       ],
-      "planets": [
-        "Kirogen (WW)",
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -842,9 +822,7 @@
         "raw herbivore meat"
       ],
       "planets": [
-        "Baracatis III",
-        "Kirogen (WW)",
-        "Tyragala II"
+        "Baracatis III"
       ],
       "preferredFood": [],
       "videos": [],
@@ -867,9 +845,7 @@
       "byproducts": [
         "raw herbivore meat"
       ],
-      "planets": [
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -893,10 +869,7 @@
         "bone",
         "raw herbivore meat"
       ],
-      "planets": [
-        "Kirogen (WW)",
-        "Tyragala II"
-      ],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
