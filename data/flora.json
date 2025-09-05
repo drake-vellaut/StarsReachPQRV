@@ -341,7 +341,8 @@
         "goji berry seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -476,7 +477,8 @@
         "dragon leaf seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -533,7 +535,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Bacaratis III"
+        "Bacaratis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -576,7 +579,8 @@
         "bromeliad seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -602,7 +606,8 @@
         "elephant ear seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -615,7 +620,8 @@
         "fan palm seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -628,7 +634,8 @@
         "giant land lily seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -641,7 +648,8 @@
         "dracaena fragrans seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -742,8 +750,12 @@
       "image": [
         "assets/flora/bostonFern.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "boston fern seedling"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -751,8 +763,12 @@
       "image": [
         "assets/flora/swordFern.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "sword fern seedling"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -780,8 +796,12 @@
       "image": [
         "assets/flora/cordyline.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "cordyline seedling"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -811,8 +831,12 @@
       "image": [
         "assets/flora/mangrovePalm.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "mangrove palm seedling"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -829,8 +853,12 @@
       "image": [
         "assets/flora/monstera.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "monstera seedling"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1045,7 +1073,8 @@
         "chanterelle stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1217,8 +1246,12 @@
       "image": [
         "assets/flora/aspenTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "light soft wood"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1332,9 +1365,12 @@
       ],
       "byproducts": [
         "light soft wood",
-        "elm tree root stock"
+        "elm tree root stock",
+        "light hard wood"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1352,7 +1388,8 @@
         "assets/flora/lemonTree.webp"
       ],
       "byproducts": [
-        "light hard wood"
+        "light hard wood",
+        "lemon"
       ],
       "planets": [
         "Akacala"
@@ -1412,7 +1449,9 @@
         "light hard wood",
         "striped maple tree root stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1436,7 +1475,8 @@
       ],
       "byproducts": [
         "light soft wood",
-        "banana"
+        "banana",
+        "banana tree root stock"
       ],
       "planets": [
         "Akacala",

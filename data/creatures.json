@@ -5,7 +5,8 @@
         "assets/creatures/ballhive.webp"
       ],
       "byproducts": [
-        "horn"
+        "horn",
+        "armorcryst"
       ],
       "planets": [
         "Herastag"
@@ -370,8 +371,14 @@
       "image": [
         "assets/creatures/hareRazor.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "amethyst",
+        "hydrogen",
+        "raw hyper meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
