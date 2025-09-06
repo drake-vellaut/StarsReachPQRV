@@ -1,1740 +1,1790 @@
 {
-    "gemstone": {
-        "rareGem": {
-            "Diamond": [],
-            "Ruby": [
-                {
-                    "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ]
-                }
-            ],
-            "Aquamarine": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        799,
-                        319,
-                        391,
-                        695
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Emerald": [],
-            "Sapphire": []
-        },
-        "uncommonGem": {
-            "Jade": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        485,
-                        484,
-                        581,
-                        750
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Lapis Lazuli": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        641,
-                        701,
-                        428,
-                        455
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Turquoise": [
-                {
-                    "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                }
-            ],
-            "Topaz": [],
-            "Tourmaline": [],
-            "Opal": []
-        },
-        "commonGem": {
-            "Amethyst": [
-                {
-                    "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ]
-                }
-            ],
-            "Quartz": [],
-            "Agate": [
-                {
-                    "notes": "refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        194,
-                        748,
-                        584,
-                        421
-                    ]
-                }
-            ],
-            "Salt": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        562,
-                        104,
-                        485,
-                        739
-                    ],
-                    "Source": "Witchs Ringlet"
-                }
-            ],
-            "Garnet": [],
-            "Zircon": []
-        },
-        "exoticGem": {
-            "Vesuvianite": [],
-            "Armorcryst": []
+  "gemstone": {
+    "rareGem": {
+      "Diamond": [],
+      "Ruby": [
+        {
+          "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ]
         }
-    },
-    "gas": {
-        "reactiveGas": {
-            "Ammonia": [],
-            "Fluorine": [
-                {
-                    "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        508,
-                        712,
-                        316,
-                        232
-                    ]
-                }
-            ],
-            "Methane": [
-                {
-                    "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        756,
-                        184,
-                        568,
-                        475
-                    ]
-                }
-            ],
-            "Chlorine": [],
-            "Hydrogen": []
-        },
-        "inertGas": {
-            "Neon": [],
-            "Radon": [
-                {
-                    "notes": "refined from Carnotite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                }
-            ],
-            "Xenon": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        774,
-                        629,
-                        396,
-                        438
-                    ],
-                    "Source": "Lunareth Tree"
-                }
-            ],
-            "Nitrogen": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        488,
-                        578,
-                        613,
-                        757
-                    ],
-                    "Source": "Witchs Ringlet"
-                }
-            ],
-            "Helium": []
+      ],
+      "Aquamarine": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            799,
+            319,
+            391,
+            695
+          ],
+          "Source": "Mining"
         }
+      ],
+      "Emerald": [],
+      "Sapphire": []
     },
-    "metal": {
-        "rareMetal": {
-            "Lithium": [
-                {
-                    "notes": "refined from Spodumene with pqrv [562, 104, 485, 739] not found on planet from Refined but refined from Salt with pqrv [562, 104, 485, 739] on planet Jotaviko (WW) from Witchs Ringlet",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        562,
-                        104,
-                        485,
-                        739
-                    ]
-                }
-            ],
-            "Uranium": [
-                {
-                    "notes": "refined from Carnotite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                }
-            ],
-            "Mercury": [
-                {
-                    "notes": "refined from Cinnabar with pqrv [508, 712, 316, 232] not found on planet from Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        508,
-                        712,
-                        316,
-                        232
-                    ]
-                }
-            ],
-            "Cadmium": [
-                {
-                    "notes": "refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                }
-            ],
-            "Silver": [
-                {
-                    "notes": "refined from Argentite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ]
-                }
-            ]
-        },
-        "commonMetal": {
-            "Chromium": [
-                {
-                    "notes": "",
-                    "Planet": "Space",
-                    "pqrv": [
-                        761,
-                        351,
-                        546,
-                        408
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Copper": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        103,
-                        394,
-                        766,
-                        534
-                    ],
-                    "Source": "Mining"
-                },
-                {
-                    "notes": "refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                },
-                {
-                    "notes": "refined from Chalcopyrite with pqrv [468, 676, 785, 366] not found on planet Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ]
-                }
-            ],
-            "Manganese": [
-                {
-                    "notes": "",
-                    "Planet": "Space",
-                    "pqrv": [
-                        137,
-                        714,
-                        365,
-                        645
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Zinc": [
-                {
-                    "notes": "refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ]
-                }
-            ],
-            "Nickel": []
-        },
-        "uncommonMetal": {
-            "Tin": [],
-            "Lead": [],
-            "Tungsten": [],
-            "Bismuth": [],
-            "Cobalt": [
-                {
-                    "notes": "refined from Cobaltite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ]
-                }
-            ]
-        },
-        "veryCommonMetal": {
-            "Iron": [
-                {
-                    "notes": "",
-                    "Planet": "Space",
-                    "pqrv": [
-                        142,
-                        798,
-                        672,
-                        385
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Magnetized Iron": [
-                {
-                    "notes": "refined from Iron with pqrv [142, 798, 672, 385] on planet Space from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        142,
-                        798,
-                        672,
-                        385
-                    ]
-                }
-            ],
-            "Bauxite": [],
-            "Magnesium": [
-                {
-                    "notes": "refined from Magnesite with pqrv [508, 712, 316, 232] not found on planet from Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        508,
-                        712,
-                        316,
-                        232
-                    ]
-                }
-            ],
-            "Titanium": []
-        },
-        "scarceMetal": {
-            "AntiGravium": [],
-            "Antimatter": [],
-            "Gold": [],
-            "Platinum": [],
-            "Palladium": []
+    "uncommonGem": {
+      "Jade": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            485,
+            484,
+            581,
+            750
+          ],
+          "Source": "Mining"
         }
-    },
-    "wood": {
-        "lightWood": {
-            "Light Hard Wood": [],
-            "Light Soft Wood": []
-        },
-        "darkWood": {
-            "Dark Soft Wood": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        732,
-                        573,
-                        281,
-                        489
-                    ],
-                    "Source": "Jungle Underbrush"
-                },
-                {
-                    "notes": "",
-                    "Planet": "Akacala",
-                    "pqrv": [
-                        707,
-                        672,
-                        442,
-                        368
-                    ],
-                    "Source": "Jungle Underbrush"
-                }
-            ]
+      ],
+      "Lapis Lazuli": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            641,
+            701,
+            428,
+            455
+          ],
+          "Source": "Mining"
         }
-    },
-    "rock": {
-        "sedimentaryRock": {
-            "Breccia": [
-                {
-                    "notes": "",
-                    "Planet": "Akacala",
-                    "pqrv": [
-                        194,
-                        748,
-                        584,
-                        421
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Coal": [
-                {
-                    "notes": "",
-                    "Planet": "Akacala",
-                    "pqrv": [
-                        756,
-                        184,
-                        568,
-                        475
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Sandstone": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        570,
-                        680,
-                        308,
-                        752
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Chert": [],
-            "Chalk": [],
-            "Shale": [],
-            "Conglomerate": [],
-            "Limestone": [],
-            "Dolomite": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        508,
-                        712,
-                        316,
-                        232
-                    ],
-                    "Source": "Mining"
-                }
-            ]
-        },
-        "igneousRock": {
-            "Pumice": [],
-            "Granite": [],
-            "Diorite": [],
-            "Basalt": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        468,
-                        676,
-                        785,
-                        366
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Gabbro": [],
-            "Obsidian": [],
-            "Rhyolite": []
-        },
-        "metamorphicRock": {
-            "Gneiss": [],
-            "Schist": [],
-            "Quartzite": [],
-            "Marble": [],
-            "Slate": []
-        },
-        "exoticRock": {
-            "Pyroxene": [
-                {
-                    "notes": "",
-                    "Planet": "Space",
-                    "pqrv": [
-                        753,
-                        346,
-                        497,
-                        691
-                    ],
-                    "Source": "Mining"
-                }
-            ]
+      ],
+      "Turquoise": [
+        {
+          "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
         }
+      ],
+      "Topaz": [],
+      "Tourmaline": [],
+      "Opal": []
     },
-    "soil": {
-        "siltySoil": {
-            "Loam": [],
-            "Silt": [],
-            "Alluvial Soil": [],
-            "Red Soil": [],
-            "Mud": [],
-            "Bare Red Soil": [],
-            "Bare Alluvial Soil": []
-        },
-        "claySoil": {
-            "Clay": [
-                {
-                    "notes": "refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
-                    "Planet": "",
-                    "Source": "Refined",
-                    "pqrv": [
-                        314,
-                        276,
-                        716,
-                        592
-                    ]
-                }
-            ],
-            "Chalky Soil": [
-                {
-                    "notes": "",
-                    "Planet": "Jotaviko (WW)",
-                    "pqrv": [
-                        314,
-                        276,
-                        716,
-                        592
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "Laterite Soil": []
-        },
-        "carbonSoil": {
-            "Peat": [],
-            "Black Soil": [],
-            "Bare Peat": []
-        },
-        "sandySoil": {
-            "Sand": [],
-            "Sandy Dirt": [],
-            "Bare Sandy Dirt": []
+    "commonGem": {
+      "Amethyst": [
+        {
+          "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ]
         }
-    },
-    "Realgar": {
-        "Realgar": []
-    },
-    "fungus": {
-        "Alien Mushroom Chunk": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    381,
-                    169,
-                    558,
-                    544
-                ],
-                "Source": "Witchs Ringlet"
-            }
-        ],
-        "Golden Poplar Chunk": [],
-        "King Stropheria Chunk": [],
-        "Brown Shimeji Chunk": [],
-        "Amanita Chunk": [],
-        "Chanterelle Chunk": [],
-        "Fairy Morel Chunk": []
-    },
-    "Ceramic": {
-        "Ceramic": [
-            {
-                "notes": "refined from Feldspar with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            },
-            {
-                "notes": "refined from Clay with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    314,
-                    276,
-                    716,
-                    592
-                ]
-            }
-        ]
-    },
-    "Cinnabar": {
-        "Cinnabar": [
-            {
-                "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            }
-        ]
-    },
-    "Argentite": {
-        "Argentite": [
-            {
-                "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Quartz Crystal": {
-        "Quartz Crystal": []
-    },
-    "Glass": {
-        "Glass": [
-            {
-                "notes": "refined from Feldspar with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Quicklime": {
-        "Quicklime": []
-    },
-    "Magnetite": {
-        "Magnetite": []
-    },
-    "Mica": {
-        "Mica": []
-    },
-    "Plastic": {
-        "Plastic": [
-            {
-                "notes": "refined from Oil with pqrv [194, 748, 584, 421] not found on planet from Refined but refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    194,
-                    748,
-                    584,
-                    421
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [756, 184, 568, 475] not found on planet Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [508, 712, 316, 232] not found on planet Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [732, 573, 281, 489] not found on planet Refined but refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    732,
-                    573,
-                    281,
-                    489
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [707, 672, 442, 368] not found on planet Refined but refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    707,
-                    672,
-                    442,
-                    368
-                ]
-            }
-        ]
-    },
-    "Carnotite": {
-        "Carnotite": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            }
-        ]
-    },
-    "Ammonium": {
-        "Ammonium": []
-    },
-    "Coal Ore": {
-        "Coal Ore": [
-            {
-                "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            }
-        ]
-    },
-    "Peridotite": {
-        "Peridotite": []
-    },
-    "Pitchblende": {
-        "Pitchblende": []
-    },
-    "Calcium Fertilizer": {
-        "Calcium Fertilizer": [
-            {
-                "notes": "refined from Chalk Block with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    314,
-                    276,
-                    716,
-                    592
-                ]
-            }
-        ]
-    },
-    "Spodumene": {
-        "Spodumene": [
-            {
-                "notes": "refined from Salt with pqrv [562, 104, 485, 739] on planet Jotaviko (WW) from Witchs Ringlet",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    562,
-                    104,
-                    485,
-                    739
-                ]
-            }
-        ]
-    },
-    "Sphalerite": {
-        "Sphalerite": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            }
-        ]
-    },
-    "Carbon": {
-        "Carbon": [
-            {
-                "notes": "refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    732,
-                    573,
-                    281,
-                    489
-                ]
-            },
-            {
-                "notes": "refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    707,
-                    672,
-                    442,
-                    368
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [194, 748, 584, 421] not found on planet from Refined but refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    194,
-                    748,
-                    584,
-                    421
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [756, 184, 568, 475] not found on planet Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [508, 712, 316, 232] not found on planet Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [732, 573, 281, 489] not found on planet Refined but refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    732,
-                    573,
-                    281,
-                    489
-                ]
-            },
-            {
-                "notes": "refined from Oil with pqrv [707, 672, 442, 368] not found on planet Refined but refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    707,
-                    672,
-                    442,
-                    368
-                ]
-            },
-            {
-                "notes": "refined from Methane with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            },
-            {
-                "notes": "refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            }
-        ]
-    },
-    "fruit": {
-        "Stimberry": [],
-        "Lemon": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    526,
-                    153,
-                    636,
-                    709
-                ],
-                "Source": "Lemon Tree"
-            }
-        ],
-        "Strawberry": [],
-        "Coconut": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    384,
-                    784,
-                    697,
-                    427
-                ],
-                "Source": "Coconut Tree"
-            }
-        ],
-        "Banana": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    552,
-                    706,
-                    486,
-                    558
-                ],
-                "Source": "Banana Tree"
-            },
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    189,
-                    799,
-                    354,
-                    698
-                ],
-                "Source": "Banana Tree"
-            }
-        ],
-        "Goji Berry": [],
-        "Cactus Fruit": [],
-        "Lime": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    561,
-                    405,
-                    704,
-                    451
-                ],
-                "Source": "Lime Tree"
-            }
-        ]
-    },
-    "Galena": {
-        "Galena": [
-            {
-                "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            }
-        ]
-    },
-    "Feldspar": {
-        "Feldspar": [
-            {
-                "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Silica Ore": {
-        "Silica Ore": []
-    },
-    "Chalk Block": {
-        "Chalk Block": [
-            {
-                "notes": "refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    314,
-                    276,
-                    716,
-                    592
-                ]
-            }
-        ]
-    },
-    "Aluminum": {
-        "Aluminum": []
-    },
-    "Cement": {
-        "Cement": [
-            {
-                "notes": "refined from Chalk Block with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    314,
-                    276,
-                    716,
-                    592
-                ]
-            }
-        ]
-    },
-    "Sulfide": {
-        "Sulfide": []
-    },
-    "Azurite": {
-        "Azurite": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            }
-        ]
-    },
-    "Gypsum": {
-        "Gypsum": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            }
-        ]
-    },
-    "Ochre": {
-        "Ochre": []
-    },
-    "Malachite": {
-        "Malachite": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            }
-        ]
-    },
-    "Cassiterite": {
-        "Cassiterite": []
-    },
-    "Bismuthite": {
-        "Bismuthite": []
-    },
-    "stockFlora": {
-        "Papaya Tree Root Stock": [],
-        "Willow Tree Root Stock": [],
-        "Beech Tree Root Stock": [],
-        "Striped Maple Tree Root Stock": [],
-        "Ash Tree Root Stock": [],
-        "Oak Tree Root Stock": [],
-        "Coconut Root Stock": [],
-        "Banana Tree Root Stock": [],
-        "Alpine Tree Root Stock": [],
-        "Aspen Tree Root Stock": [],
-        "Poplar Tree Root Stock": [],
-        "Duskleaf Root Stock": [],
-        "Elm Tree Root Stock": [],
-        "King Stropheria Stock": [],
-        "Golden Poplar Stock": [],
-        "Brown Shimeji Stock": [],
-        "Amanita Stock": [],
-        "Fairy Morel Stock": [
-            {
-                "notes": "",
-                "Planet": "",
-                "pqrv": [
-                    719,
-                    525,
-                    303,
-                    859
-                ],
-                "Source": ""
-            }
-        ],
-        "Blue Veil Root Stock": [],
-        "Bamboo Tree Root Stock": [],
-        "Lunareth Tree Stock": [],
-        "Chanterelle Stock": [],
-        "Lumipora Root Stock": [],
-        "Flowering Cactus Root Stock": []
-    },
-    "Pentlandite": {
-        "Pentlandite": []
-    },
-    "Oil": {
-        "Oil": [
-            {
-                "notes": "refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    194,
-                    748,
-                    584,
-                    421
-                ]
-            },
-            {
-                "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            },
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            },
-            {
-                "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            },
-            {
-                "notes": "refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    732,
-                    573,
-                    281,
-                    489
-                ]
-            },
-            {
-                "notes": "refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    707,
-                    672,
-                    442,
-                    368
-                ]
-            }
-        ]
-    },
-    "Hematite": {
-        "Hematite": []
-    },
-    "Coke": {
-        "Coke": [
-            {
-                "notes": "refined from Washed Coal with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            }
-        ]
-    },
-    "Graphite": {
-        "Graphite": []
-    },
-    "seedling": {
-        "Paradise Plant Seedling": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    713,
-                    384,
-                    700,
-                    775
-                ],
-                "Source": "Bird of Paradise"
-            }
-        ],
-        "Arctic Poppy Seedling": [],
-        "Arctic Rush Seedling": [],
-        "Arctic Lupine Seedling": [],
-        "Lily Seedling": [],
-        "White Snapdragon Seedling": [],
-        "Glowy Rose Seedling": [],
-        "Pink Bellflower Seedling": [],
-        "Campanula Seedling": [],
-        "Cordyline Seedling": [],
-        "Sword Fern Seedling": [],
-        "Boston Fern Seedling": [
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    844,
-                    779,
-                    840,
-                    207
-                ],
-                "Source": "Boston Fern"
-            }
-        ],
-        "Mangrove Palm Seedling": [
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    498,
-                    894,
-                    815,
-                    900
-                ],
-                "Source": "Mangrove Palm"
-            }
-        ],
-        "Monstera Seedling": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    538,
-                    352,
-                    892,
-                    747
-                ],
-                "Source": "Monstera"
-            }
-        ],
-        "Kelp Cutting": [],
-        "Blushing Bonnet Seedling": [],
-        "Glowy Dandelion Seedling": [],
-        "Pampas Grass Seedling": [],
-        "Blue Emberbloom Torch Seedling": [],
-        "Purple Emberbloom Torch Seedling": [],
-        "Tear Leaf Bush Seedling": [],
-        "Dragon Leaf Seedling": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    731,
-                    740,
-                    759,
-                    737
-                ],
-                "Source": "Dragon Leaf"
-            }
-        ],
-        "Young Fern Seedling": [],
-        "Orange Emberbloom Torch Seedling": [],
-        "Dark Wizard Seedling": [],
-        "Small Blue Emberbloom Torch Seedling": [],
-        "Pitcher Plant Seedling": [],
-        "Verdark Cone Seedling": [],
-        "Yellow Snapdragon Seedling": [],
-        "Lumineweave Tendril Seedling": [],
-        "Teal Bellflower Seedling": [],
-        "Witchs Ringlet Seedling": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    617,
-                    297,
-                    616,
-                    535
-                ],
-                "Source": "Witchs Ringlet"
-            }
-        ],
-        "Brimmed Bonnet Seedling": [],
-        "Red Currant Seedling": [],
-        "Ornamental Palm Seedling": [],
-        "Hexavine Spires Seedling": [],
-        "Bromeliad Seedling": [],
-        "White Daisy Seedling": [],
-        "Red Daisy Seedling": [],
-        "Pink Daisy Seedling": [],
-        "Hosta Seedling": [],
-        "Elephant Ear Seedling": [],
-        "Fan Palm Seedling": [],
-        "Purple Snapdragon Seedling": [],
-        "Giant Land Lily Seedling": [],
-        "Dracaena Fragrans Seedling": [],
-        "Leafy Bush Seedling": [],
-        "Pink Snapdragon Seedling": [],
-        "Strawberry Seedling": [],
-        "Teal Daisy Seedling": [],
-        "Yellow Daisy Seedling": [],
-        "Goji Berry Seedling": [],
-        "Teal Snapdragon Seedling": [],
-        "Gold Bellflower Seedling": [],
-        "Purple Bellflower Seedling": [],
-        "Skunk Cabbage Seedling": [],
-        "Purple Daisy Seedling": [],
-        "Lilac Dandy Seedling": [],
-        "Yellow Bellflower Seedling": [],
-        "Aloe Seedling": [],
-        "Pumpkin": [],
-        "Spirae": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    617,
-                    691,
-                    583,
-                    582
-                ],
-                "Source": "Spirae"
-            }
-        ],
-        "Funnel Plant Seedling": [],
-        "Bush Palm": [
-            {
-                "notes": "",
-                "Planet": "Jotaviko (WW)",
-                "pqrv": [
-                    748,
-                    805,
-                    115,
-                    722
-                ],
-                "Source": "Bush Palm"
-            }
-        ],
-        "Creosote Bush Seedling": [],
-        "Barrel Cactus Seedling": [],
-        "Pineapple": [],
-        "Fragrant Fern": [],
-        "Cattail Seedling": [
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    207,
-                    462,
-                    645,
-                    252
-                ],
-                "Source": "Cattail"
-            }
-        ],
-        "Bush Palm Seedling": [
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    689,
-                    455,
-                    827,
-                    567
-                ],
-                "Source": "Bush Palm"
-            }
-        ],
-        "Giant Lady Lilly Seedling": [
-            {
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    146,
-                    731,
-                    730,
-                    662
-                ],
-                "Source": "Giant Lady Lilly"
-            }
-        ]
-    },
-    "Antimatter Gas": {
-        "Antimatter Gas": []
-    },
-    "Washed Coal": {
-        "Washed Coal": [
-            {
-                "notes": "refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    756,
-                    184,
-                    568,
-                    475
-                ]
-            }
-        ]
-    },
-    "Chalcopyrite": {
-        "Chalcopyrite": [
-            {
-                "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570,
-                    680,
-                    308,
-                    752
-                ]
-            },
-            {
-                "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Lime ore": {
-        "Lime ore": []
-    },
-    "metalAlloy": {
-        "Chromium Steel": [
-            {
-                "notes": "Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from chromium with pqrv [761, 351, 546, 408] on planet Space from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    761.0,
-                    798.0,
-                    672.0,
-                    408.0
-                ]
-            }
-        ],
-        "Bronze": [],
-        "Brass": [
-            {
-                "notes": "Refined from copper with pqrv [103, 394, 766, 534] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570.0,
-                    680.0,
-                    766.0,
-                    752.0
-                ]
-            },
-            {
-                "notes": "Refined from copper with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570.0,
-                    680.0,
-                    308.0,
-                    752.0
-                ]
-            },
-            {
-                "notes": "Refined from copper with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Chalcopyrite with pqrv [468, 676, 785, 366] not found on planet Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    570.0,
-                    680.0,
-                    785.0,
-                    752.0
-                ]
-            }
-        ],
-        "Cadmiumin": [],
-        "Electrum": [],
-        "Lithalum": [],
-        "Nickel Silver": [],
-        "Pewter": [],
-        "Stainless Steel": [],
-        "Steel": [
-            {
-                "notes": "Refined from coke with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Washed Coal with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining and Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from magnetized iron with pqrv [142, 798, 672, 385] not found on planet from Refined but refined from Iron with pqrv [142, 798, 672, 385] on planet Space from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    449.0,
-                    798.0,
-                    672.0,
-                    430.0
-                ]
-            }
-        ],
-        "Triadite": [],
-        "UAl": [],
-        "Uralex": [],
-        "Tungsten Carbide": [],
-        "Cobalt Steel": [
-            {
-                "notes": "Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from cobalt with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Cobaltite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468.0,
-                    798.0,
-                    785.0,
-                    385.0
-                ]
-            }
-        ],
-        "Stellite": [],
-        "Palladiance": []
-    },
-    "animal": {
-        "nonSkeletal": {
-            "Hide": []
-        },
-        "skeletal": {
-            "Bone": [],
-            "Horn": []
-        },
-        "meat": {
-            "Raw Alien Meat": [],
-            "Raw Carnivore Meat": [],
-            "Raw Herbivore Meat": [],
-            "Raw Hyper Meat": [],
-            "Raw Fish Meat": [],
-            "Raw Reptile Meat": [],
-            "Raw Insect Meat": [],
-            "Raw Shellfish Meat": [],
-            "Raw Avian Meat": []
+      ],
+      "Quartz": [],
+      "Agate": [
+        {
+          "notes": "refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            194,
+            748,
+            584,
+            421
+          ]
         }
-    },
-    "liquid": {
-        "nonWater": {
-            "Acid": []
+      ],
+      "Salt": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            562,
+            104,
+            485,
+            739
+          ],
+          "Source": "Witchs Ringlet"
         }
+      ],
+      "Garnet": [],
+      "Zircon": []
     },
-    "plant": {
-        "fiber": {
-            "Cactus Fiber": []
-        }
-    },
-    "Basalt Powder": {
-        "Basalt Powder": [
-            {
-                "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Cobaltite": {
-        "Cobaltite": [
-            {
-                "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    468,
-                    676,
-                    785,
-                    366
-                ]
-            }
-        ]
-    },
-    "Cooperite": {
-        "Cooperite": []
-    },
-    "Ilmenite": {
-        "Ilmenite": []
-    },
-    "Magnesite": {
-        "Magnesite": [
-            {
-                "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            }
-        ]
-    },
-    "Talc": {
-        "Talc": [
-            {
-                "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
-                "Planet": "",
-                "Source": "Refined",
-                "pqrv": [
-                    508,
-                    712,
-                    316,
-                    232
-                ]
-            }
-        ]
+    "exoticGem": {
+      "Vesuvianite": [],
+      "Armorcryst": []
     }
+  },
+  "gas": {
+    "reactiveGas": {
+      "Ammonia": [],
+      "Fluorine": [
+        {
+          "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            508,
+            712,
+            316,
+            232
+          ]
+        }
+      ],
+      "Methane": [
+        {
+          "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            756,
+            184,
+            568,
+            475
+          ]
+        }
+      ],
+      "Chlorine": [],
+      "Hydrogen": []
+    },
+    "inertGas": {
+      "Neon": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            751,
+            534,
+            462,
+            483
+          ],
+          "Source": "Lumineweave Tendril"
+        }
+      ],
+      "Radon": [
+        {
+          "notes": "refined from Carnotite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
+        }
+      ],
+      "Xenon": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            774,
+            629,
+            396,
+            438
+          ],
+          "Source": "Lunareth Tree"
+        }
+      ],
+      "Nitrogen": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            488,
+            578,
+            613,
+            757
+          ],
+          "Source": "Witchs Ringlet"
+        }
+      ],
+      "Helium": []
+    }
+  },
+  "metal": {
+    "rareMetal": {
+      "Lithium": [
+        {
+          "notes": "refined from Spodumene with pqrv [562, 104, 485, 739] not found on planet from Refined but refined from Salt with pqrv [562, 104, 485, 739] on planet Jotaviko (WW) from Witchs Ringlet",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            562,
+            104,
+            485,
+            739
+          ]
+        }
+      ],
+      "Uranium": [
+        {
+          "notes": "refined from Carnotite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
+        }
+      ],
+      "Mercury": [
+        {
+          "notes": "refined from Cinnabar with pqrv [508, 712, 316, 232] not found on planet from Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            508,
+            712,
+            316,
+            232
+          ]
+        }
+      ],
+      "Cadmium": [
+        {
+          "notes": "refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
+        }
+      ],
+      "Silver": [
+        {
+          "notes": "refined from Argentite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ]
+        }
+      ]
+    },
+    "commonMetal": {
+      "Chromium": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            761,
+            351,
+            546,
+            408
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Copper": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            103,
+            394,
+            766,
+            534
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
+        },
+        {
+          "notes": "refined from Chalcopyrite with pqrv [468, 676, 785, 366] not found on planet Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ]
+        }
+      ],
+      "Manganese": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            137,
+            714,
+            365,
+            645
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Zinc": [
+        {
+          "notes": "refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ]
+        }
+      ],
+      "Nickel": []
+    },
+    "uncommonMetal": {
+      "Tin": [],
+      "Lead": [],
+      "Tungsten": [],
+      "Bismuth": [],
+      "Cobalt": [
+        {
+          "notes": "refined from Cobaltite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ]
+        }
+      ]
+    },
+    "veryCommonMetal": {
+      "Iron": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            142,
+            798,
+            672,
+            385
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Magnetized Iron": [
+        {
+          "notes": "refined from Iron with pqrv [142, 798, 672, 385] on planet Space from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            142,
+            798,
+            672,
+            385
+          ]
+        }
+      ],
+      "Bauxite": [],
+      "Magnesium": [
+        {
+          "notes": "refined from Magnesite with pqrv [508, 712, 316, 232] not found on planet from Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            508,
+            712,
+            316,
+            232
+          ]
+        }
+      ],
+      "Titanium": []
+    },
+    "scarceMetal": {
+      "AntiGravium": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            553,
+            644,
+            461,
+            738
+          ],
+          "Source": "Asteroid"
+        }
+      ],
+      "Antimatter": [],
+      "Gold": [],
+      "Platinum": [],
+      "Palladium": []
+    }
+  },
+  "wood": {
+    "lightWood": {
+      "Light Hard Wood": [],
+      "Light Soft Wood": []
+    },
+    "darkWood": {
+      "Dark Soft Wood": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            732,
+            573,
+            281,
+            489
+          ],
+          "Source": "Jungle Underbrush"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            707,
+            672,
+            442,
+            368
+          ],
+          "Source": "Jungle Underbrush"
+        }
+      ]
+    }
+  },
+  "rock": {
+    "sedimentaryRock": {
+      "Breccia": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            194,
+            748,
+            584,
+            421
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Coal": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            756,
+            184,
+            568,
+            475
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Sandstone": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            570,
+            680,
+            308,
+            752
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Chert": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            732,
+            320,
+            502,
+            323
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Chalk": [],
+      "Shale": [],
+      "Conglomerate": [],
+      "Limestone": [],
+      "Dolomite": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            508,
+            712,
+            316,
+            232
+          ],
+          "Source": "Mining"
+        }
+      ]
+    },
+    "igneousRock": {
+      "Pumice": [],
+      "Granite": [],
+      "Diorite": [],
+      "Basalt": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            468,
+            676,
+            785,
+            366
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Gabbro": [],
+      "Obsidian": [],
+      "Rhyolite": []
+    },
+    "metamorphicRock": {
+      "Gneiss": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            787,
+            125,
+            399,
+            115
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Schist": [],
+      "Quartzite": [],
+      "Marble": [],
+      "Slate": []
+    },
+    "exoticRock": {
+      "Pyroxene": [
+        {
+          "notes": "",
+          "Planet": "Space",
+          "pqrv": [
+            753,
+            346,
+            497,
+            691
+          ],
+          "Source": "Mining"
+        }
+      ]
+    }
+  },
+  "soil": {
+    "siltySoil": {
+      "Loam": [],
+      "Silt": [],
+      "Alluvial Soil": [],
+      "Red Soil": [],
+      "Mud": [],
+      "Bare Red Soil": [],
+      "Bare Alluvial Soil": []
+    },
+    "claySoil": {
+      "Clay": [
+        {
+          "notes": "refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
+          "Planet": "",
+          "Source": "Refined",
+          "pqrv": [
+            314,
+            276,
+            716,
+            592
+          ]
+        }
+      ],
+      "Chalky Soil": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            314,
+            276,
+            716,
+            592
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Laterite Soil": []
+    },
+    "carbonSoil": {
+      "Peat": [],
+      "Black Soil": [],
+      "Bare Peat": []
+    },
+    "sandySoil": {
+      "Sand": [],
+      "Sandy Dirt": [],
+      "Bare Sandy Dirt": []
+    }
+  },
+  "Realgar": {
+    "Realgar": []
+  },
+  "fungus": {
+    "Alien Mushroom Chunk": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          381,
+          169,
+          558,
+          544
+        ],
+        "Source": "Witchs Ringlet"
+      }
+    ],
+    "Golden Poplar Chunk": [],
+    "King Stropheria Chunk": [],
+    "Brown Shimeji Chunk": [],
+    "Amanita Chunk": [],
+    "Chanterelle Chunk": [],
+    "Fairy Morel Chunk": []
+  },
+  "Ceramic": {
+    "Ceramic": [
+      {
+        "notes": "refined from Feldspar with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      },
+      {
+        "notes": "refined from Clay with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          314,
+          276,
+          716,
+          592
+        ]
+      }
+    ]
+  },
+  "Cinnabar": {
+    "Cinnabar": [
+      {
+        "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      }
+    ]
+  },
+  "Argentite": {
+    "Argentite": [
+      {
+        "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Quartz Crystal": {
+    "Quartz Crystal": []
+  },
+  "Glass": {
+    "Glass": [
+      {
+        "notes": "refined from Feldspar with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Quicklime": {
+    "Quicklime": []
+  },
+  "Magnetite": {
+    "Magnetite": []
+  },
+  "Mica": {
+    "Mica": []
+  },
+  "Plastic": {
+    "Plastic": [
+      {
+        "notes": "refined from Oil with pqrv [194, 748, 584, 421] not found on planet from Refined but refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          194,
+          748,
+          584,
+          421
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [756, 184, 568, 475] not found on planet Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [508, 712, 316, 232] not found on planet Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [732, 573, 281, 489] not found on planet Refined but refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          732,
+          573,
+          281,
+          489
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [707, 672, 442, 368] not found on planet Refined but refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          707,
+          672,
+          442,
+          368
+        ]
+      }
+    ]
+  },
+  "Carnotite": {
+    "Carnotite": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      }
+    ]
+  },
+  "Ammonium": {
+    "Ammonium": []
+  },
+  "Coal Ore": {
+    "Coal Ore": [
+      {
+        "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      }
+    ]
+  },
+  "Peridotite": {
+    "Peridotite": []
+  },
+  "Pitchblende": {
+    "Pitchblende": []
+  },
+  "Calcium Fertilizer": {
+    "Calcium Fertilizer": [
+      {
+        "notes": "refined from Chalk Block with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          314,
+          276,
+          716,
+          592
+        ]
+      }
+    ]
+  },
+  "Spodumene": {
+    "Spodumene": [
+      {
+        "notes": "refined from Salt with pqrv [562, 104, 485, 739] on planet Jotaviko (WW) from Witchs Ringlet",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          562,
+          104,
+          485,
+          739
+        ]
+      }
+    ]
+  },
+  "Sphalerite": {
+    "Sphalerite": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      }
+    ]
+  },
+  "Carbon": {
+    "Carbon": [
+      {
+        "notes": "refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          732,
+          573,
+          281,
+          489
+        ]
+      },
+      {
+        "notes": "refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          707,
+          672,
+          442,
+          368
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [194, 748, 584, 421] not found on planet from Refined but refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          194,
+          748,
+          584,
+          421
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [756, 184, 568, 475] not found on planet Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [508, 712, 316, 232] not found on planet Refined but refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [732, 573, 281, 489] not found on planet Refined but refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          732,
+          573,
+          281,
+          489
+        ]
+      },
+      {
+        "notes": "refined from Oil with pqrv [707, 672, 442, 368] not found on planet Refined but refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          707,
+          672,
+          442,
+          368
+        ]
+      },
+      {
+        "notes": "refined from Methane with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      },
+      {
+        "notes": "refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      }
+    ]
+  },
+  "fruit": {
+    "Stimberry": [],
+    "Lemon": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          526,
+          153,
+          636,
+          709
+        ],
+        "Source": "Lemon Tree"
+      }
+    ],
+    "Strawberry": [],
+    "Coconut": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          384,
+          784,
+          697,
+          427
+        ],
+        "Source": "Coconut Tree"
+      }
+    ],
+    "Banana": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          552,
+          706,
+          486,
+          558
+        ],
+        "Source": "Banana Tree"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          189,
+          799,
+          354,
+          698
+        ],
+        "Source": "Banana Tree"
+      }
+    ],
+    "Goji Berry": [],
+    "Cactus Fruit": [],
+    "Lime": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          561,
+          405,
+          704,
+          451
+        ],
+        "Source": "Lime Tree"
+      }
+    ]
+  },
+  "Galena": {
+    "Galena": [
+      {
+        "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      }
+    ]
+  },
+  "Feldspar": {
+    "Feldspar": [
+      {
+        "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Silica Ore": {
+    "Silica Ore": []
+  },
+  "Chalk Block": {
+    "Chalk Block": [
+      {
+        "notes": "refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          314,
+          276,
+          716,
+          592
+        ]
+      }
+    ]
+  },
+  "Aluminum": {
+    "Aluminum": []
+  },
+  "Cement": {
+    "Cement": [
+      {
+        "notes": "refined from Chalk Block with pqrv [314, 276, 716, 592] not found on planet from Refined but refined from Chalky Soil with pqrv [314, 276, 716, 592] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          314,
+          276,
+          716,
+          592
+        ]
+      }
+    ]
+  },
+  "Sulfide": {
+    "Sulfide": []
+  },
+  "Azurite": {
+    "Azurite": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      }
+    ]
+  },
+  "Gypsum": {
+    "Gypsum": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      }
+    ]
+  },
+  "Ochre": {
+    "Ochre": []
+  },
+  "Malachite": {
+    "Malachite": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      }
+    ]
+  },
+  "Cassiterite": {
+    "Cassiterite": []
+  },
+  "Bismuthite": {
+    "Bismuthite": []
+  },
+  "stockFlora": {
+    "Papaya Tree Root Stock": [],
+    "Willow Tree Root Stock": [],
+    "Beech Tree Root Stock": [],
+    "Striped Maple Tree Root Stock": [],
+    "Ash Tree Root Stock": [],
+    "Oak Tree Root Stock": [],
+    "Coconut Root Stock": [],
+    "Banana Tree Root Stock": [],
+    "Alpine Tree Root Stock": [],
+    "Aspen Tree Root Stock": [],
+    "Poplar Tree Root Stock": [],
+    "Duskleaf Root Stock": [],
+    "Elm Tree Root Stock": [],
+    "King Stropheria Stock": [],
+    "Golden Poplar Stock": [],
+    "Brown Shimeji Stock": [],
+    "Amanita Stock": [],
+    "Fairy Morel Stock": [
+  
+    ],
+    "Blue Veil Root Stock": [],
+    "Bamboo Tree Root Stock": [],
+    "Lunareth Tree Stock": [],
+    "Chanterelle Stock": [],
+    "Lumipora Root Stock": [],
+    "Flowering Cactus Root Stock": []
+  },
+  "Pentlandite": {
+    "Pentlandite": []
+  },
+  "Oil": {
+    "Oil": [
+      {
+        "notes": "refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          194,
+          748,
+          584,
+          421
+        ]
+      },
+      {
+        "notes": "refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      },
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      },
+      {
+        "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      },
+      {
+        "notes": "refined from Dark Soft Wood with pqrv [732, 573, 281, 489] on planet Jotaviko (WW) from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          732,
+          573,
+          281,
+          489
+        ]
+      },
+      {
+        "notes": "refined from Dark Soft Wood with pqrv [707, 672, 442, 368] on planet Akacala from Jungle Underbrush",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          707,
+          672,
+          442,
+          368
+        ]
+      }
+    ]
+  },
+  "Hematite": {
+    "Hematite": []
+  },
+  "Coke": {
+    "Coke": [
+      {
+        "notes": "refined from Washed Coal with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      }
+    ]
+  },
+  "Graphite": {
+    "Graphite": []
+  },
+  "seedling": {
+    "Paradise Plant Seedling": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          713,
+          384,
+          700,
+          775
+        ],
+        "Source": "Bird of Paradise"
+      }
+    ],
+    "Arctic Poppy Seedling": [],
+    "Arctic Rush Seedling": [],
+    "Arctic Lupine Seedling": [],
+    "Lily Seedling": [],
+    "White Snapdragon Seedling": [],
+    "Glowy Rose Seedling": [],
+    "Pink Bellflower Seedling": [],
+    "Campanula Seedling": [],
+    "Cordyline Seedling": [],
+    "Sword Fern Seedling": [],
+    "Boston Fern Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          844,
+          779,
+          840,
+          207
+        ],
+        "Source": "Boston Fern"
+      }
+    ],
+    "Mangrove Palm Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          498,
+          894,
+          815,
+          900
+        ],
+        "Source": "Mangrove Palm"
+      }
+    ],
+    "Monstera Seedling": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          538,
+          352,
+          892,
+          747
+        ],
+        "Source": "Monstera"
+      }
+    ],
+    "Kelp Cutting": [],
+    "Blushing Bonnet Seedling": [],
+    "Glowy Dandelion Seedling": [],
+    "Pampas Grass Seedling": [],
+    "Blue Emberbloom Torch Seedling": [],
+    "Purple Emberbloom Torch Seedling": [],
+    "Tear Leaf Bush Seedling": [],
+    "Dragon Leaf Seedling": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          731,
+          740,
+          759,
+          737
+        ],
+        "Source": "Dragon Leaf"
+      }
+    ],
+    "Young Fern Seedling": [],
+    "Orange Emberbloom Torch Seedling": [],
+    "Dark Wizard Seedling": [],
+    "Small Blue Emberbloom Torch Seedling": [],
+    "Pitcher Plant Seedling": [],
+    "Verdark Cone Seedling": [],
+    "Yellow Snapdragon Seedling": [],
+    "Lumineweave Tendril Seedling": [],
+    "Teal Bellflower Seedling": [],
+    "Witchs Ringlet Seedling": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          617,
+          297,
+          616,
+          535
+        ],
+        "Source": "Witchs Ringlet"
+      }
+    ],
+    "Brimmed Bonnet Seedling": [],
+    "Red Currant Seedling": [],
+    "Ornamental Palm Seedling": [],
+    "Hexavine Spires Seedling": [],
+    "Bromeliad Seedling": [],
+    "White Daisy Seedling": [],
+    "Red Daisy Seedling": [],
+    "Pink Daisy Seedling": [],
+    "Hosta Seedling": [],
+    "Elephant Ear Seedling": [],
+    "Fan Palm Seedling": [],
+    "Purple Snapdragon Seedling": [],
+    "Giant Land Lily Seedling": [],
+    "Dracaena Fragrans Seedling": [],
+    "Leafy Bush Seedling": [],
+    "Pink Snapdragon Seedling": [],
+    "Strawberry Seedling": [],
+    "Teal Daisy Seedling": [],
+    "Yellow Daisy Seedling": [],
+    "Goji Berry Seedling": [],
+    "Teal Snapdragon Seedling": [],
+    "Gold Bellflower Seedling": [],
+    "Purple Bellflower Seedling": [],
+    "Skunk Cabbage Seedling": [],
+    "Purple Daisy Seedling": [],
+    "Lilac Dandy Seedling": [],
+    "Yellow Bellflower Seedling": [],
+    "Aloe Seedling": [],
+    "Pumpkin": [],
+    "Spirae": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          617,
+          691,
+          583,
+          582
+        ],
+        "Source": "Spirae"
+      }
+    ],
+    "Funnel Plant Seedling": [],
+    "Bush Palm": [
+      {
+        "notes": "",
+        "Planet": "Jotaviko (WW)",
+        "pqrv": [
+          748,
+          805,
+          115,
+          722
+        ],
+        "Source": "Bush Palm"
+      }
+    ],
+    "Creosote Bush Seedling": [],
+    "Barrel Cactus Seedling": [],
+    "Pineapple": [],
+    "Fragrant Fern": [],
+    "Cattail Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          207,
+          462,
+          645,
+          252
+        ],
+        "Source": "Cattail"
+      }
+    ],
+    "Bush Palm Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          689,
+          455,
+          827,
+          567
+        ],
+        "Source": "Bush Palm"
+      }
+    ],
+    "Giant Lady Lilly Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          146,
+          731,
+          730,
+          662
+        ],
+        "Source": "Giant Lady Lilly"
+      }
+    ]
+  },
+  "Antimatter Gas": {
+    "Antimatter Gas": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          709,
+          472,
+          328,
+          579
+        ],
+        "Source": "Dark Wizard"
+      }
+    ]
+  },
+  "Washed Coal": {
+    "Washed Coal": [
+      {
+        "notes": "refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          756,
+          184,
+          568,
+          475
+        ]
+      }
+    ]
+  },
+  "Chalcopyrite": {
+    "Chalcopyrite": [
+      {
+        "notes": "refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570,
+          680,
+          308,
+          752
+        ]
+      },
+      {
+        "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Lime ore": {
+    "Lime ore": []
+  },
+  "metalAlloy": {
+    "Chromium Steel": [
+      {
+        "notes": "Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from chromium with pqrv [761, 351, 546, 408] on planet Space from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          761.0,
+          798.0,
+          672.0,
+          408.0
+        ]
+      }
+    ],
+    "Bronze": [],
+    "Brass": [
+      {
+        "notes": "Refined from copper with pqrv [103, 394, 766, 534] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570.0,
+          680.0,
+          766.0,
+          752.0
+        ]
+      },
+      {
+        "notes": "Refined from copper with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570.0,
+          680.0,
+          308.0,
+          752.0
+        ]
+      },
+      {
+        "notes": "Refined from copper with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Chalcopyrite with pqrv [468, 676, 785, 366] not found on planet Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining and Refined from zinc with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          570.0,
+          680.0,
+          785.0,
+          752.0
+        ]
+      }
+    ],
+    "Cadmiumin": [],
+    "Electrum": [],
+    "Lithalum": [],
+    "Nickel Silver": [],
+    "Pewter": [],
+    "Stainless Steel": [],
+    "Steel": [
+      {
+        "notes": "Refined from coke with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Washed Coal with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal Ore with pqrv [756, 184, 568, 475] not found on planet from Refined but refined from Coal with pqrv [756, 184, 568, 475] on planet Akacala from Mining and Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from magnetized iron with pqrv [142, 798, 672, 385] not found on planet from Refined but refined from Iron with pqrv [142, 798, 672, 385] on planet Space from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          449.0,
+          798.0,
+          672.0,
+          430.0
+        ]
+      }
+    ],
+    "Triadite": [],
+    "UAl": [],
+    "Uralex": [],
+    "Tungsten Carbide": [],
+    "Cobalt Steel": [
+      {
+        "notes": "Refined from iron with pqrv [142, 798, 672, 385] on planet Space from Mining and Refined from cobalt with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Cobaltite with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468.0,
+          798.0,
+          785.0,
+          385.0
+        ]
+      }
+    ],
+    "Stellite": [],
+    "Palladiance": []
+  },
+  "animal": {
+    "nonSkeletal": {
+      "Hide": []
+    },
+    "skeletal": {
+      "Bone": [],
+      "Horn": []
+    },
+    "meat": {
+      "Raw Alien Meat": [],
+      "Raw Carnivore Meat": [],
+      "Raw Herbivore Meat": [],
+      "Raw Hyper Meat": [],
+      "Raw Fish Meat": [],
+      "Raw Reptile Meat": [],
+      "Raw Insect Meat": [],
+      "Raw Shellfish Meat": [],
+      "Raw Avian Meat": []
+    }
+  },
+  "liquid": {
+    "nonWater": {
+      "Acid": []
+    }
+  },
+  "plant": {
+    "fiber": {
+      "Cactus Fiber": []
+    }
+  },
+  "Basalt Powder": {
+    "Basalt Powder": [
+      {
+        "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Cobaltite": {
+    "Cobaltite": [
+      {
+        "notes": "refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          468,
+          676,
+          785,
+          366
+        ]
+      }
+    ]
+  },
+  "Cooperite": {
+    "Cooperite": []
+  },
+  "Ilmenite": {
+    "Ilmenite": []
+  },
+  "Magnesite": {
+    "Magnesite": [
+      {
+        "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      }
+    ]
+  },
+  "Talc": {
+    "Talc": [
+      {
+        "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
+        "Planet": "",
+        "Source": "Refined",
+        "pqrv": [
+          508,
+          712,
+          316,
+          232
+        ]
+      }
+    ]
+  }
 }
