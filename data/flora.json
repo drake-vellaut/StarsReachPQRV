@@ -91,7 +91,9 @@
       "byproducts": [
         "pink bellflower seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -317,9 +319,7 @@
       "byproducts": [
         "yellow snapdragon seedling"
       ],
-      "planets": [
-        "Bacaratis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -410,7 +410,8 @@
         "spirae"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Jotaviko (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -478,7 +479,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -491,7 +494,8 @@
         "young fern seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -519,7 +523,6 @@
         "pitcher plant seedling"
       ],
       "planets": [
-        "Bacaratis III",
         "Baracatis III"
       ],
       "preferredClimate": [],
@@ -535,7 +538,6 @@
       ],
       "planets": [
         "Baracatis III",
-        "Bacaratis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -686,8 +688,12 @@
       "image": [
         "assets/flora/agave.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "agave seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -699,7 +705,8 @@
         "aloe seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -754,7 +761,8 @@
         "boston fern seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -767,7 +775,8 @@
         "sword fern seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -788,7 +797,9 @@
       "byproducts": [
         "campanula seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -800,7 +811,8 @@
         "cordyline seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -835,7 +847,8 @@
         "mangrove palm seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -857,7 +870,8 @@
         "monstera seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -879,8 +893,12 @@
       "image": [
         "assets/flora/sagebrush.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "sagebrush seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -915,10 +933,12 @@
         "assets/flora/bushPalm.webp"
       ],
       "byproducts": [
-        "bush palm"
+        "bush palm",
+        "bush palm seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -949,11 +969,14 @@
       "byproducts": [
         "nitrogen",
         "alien mushroom chunk",
-        "witchs ringlet seedling"
+        "witchs ringlet seedling",
+        "salt"
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -970,7 +993,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1136,10 +1160,12 @@
         "assets/flora/pricklyPear.webp"
       ],
       "byproducts": [
-        "cactus fruit"
+        "cactus fruit",
+        "prickly pear seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1190,10 +1216,12 @@
         "assets/flora/cactus.webp"
       ],
       "byproducts": [
-        "cactus fiber"
+        "cactus fiber",
+        "cactus root stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1210,7 +1238,9 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Jotaviko (WW)",
+        "Akaala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1308,7 +1338,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1392,7 +1423,8 @@
         "lemon"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1401,8 +1433,13 @@
       "image": [
         "assets/flora/limeTree.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lime"
+      ],
+      "planets": [
+        "Jotaviko (WW)",
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1480,7 +1517,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Jotaviko (WW)"
       ],
       "preferredClimate": [],
       "videos": []

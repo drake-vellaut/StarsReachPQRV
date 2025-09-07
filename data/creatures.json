@@ -6,10 +6,12 @@
       ],
       "byproducts": [
         "horn",
-        "armorcryst"
+        "armorcryst",
+        "raw reptile meat"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -24,7 +26,8 @@
         "raw reptile meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredFood": [],
       "videos": [],
@@ -128,11 +131,13 @@
       ],
       "byproducts": [
         "zircon",
-        "helium"
+        "helium",
+        "raw alien meat"
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredFood": [],
       "videos": [],
@@ -256,11 +261,13 @@
       ],
       "byproducts": [
         "jade",
-        "hide"
+        "hide",
+        "bone"
       ],
       "planets": [
         "Herastag",
-        "Akacala"
+        "Akacala",
+        "Jotaviko (WW)"
       ],
       "preferredFood": [
         "Salt"
@@ -402,9 +409,12 @@
       ],
       "byproducts": [
         "amethyst",
-        "hydrogen"
+        "hydrogen",
+        "raw hyper meat"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -446,7 +456,8 @@
         "acid"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -496,10 +507,12 @@
         "assets/creatures/wildcat.webp"
       ],
       "byproducts": [
-        "hide"
+        "hide",
+        "raw carnivore meat"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Baracatis III"
       ],
       "preferredFood": [
         "Raw Herbivore Meat"
@@ -637,9 +650,12 @@
       "byproducts": [
         "sapphire",
         "radon",
-        "raw fish meat"
+        "raw fish meat",
+        "raw avian meat"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -815,7 +831,9 @@
         "bone",
         "raw herbivore meat"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
