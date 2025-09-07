@@ -50,32 +50,8 @@
           "Source": "Mining"
         }
       ],
-      "Emerald": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            573,
-            726,
-            303,
-            578
-          ],
-          "Source": "Mining"
-        }
-      ],
-      "Sapphire": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            666,
-            372,
-            481,
-            724
-          ],
-          "Source": "Mining"
-        }
-      ]
+      "Emerald": [],
+      "Sapphire": []
     },
     "uncommonGem": {
       "Jade": [
@@ -118,32 +94,8 @@
         }
       ],
       "Topaz": [],
-      "Tourmaline": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            564,
-            288,
-            345,
-            781
-          ],
-          "Source": "Mining"
-        }
-      ],
-      "Opal": [
-        {
-          "notes": "",
-          "Planet": "Jotaviko (WW)",
-          "pqrv": [
-            307,
-            547,
-            729,
-            570
-          ],
-          "Source": "Mining"
-        }
-      ]
+      "Tourmaline": [],
+      "Opal": []
     },
     "commonGem": {
       "Amethyst": [
@@ -159,19 +111,7 @@
           ]
         }
       ],
-      "Quartz": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            786,
-            382,
-            187,
-            662
-          ],
-          "Source": "Mining"
-        }
-      ],
+      "Quartz": [],
       "Agate": [
         {
           "notes": "refined from Breccia with pqrv [194, 748, 584, 421] on planet Akacala from Mining",
@@ -726,7 +666,6 @@
     }
   },
   "wood": {
-    "lightWood": {
     "Light Soft Wood": [
       {
         "notes": "",
@@ -740,22 +679,6 @@
         "Source": "Bush"
       }
     ]
-  },
-    "darkWood": {
-    "Dark Soft Wood": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          707,
-          556,
-          473,
-          363
-        ],
-        "Source": "Bush"
-      }
-    ]
-  },
   },
   "rock": {
     "sedimentaryRock": {
@@ -2459,20 +2382,8 @@
   },
   "animal": {
     "nonSkeletal": {
-    "Hide": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          465,
-          527,
-          761,
-          606
-        ],
-        "Source": "Raindeer"
-      }
-    ]
-  },
+      "Hide": []
+    },
     "skeletal": {
       "Bone": [
         {
@@ -2485,98 +2396,37 @@
             469
           ],
           "Source": "Owldeer"
-        },
-
+        }
       ],
-      "Horn": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          336,
-          730,
-          558,
-          409
-        ],
-        "Source": "Ballhive"
-      }
-    ]
+      "Horn": []
     },
     "meat": {
+      "Raw Alien Meat": [],
       "Raw Carnivore Meat": [],
+      "Raw Herbivore Meat": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            635,
+            781,
+            406,
+            455
+          ],
+          "Source": "Owldeer"
+        }
+      ],
       "Raw Hyper Meat": [],
       "Raw Fish Meat": [],
+      "Raw Reptile Meat": [],
+      "Raw Insect Meat": [],
       "Raw Shellfish Meat": [],
-      "Raw Avian Meat": [],
-      "Raw Herbivore Meat": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          635,
-          781,
-          406,
-          455
-        ],
-        "Source": "Owldeer"
-      }
-    ],
-      "Raw Insect Meat": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            484,
-            667,
-            154,
-            738
-          ],
-          "Source": "Kharvix"
-        }
-      ],
-      "Raw Reptile Meat": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            427,
-            218,
-            510,
-            761
-          ],
-          "Source": "Ballhive"
-        }
-      ],
-      "Raw Alien Meat": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          508,
-          568,
-          484,
-          733
-        ],
-        "Source": "Chuckerhog"
-      }
-    ]
+      "Raw Avian Meat": []
     }
   },
   "liquid": {
     "nonWater": {
-      "Acid": [
-        {
-          "notes": "",
-          "Planet": "Akacala",
-          "pqrv": [
-            382,
-            396,
-            676,
-            752
-          ],
-          "Source": "Kharvix"
-        }
-      ]
+      "Acid": []
     }
   },
   "plant": {
@@ -2649,6 +2499,207 @@
         ]
       }
     ]
+  },
+  "gem": {
+    "commonGem": {
+      "Quartz": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            786,
+            382,
+            187,
+            662
+          ],
+          "Source": "Mining"
+        }
+      ]
+    },
+    "uncommonGem": {
+      "Tourmaline": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            564,
+            288,
+            345,
+            781
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Opal": [
+        {
+          "notes": "",
+          "Planet": "Jotaviko (WW)",
+          "pqrv": [
+            307,
+            547,
+            729,
+            570
+          ],
+          "Source": "Mining"
+        }
+      ]
+    },
+    "rareGem": {
+      "Emerald": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            573,
+            726,
+            303,
+            578
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Sapphire": [
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            666,
+            372,
+            481,
+            724
+          ],
+          "Source": "Mining"
+        }
+      ]
+    }
+  },
+  "lightWood": {
+    "Light Soft Wood": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          550,
+          248,
+          717,
+          352
+        ],
+        "Source": "Bush"
+      }
+    ]
+  },
+  "darkWood": {
+    "Dark Soft Wood": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          707,
+          556,
+          473,
+          363
+        ],
+        "Source": "Bush"
+      }
+    ]
+  },
+  "meat": {
+    "Raw Herbivore Meat": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          635,
+          781,
+          406,
+          455
+        ],
+        "Source": "Owldeer"
+      }
+    ],
+    "Raw Insect Meat": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          484,
+          667,
+          154,
+          738
+        ],
+        "Source": "Kharvix"
+      }
+    ],
+    "Raw Reptile Meat": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          427,
+          218,
+          510,
+          761
+        ],
+        "Source": "Ballhive"
+      }
+    ],
+    "Raw Alien Meat": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          508,
+          568,
+          484,
+          733
+        ],
+        "Source": "Chuckerhog"
+      }
+    ]
+  },
+  "nonWater": {
+    "Acid": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          382,
+          396,
+          676,
+          752
+        ],
+        "Source": "Kharvix"
+      }
+    ]
+  },
+  "skeletal": {
+    "Horn": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          336,
+          730,
+          558,
+          409
+        ],
+        "Source": "Ballhive"
+      }
+    ]
+  },
+  "nonSkeletal": {
+    "Hide": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          465,
+          527,
+          761,
+          606
+        ],
+        "Source": "Raindeer"
+      }
+    ]
   }
-  
 }
