@@ -339,7 +339,7 @@
                 }
             ],
             "Topaz": [
-              {
+                {
                     "notes": "",
                     "Planet": "Herastag",
                     "pqrv": [
@@ -520,7 +520,7 @@
                 }
             ],
             "Garnet": [
-              {
+                {
                     "notes": "",
                     "Planet": "Herastag",
                     "pqrv": [
@@ -577,7 +577,7 @@
                 }
             ],
             "Zircon": [
-              {
+                {
                     "notes": "",
                     "Planet": "Baracatis III",
                     "pqrv": [
@@ -599,7 +599,7 @@
                     ],
                     "Source": "Chuckerhog"
                 },
-              {
+                {
                     "notes": "",
                     "Planet": "Akacala",
                     "pqrv": [
@@ -2059,27 +2059,27 @@
         "lightWood": {
             "Light Soft Wood": [
                 {
-                  "notes": "",
-                  "Planet": "Jotaviko (WW)",
-                  "pqrv": [
-                      363,
-                      798,
-                      570,
-                      205
-                  ],
-                  "Source": "Tree"
-              },
-              {
-                  "notes": "",
-                  "Planet": "Akacala",
-                  "pqrv": [
-                      453,
-                      740,
-                      610,
-                      348
-                  ],
-                  "Source": "Tree"
-              },
+                    "notes": "",
+                    "Planet": "Jotaviko (WW)",
+                    "pqrv": [
+                        363,
+                        798,
+                        570,
+                        205
+                    ],
+                    "Source": "Tree"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        453,
+                        740,
+                        610,
+                        348
+                    ],
+                    "Source": "Tree"
+                },
                 {
                     "notes": "",
                     "Planet": "Baracatis III",
@@ -3627,6 +3627,28 @@
                     798,
                     453
                 ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [363, 798, 570, 205] not found on planet Refined but refined from Light Soft Wood with pqrv [363, 798, 570, 205] on planet Jotaviko (WW) from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    363,
+                    798,
+                    570,
+                    205
+                ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [453, 740, 610, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [453, 740, 610, 348] on planet Akacala from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    453,
+                    740,
+                    610,
+                    348
+                ]
             }
         ]
     },
@@ -4198,6 +4220,50 @@
                     138,
                     798,
                     453
+                ]
+            },
+            {
+                "notes": "refined from Light Soft Wood with pqrv [363, 798, 570, 205] on planet Jotaviko (WW) from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    363,
+                    798,
+                    570,
+                    205
+                ]
+            },
+            {
+                "notes": "refined from Light Soft Wood with pqrv [453, 740, 610, 348] on planet Akacala from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    453,
+                    740,
+                    610,
+                    348
+                ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [363, 798, 570, 205] not found on planet Refined but refined from Light Soft Wood with pqrv [363, 798, 570, 205] on planet Jotaviko (WW) from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    363,
+                    798,
+                    570,
+                    205
+                ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [453, 740, 610, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [453, 740, 610, 348] on planet Akacala from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    453,
+                    740,
+                    610,
+                    348
                 ]
             }
         ]
@@ -5174,6 +5240,28 @@
                     138,
                     798,
                     453
+                ]
+            },
+            {
+                "notes": "refined from Light Soft Wood with pqrv [363, 798, 570, 205] on planet Jotaviko (WW) from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    363,
+                    798,
+                    570,
+                    205
+                ]
+            },
+            {
+                "notes": "refined from Light Soft Wood with pqrv [453, 740, 610, 348] on planet Akacala from Tree",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    453,
+                    740,
+                    610,
+                    348
                 ]
             }
         ]
@@ -13223,16 +13311,16 @@
                     "Source": "Prowler"
                 },
                 {
-                "notes": "",
-                "Planet": "Baracatis III",
-                "pqrv": [
-                    219,
-                    469,
-                    753,
-                    587
-                ],
-                "Source": "Wildcat"
-            }
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        219,
+                        469,
+                        753,
+                        587
+                    ],
+                    "Source": "Wildcat"
+                }
             ],
             "Raw Hyper Meat": [
                 {
@@ -13247,16 +13335,16 @@
                     "Source": "Bouncing Bunny"
                 },
                 {
-                "notes": "",
-                "Planet": "Baracatis III",
-                "pqrv": [
-                    717,
-                    488,
-                    681,
-                    460
-                ],
-                "Source": "Hare Razor"
-            }
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        717,
+                        488,
+                        681,
+                        460
+                    ],
+                    "Source": "Hare Razor"
+                }
             ],
             "Raw Fish Meat": [
                 {
@@ -13295,28 +13383,30 @@
                     "Source": "Shockroach"
                 },
                 {
-                "notes": "",
-                "Planet": "Space",
-                "pqrv": [
-                    214,
-                    426,
-                    706,
-                    520
-                ],
-                "Source": "Caustisect"
-            }
+                    "notes": "",
+                    "Planet": "Space",
+                    "pqrv": [
+                        214,
+                        426,
+                        706,
+                        520
+                    ],
+                    "Source": "Caustisect"
+                }
             ],
-            "Raw Avian Meat": [{
-                "notes": "",
-                "Planet": "Akacala",
-                "pqrv": [
-                    681,
-                    306,
-                    729,
-                    476
-                ],
-                "Source": "Spittershark"
-            }],
+            "Raw Avian Meat": [
+                {
+                    "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        681,
+                        306,
+                        729,
+                        476
+                    ],
+                    "Source": "Spittershark"
+                }
+            ],
             "Raw Herbivore Meat": [
                 {
                     "notes": "",
@@ -13457,17 +13547,17 @@
     "plant": {
         "fiber": {
             "Cactus Fiber": [
-              {
-                "notes": "",
-                "Planet": "Herastag",
-                "pqrv": [
-                    588,
-                    709,
-                    581,
-                    319
-                ],
-                "Source": "Cactus"
-            }
+                {
+                    "notes": "",
+                    "Planet": "Herastag",
+                    "pqrv": [
+                        588,
+                        709,
+                        581,
+                        319
+                    ],
+                    "Source": "Cactus"
+                }
             ]
         }
     },
