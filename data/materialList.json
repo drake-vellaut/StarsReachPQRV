@@ -428,6 +428,17 @@
                         781
                     ],
                     "Source": "Mining"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        501,
+                        383,
+                        456,
+                        725
+                    ],
+                    "Source": "Mining"
                 }
             ],
             "Opal": [
@@ -592,6 +603,17 @@
                         148,
                         411,
                         792
+                    ],
+                    "Source": "Witchs Ringlet"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        684,
+                        482,
+                        309,
+                        724
                     ],
                     "Source": "Witchs Ringlet"
                 }
@@ -1194,6 +1216,17 @@
                         148,
                         411,
                         792
+                    ]
+                },
+                {
+                    "notes": "refined from Spodumene with pqrv [684, 482, 309, 724] not found on planet Refined but refined from Salt with pqrv [684, 482, 309, 724] on planet Baracatis III from Witchs Ringlet",
+                    "Planet": "",
+                    "Source": "Refined",
+                    "pqrv": [
+                        684,
+                        482,
+                        309,
+                        724
                     ]
                 }
             ],
@@ -2359,6 +2392,17 @@
                         407
                     ],
                     "Source": "Mining Meteor"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        668,
+                        732,
+                        123,
+                        443
+                    ],
+                    "Source": "Mining"
                 }
             ],
             "Palladium": []
@@ -2584,7 +2628,19 @@
                     "Source": "Mining"
                 }
             ],
-            "Chalk": [],
+            "Chalk": [
+                {
+                    "notes": "lithifying from (bare) chalky soil",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        466,
+                        148,
+                        750,
+                        615
+                    ],
+                    "Source": "Mining"
+                }
+            ],
             "Shale": [
                 {
                     "notes": "",
@@ -4278,6 +4334,17 @@
                     115,
                     408
                 ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [466, 148, 750, 615] not found on planet Refined but refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
+                ]
             }
         ]
     },
@@ -4398,6 +4465,17 @@
                     735,
                     637
                 ]
+            },
+            {
+                "notes": "refined from Chalk Block with pqrv [466, 148, 750, 615] not found on planet Refined but refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
+                ]
             }
         ]
     },
@@ -4456,6 +4534,17 @@
                     148,
                     411,
                     792
+                ]
+            },
+            {
+                "notes": "refined from Salt with pqrv [684, 482, 309, 724] on planet Baracatis III from Witchs Ringlet",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    684,
+                    482,
+                    309,
+                    724
                 ]
             }
         ]
@@ -5026,6 +5115,17 @@
                     495,
                     726
                 ]
+            },
+            {
+                "notes": "refined from Oil with pqrv [466, 148, 750, 615] not found on planet Refined but refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
+                ]
             }
         ]
     },
@@ -5400,6 +5500,17 @@
                     735,
                     637
                 ]
+            },
+            {
+                "notes": "refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
+                ]
             }
         ]
     },
@@ -5439,6 +5550,17 @@
                     405,
                     735,
                     637
+                ]
+            },
+            {
+                "notes": "refined from Chalk Block with pqrv [466, 148, 750, 615] not found on planet Refined but refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
                 ]
             }
         ]
@@ -5580,6 +5702,17 @@
                     482,
                     742
                 ]
+            },
+            {
+                "notes": "refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
+                ]
             }
         ]
     },
@@ -5649,6 +5782,17 @@
                     677,
                     482,
                     742
+                ]
+            },
+            {
+                "notes": "refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
                 ]
             }
         ]
@@ -5745,6 +5889,17 @@
                     677,
                     482,
                     742
+                ]
+            },
+            {
+                "notes": "refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
                 ]
             }
         ]
@@ -6232,6 +6387,17 @@
                     666,
                     115,
                     408
+                ]
+            },
+            {
+                "notes": "refined from Chalk with pqrv [466, 148, 750, 615] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    466,
+                    148,
+                    750,
+                    615
                 ]
             }
         ]
@@ -16359,6 +16525,17 @@
                         680
                     ],
                     "Source": "Nadraxes knows"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Grofin (WW)",
+                    "pqrv": [
+                        473,
+                        363,
+                        720,
+                        686
+                    ],
+                    "Source": "Prowler"
                 }
             ]
         },
@@ -16396,6 +16573,17 @@
                         597
                     ],
                     "Source": "Raindeer"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Grofin (WW)",
+                    "pqrv": [
+                        753,
+                        615,
+                        489,
+                        172
+                    ],
+                    "Source": "Heetah"
                 }
             ],
             "Horn": [
@@ -16479,6 +16667,17 @@
                         622
                     ],
                     "Source": "Sleetah"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Grofin (WW)",
+                    "pqrv": [
+                        148,
+                        491,
+                        784,
+                        546
+                    ],
+                    "Source": "Prowler"
                 }
             ],
             "Raw Hyper Meat": [
@@ -16575,6 +16774,17 @@
                         476
                     ],
                     "Source": "Spittershark"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Herastag",
+                    "pqrv": [
+                        674,
+                        592,
+                        710,
+                        420
+                    ],
+                    "Source": "Spattershark"
                 }
             ],
             "Raw Herbivore Meat": [
@@ -16621,6 +16831,17 @@
                         655,
                         122,
                         800
+                    ],
+                    "Source": "Kharvix"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Grofin (WW)",
+                    "pqrv": [
+                        354,
+                        586,
+                        213,
+                        756
                     ],
                     "Source": "Kharvix"
                 }
@@ -16693,6 +16914,17 @@
                         799
                     ],
                     "Source": "Artyhog"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Baracatis III",
+                    "pqrv": [
+                        470,
+                        693,
+                        461,
+                        799
+                    ],
+                    "Source": "Invader"
                 }
             ]
         }
@@ -16719,6 +16951,17 @@
                         224,
                         636,
                         774
+                    ],
+                    "Source": "Kharvix"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Grofin (WW)",
+                    "pqrv": [
+                        364,
+                        307,
+                        509,
+                        785
                     ],
                     "Source": "Kharvix"
                 }
