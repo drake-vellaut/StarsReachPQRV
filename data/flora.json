@@ -60,9 +60,7 @@
       "byproducts": [
         "kelp cutting"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -105,7 +103,7 @@
         "pink daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -117,9 +115,7 @@
       "byproducts": [
         "pink snapdragon seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -130,7 +126,9 @@
       "byproducts": [
         "glowy dandelion seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -152,9 +150,7 @@
       "byproducts": [
         "purple daisy seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -166,10 +162,7 @@
         "purple emberbloom torch seedling",
         "ammonia"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -181,7 +174,7 @@
         "purple snapdragon seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -194,10 +187,7 @@
         "orange emberbloom torch seedling",
         "ammonia"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -209,7 +199,7 @@
         "red daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -234,9 +224,7 @@
       "byproducts": [
         "teal daisy seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -247,9 +235,7 @@
       "byproducts": [
         "teal snapdragon seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -270,7 +256,7 @@
         "white daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -282,7 +268,9 @@
       "byproducts": [
         "white snapdragon seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -307,7 +295,7 @@
         "yellow daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -340,10 +328,7 @@
         "goji berry",
         "goji berry seedling"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -355,7 +340,7 @@
         "red currant seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -383,7 +368,6 @@
         "lumineweave tendril seedling"
       ],
       "planets": [
-        "Baracatis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -410,7 +394,6 @@
         "spirae"
       ],
       "planets": [
-        "Baracatis III",
         "Jotaviko (WW)"
       ],
       "preferredClimate": [],
@@ -423,9 +406,7 @@
       "byproducts": [
         "funnel plant seedling"
       ],
-      "planets": [
-        "Herastag"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -437,7 +418,7 @@
         "pampas grass seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -450,10 +431,7 @@
         "blue emberbloom torch seedling",
         "ammonia"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -464,9 +442,7 @@
       "byproducts": [
         "tear leaf bush seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -478,10 +454,9 @@
         "dragon leaf seedling"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala",
         "Jotaviko (WW)",
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -508,10 +483,7 @@
         "small blue emberbloom torch seedling",
         "ammonia"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -522,9 +494,7 @@
       "byproducts": [
         "pitcher plant seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -536,10 +506,7 @@
         "tin",
         "verdark cone seedling"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -550,9 +517,7 @@
       "byproducts": [
         "ornamental palm seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -566,8 +531,6 @@
         "chlorine"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala",
         "Herastag"
       ],
       "preferredClimate": [],
@@ -580,10 +543,7 @@
       "byproducts": [
         "bromeliad seedling"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -607,10 +567,7 @@
       "byproducts": [
         "elephant ear seedling"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -622,8 +579,7 @@
         "fan palm seedling"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala"
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -636,7 +592,6 @@
         "giant land lily seedling"
       ],
       "planets": [
-        "Baracatis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -650,8 +605,8 @@
         "dracaena fragrans seedling"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -663,9 +618,7 @@
       "byproducts": [
         "leafy bush seedling"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -677,10 +630,7 @@
         "skunk cabbage seedling",
         "methane"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -692,7 +642,8 @@
         "agave seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -705,8 +656,8 @@
         "aloe seedling"
       ],
       "planets": [
-        "Baracatis III",
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -718,7 +669,9 @@
       "byproducts": [
         "arctic lupine seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -740,7 +693,9 @@
       "byproducts": [
         "arctic rush seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -775,8 +730,8 @@
         "sword fern seedling"
       ],
       "planets": [
-        "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -798,7 +753,8 @@
         "campanula seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -811,8 +767,8 @@
         "cordyline seedling"
       ],
       "planets": [
-        "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -825,7 +781,8 @@
         "creosote bush seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -834,8 +791,12 @@
       "image": [
         "assets/flora/ilima.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "ilima seedling"
+      ],
+      "planets": [
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -870,8 +831,8 @@
         "monstera seedling"
       ],
       "planets": [
-        "Akacala",
-        "Jotaviko (WW)"
+        "Jotaviko (WW)",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -883,9 +844,7 @@
       "byproducts": [
         "paradise plant seedling"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -897,7 +856,8 @@
         "sagebrush seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -909,9 +869,7 @@
       "byproducts": [
         "fragrant fern"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -937,7 +895,6 @@
         "bush palm seedling"
       ],
       "planets": [
-        "Herastag",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -956,7 +913,6 @@
         "salt"
       ],
       "planets": [
-        "Baracatis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -973,10 +929,11 @@
         "salt"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala",
         "Jotaviko (WW)",
-        "Herastag"
+        "Akacala",
+        "Herastag",
+        "Grofin (WW)",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -993,8 +950,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala",
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1009,9 +967,7 @@
         "lilac dandy seedling",
         "salt"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1026,7 +982,6 @@
         "blushing bonnet seedling"
       ],
       "planets": [
-        "Baracatis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -1041,7 +996,7 @@
         "golden poplar stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1096,10 +1051,7 @@
         "chanterelle chunk",
         "chanterelle stock"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1111,9 +1063,7 @@
         "fairy morel chunk",
         "fairy morel stock"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     }
@@ -1127,9 +1077,7 @@
         "flowering cactus root stock",
         "cactus fiber"
       ],
-      "planets": [
-        "Herastag"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1141,7 +1089,8 @@
         "barrel cactus seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1164,8 +1113,8 @@
         "prickly pear seedling"
       ],
       "planets": [
-        "Baracatis III",
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1204,10 +1153,7 @@
       "byproducts": [
         "lumipora root stock"
       ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1220,8 +1166,8 @@
         "cactus root stock"
       ],
       "planets": [
-        "Baracatis III",
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1237,8 +1183,6 @@
         "coconut"
       ],
       "planets": [
-        "Akacala",
-        "Baracatis III",
         "Jotaviko (WW)",
         "Akaala"
       ],
@@ -1279,9 +1223,7 @@
       "byproducts": [
         "light soft wood"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1292,9 +1234,7 @@
       "byproducts": [
         "light hard wood"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1306,9 +1246,7 @@
         "dark soft wood",
         "papaya tree root stock"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1321,7 +1259,6 @@
         "blue veil root stock"
       ],
       "planets": [
-        "Baracatis III",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -1337,9 +1274,8 @@
         "lunareth tree stock"
       ],
       "planets": [
-        "Baracatis III",
-        "Akacala",
-        "Jotaviko (WW)"
+        "Jotaviko (WW)",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1370,9 +1306,7 @@
       "byproducts": [
         "light hard wood"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1384,9 +1318,7 @@
         "light hard wood",
         "beech tree root stock"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1399,9 +1331,7 @@
         "elm tree root stock",
         "light hard wood"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1423,8 +1353,8 @@
         "lemon"
       ],
       "planets": [
-        "Akacala",
-        "Jotaviko (WW)"
+        "Jotaviko (WW)",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1459,9 +1389,7 @@
       "byproducts": [
         "dark soft wood"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1472,9 +1400,7 @@
       "byproducts": [
         "methane"
       ],
-      "planets": [
-        "Herastag"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1486,9 +1412,7 @@
         "light hard wood",
         "striped maple tree root stock"
       ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1500,9 +1424,7 @@
         "light hard wood",
         "willow tree root stock"
       ],
-      "planets": [
-        "Akacala"
-      ],
+      "planets": [],
       "preferredClimate": [],
       "videos": []
     },
@@ -1516,9 +1438,8 @@
         "banana tree root stock"
       ],
       "planets": [
-        "Akacala",
-        "Baracatis III",
-        "Jotaviko (WW)"
+        "Jotaviko (WW)",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []

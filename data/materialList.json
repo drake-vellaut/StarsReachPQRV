@@ -148,6 +148,17 @@
                         668,
                         599
                     ]
+                },
+                {
+                    "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                    "Planet": "",
+                    "Source": "Refined",
+                    "pqrv": [
+                        402,
+                        798,
+                        647,
+                        295
+                    ]
                 }
             ],
             "Emerald": [
@@ -752,6 +763,17 @@
                         668,
                         599
                     ]
+                },
+                {
+                    "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                    "Planet": "",
+                    "Source": "Refined",
+                    "pqrv": [
+                        402,
+                        798,
+                        647,
+                        295
+                    ]
                 }
             ]
         },
@@ -774,7 +796,19 @@
     },
     "gas": {
         "reactiveGas": {
-            "Ammonia": [],
+            "Ammonia": [
+                {
+                    "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        587,
+                        739,
+                        354,
+                        181
+                    ],
+                    "Source": "Blushing Bonnet"
+                }
+            ],
             "Fluorine": [
                 {
                     "notes": "refined from Dolomite with pqrv [508, 712, 316, 232] on planet Jotaviko (WW) from Mining",
@@ -1923,6 +1957,17 @@
                         668,
                         599
                     ]
+                },
+                {
+                    "notes": "refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                    "Planet": "",
+                    "Source": "Refined",
+                    "pqrv": [
+                        402,
+                        798,
+                        647,
+                        295
+                    ]
                 }
             ],
             "Lead": [
@@ -2016,6 +2061,17 @@
                         737,
                         668,
                         599
+                    ]
+                },
+                {
+                    "notes": "refined from Bismuthite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                    "Planet": "",
+                    "Source": "Refined",
+                    "pqrv": [
+                        402,
+                        798,
+                        647,
+                        295
                     ]
                 }
             ],
@@ -2728,6 +2784,17 @@
                         599
                     ],
                     "Source": "Mining"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        402,
+                        798,
+                        647,
+                        295
+                    ],
+                    "Source": "Mining"
                 }
             ],
             "Diorite": [
@@ -3279,7 +3346,19 @@
                 "Source": "Witchs Ringlet"
             }
         ],
-        "Golden Poplar Chunk": [],
+        "Golden Poplar Chunk": [
+            {
+                "notes": "",
+                "Planet": "Akacala",
+                "pqrv": [
+                    436,
+                    790,
+                    603,
+                    404
+                ],
+                "Source": "Golden Poplar"
+            }
+        ],
         "King Stropheria Chunk": [
             {
                 "notes": "",
@@ -3598,6 +3677,17 @@
                     495,
                     726
                 ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
+                ]
             }
         ]
     },
@@ -3775,6 +3865,17 @@
                     668,
                     599
                 ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
+                ]
             }
         ]
     },
@@ -3933,6 +4034,17 @@
                     668,
                     599
                 ]
+            },
+            {
+                "notes": "refined from Feldspar with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
+                ]
             }
         ]
     },
@@ -4032,6 +4144,17 @@
                     737,
                     668,
                     599
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
                 ]
             }
         ]
@@ -4397,7 +4520,19 @@
         ]
     },
     "Ammonium": {
-        "Ammonium": []
+        "Ammonium": [
+            {
+                "notes": "refined from Ammonia with pqrv [587, 739, 354, 181] on planet Akacala from Blushing Bonnet",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    587,
+                    739,
+                    354,
+                    181
+                ]
+            }
+        ]
     },
     "Coal Ore": {
         "Coal Ore": [
@@ -5404,6 +5539,17 @@
                     668,
                     599
                 ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
+                ]
             }
         ]
     },
@@ -5938,6 +6084,17 @@
                     668,
                     599
                 ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
+                ]
             }
         ]
     },
@@ -5974,6 +6131,17 @@
                     737,
                     668,
                     599
+                ]
+            },
+            {
+                "notes": "refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402,
+                    798,
+                    647,
+                    295
                 ]
             }
         ]
@@ -6506,7 +6674,19 @@
             }
         ],
         "Arctic Poppy Seedling": [],
-        "Arctic Rush Seedling": [],
+        "Arctic Rush Seedling": [
+            {
+                "notes": "",
+                "Planet": "Akacala",
+                "pqrv": [
+                    868,
+                    118,
+                    306,
+                    603
+                ],
+                "Source": "Arctic Rush"
+            }
+        ],
         "Arctic Lupine Seedling": [
             {
                 "notes": "",
@@ -6693,7 +6873,19 @@
             }
         ],
         "Kelp Cutting": [],
-        "Blushing Bonnet Seedling": [],
+        "Blushing Bonnet Seedling": [
+            {
+                "notes": "",
+                "Planet": "Akacala",
+                "pqrv": [
+                    269,
+                    176,
+                    723,
+                    492
+                ],
+                "Source": "Blushing Bonnet"
+            }
+        ],
         "Glowy Dandelion Seedling": [
             {
                 "notes": "",
@@ -6885,7 +7077,19 @@
                 "Source": "Brimmed Bonnet"
             }
         ],
-        "Red Currant Seedling": [],
+        "Red Currant Seedling": [
+            {
+                "notes": "",
+                "Planet": "Akacala",
+                "pqrv": [
+                    149,
+                    697,
+                    726,
+                    700
+                ],
+                "Source": "Red Currant"
+            }
+        ],
         "Ornamental Palm Seedling": [],
         "Hexavine Spires Seedling": [
             {
@@ -7374,6 +7578,19 @@
                     575
                 ],
                 "Source": "Ilima"
+            }
+        ],
+        "Sunset Coleus Seedling": [
+            {
+                "notes": "",
+                "Planet": "Akacala",
+                "pqrv": [
+                    155,
+                    705,
+                    474,
+                    775
+                ],
+                "Source": "Sunset Coleus"
             }
         ]
     },
@@ -8704,6 +8921,138 @@
                     737.0,
                     668.0,
                     599.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [103, 394, 766, 534] on planet Jotaviko (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402.0,
+                    798.0,
+                    766.0,
+                    534.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    570.0,
+                    798.0,
+                    647.0,
+                    752.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [468, 676, 785, 366] not found on planet from Refined but refined from Chalcopyrite with pqrv [468, 676, 785, 366] not found on planet Refined but refined from Basalt with pqrv [468, 676, 785, 366] on planet Jotaviko (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    468.0,
+                    798.0,
+                    785.0,
+                    366.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [222, 410, 737, 587] on planet Akacala from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402.0,
+                    798.0,
+                    737.0,
+                    587.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [559, 535, 443, 781] not found on planet from Refined but refined from Chalcopyrite with pqrv [559, 535, 443, 781] not found on planet Refined but refined from Sandstone with pqrv [559, 535, 443, 781] on planet Akacala from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    559.0,
+                    798.0,
+                    647.0,
+                    781.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [787, 125, 399, 115] not found on planet from Refined but refined from Chalcopyrite with pqrv [787, 125, 399, 115] not found on planet Refined but refined from Gneiss with pqrv [787, 125, 399, 115] on planet Akacala from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    787.0,
+                    798.0,
+                    647.0,
+                    295.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [349, 341, 727, 677] on planet Space from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402.0,
+                    798.0,
+                    727.0,
+                    677.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Chalcopyrite with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    570.0,
+                    798.0,
+                    647.0,
+                    752.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [784, 296, 330, 271] not found on planet from Refined but refined from Chalcopyrite with pqrv [784, 296, 330, 271] not found on planet Refined but refined from Gneiss with pqrv [784, 296, 330, 271] on planet Space from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    784.0,
+                    798.0,
+                    647.0,
+                    295.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [728, 328, 321, 516] not found on planet from Refined but refined from Chalcopyrite with pqrv [728, 328, 321, 516] not found on planet Refined but refined from Gneiss with pqrv [728, 328, 321, 516] on planet Herastag from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    728.0,
+                    798.0,
+                    647.0,
+                    516.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [490, 677, 482, 742] not found on planet from Refined but refined from Chalcopyrite with pqrv [490, 677, 482, 742] not found on planet Refined but refined from Sandstone with pqrv [490, 677, 482, 742] on planet Grofin (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    490.0,
+                    798.0,
+                    647.0,
+                    742.0
+                ]
+            },
+            {
+                "notes": "Refined from copper with pqrv [739, 415, 356, 135] not found on planet from Refined but refined from Chalcopyrite with pqrv [739, 415, 356, 135] not found on planet Refined but refined from Gneiss with pqrv [739, 415, 356, 135] on planet Grofin (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    739.0,
+                    798.0,
+                    647.0,
+                    295.0
                 ]
             }
         ],
@@ -10170,6 +10519,83 @@
                     490.0,
                     737.0,
                     668.0,
+                    742.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    570.0,
+                    798.0,
+                    647.0,
+                    752.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [765, 238, 586, 365] on planet Jotaviko (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    765.0,
+                    798.0,
+                    647.0,
+                    365.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [559, 535, 443, 781] not found on planet from Refined but refined from Sphalerite with pqrv [559, 535, 443, 781] not found on planet Refined but refined from Sandstone with pqrv [559, 535, 443, 781] on planet Akacala from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    559.0,
+                    798.0,
+                    647.0,
+                    781.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [399, 327, 780, 696] not found on planet from Refined but refined from Sphalerite with pqrv [399, 327, 780, 696] not found on planet Refined but refined from Limestone with pqrv [399, 327, 780, 696] on planet Baracatis III from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402.0,
+                    798.0,
+                    780.0,
+                    696.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [570, 680, 308, 752] not found on planet from Refined but refined from Sphalerite with pqrv [570, 680, 308, 752] not found on planet Refined but refined from Sandstone with pqrv [570, 680, 308, 752] on planet Jotaviko from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    570.0,
+                    798.0,
+                    647.0,
+                    752.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [593, 344, 495, 726] not found on planet from Refined but refined from Sphalerite with pqrv [593, 344, 495, 726] not found on planet Refined but refined from Shale with pqrv [593, 344, 495, 726] on planet Grofin (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    593.0,
+                    798.0,
+                    647.0,
+                    726.0
+                ]
+            },
+            {
+                "notes": "Refined from cadmium with pqrv [490, 677, 482, 742] not found on planet from Refined but refined from Sphalerite with pqrv [490, 677, 482, 742] not found on planet Refined but refined from Sandstone with pqrv [490, 677, 482, 742] on planet Grofin (WW) from Mining and Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    490.0,
+                    798.0,
+                    647.0,
                     742.0
                 ]
             }
@@ -13368,6 +13794,28 @@
                     737.0,
                     733.0,
                     599.0
+                ]
+            },
+            {
+                "notes": "Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining and Refined from lead with pqrv [433, 361, 720, 548] on planet Akacala from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    433.0,
+                    798.0,
+                    720.0,
+                    548.0
+                ]
+            },
+            {
+                "notes": "Refined from tin with pqrv [402, 798, 647, 295] not found on planet from Refined but refined from Cassiterite with pqrv [402, 798, 647, 295] not found on planet Refined but refined from Granite with pqrv [402, 798, 647, 295] on planet Akacala from Mining and Refined from lead with pqrv [351, 397, 733, 567] on planet Herastag from Mining",
+                "Planet": "",
+                "Source": "Refined",
+                "pqrv": [
+                    402.0,
+                    798.0,
+                    733.0,
+                    567.0
                 ]
             }
         ],

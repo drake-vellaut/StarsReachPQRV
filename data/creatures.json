@@ -5,13 +5,13 @@
         "assets/creatures/ballhive.webp"
       ],
       "byproducts": [
-        "horn",
         "armorcryst",
+        "horn",
         "raw reptile meat"
       ],
       "planets": [
-        "Herastag",
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredFood": [],
       "videos": [],
@@ -26,7 +26,6 @@
         "raw reptile meat"
       ],
       "planets": [
-        "Baracatis III",
         "Herastag"
       ],
       "preferredFood": [],
@@ -42,8 +41,7 @@
         "raw reptile meat"
       ],
       "planets": [
-        "Herastag",
-        "Baracatis III"
+        "Grofin (WW)"
       ],
       "preferredFood": [],
       "videos": [],
@@ -65,8 +63,14 @@
       "image": [
         "assets/creatures/artyhog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "zircon",
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -115,12 +119,8 @@
       "image": [
         "assets/creatures/brutehog.webp"
       ],
-      "byproducts": [
-        "helium"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -135,9 +135,8 @@
         "raw alien meat"
       ],
       "planets": [
-        "Akacala",
-        "Baracatis III",
-        "Herastag"
+        "Herastag",
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -157,8 +156,13 @@
       "image": [
         "assets/creatures/dreadZeppelin.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "emerald",
+        "chlorine"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -197,8 +201,12 @@
       "image": [
         "assets/creatures/invader.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw alien meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -260,12 +268,10 @@
         "assets/creatures/raindeer.webp"
       ],
       "byproducts": [
-        "jade",
         "hide",
         "bone"
       ],
       "planets": [
-        "Herastag",
         "Akacala",
         "Jotaviko (WW)"
       ],
@@ -309,13 +315,8 @@
       "image": [
         "assets/creatures/banedeer.webp"
       ],
-      "byproducts": [
-        "hide"
-      ],
-      "planets": [
-        "Baracatis III",
-        "Herastag"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [
         "Salt"
       ],
@@ -328,12 +329,8 @@
       "image": [
         "assets/creatures/jackalope.webp"
       ],
-      "byproducts": [
-        "bone"
-      ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -342,14 +339,8 @@
       "image": [
         "assets/creatures/hare.webp"
       ],
-      "byproducts": [
-        "bone",
-        "raw herbivore meat"
-      ],
-      "planets": [
-        "Baracatis III",
-        "Akacala"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [
         "Chanterelle Stock"
       ],
@@ -365,7 +356,6 @@
         "raw herbivore meat"
       ],
       "planets": [
-        "Akacala",
         "Baracatis III"
       ],
       "preferredFood": [
@@ -394,10 +384,7 @@
       "image": [
         "assets/creatures/velocirabbit.webp"
       ],
-      "byproducts": [
-        "amethyst",
-        "hydrogen"
-      ],
+      "byproducts": [],
       "planets": [],
       "preferredFood": [],
       "videos": [],
@@ -436,10 +423,12 @@
         "assets/creatures/prowler.webp"
       ],
       "byproducts": [
-        "hide"
+        "hide",
+        "raw carnivore meat"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Grofin (WW)"
       ],
       "preferredFood": [
         "Raw Herbivore Meat"
@@ -457,7 +446,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Grofin (WW)"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -470,11 +460,10 @@
         "assets/creatures/sleetah.webp"
       ],
       "byproducts": [
-        "hide",
-        "bone"
+        "raw carnivore meat"
       ],
       "planets": [
-        "Herastag"
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -484,8 +473,12 @@
       "image": [
         "assets/creatures/heetah.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone"
+      ],
+      "planets": [
+        "Grofin (WW)"
+      ],
       "preferredFood": [
         "Raw Herbivore Meat"
       ],
@@ -511,7 +504,6 @@
         "raw carnivore meat"
       ],
       "planets": [
-        "Herastag",
         "Baracatis III"
       ],
       "preferredFood": [
@@ -551,7 +543,7 @@
         "raw fish meat"
       ],
       "planets": [
-        "Akacala"
+        "Herastag"
       ],
       "preferredFood": [],
       "videos": [],
@@ -561,14 +553,8 @@
       "image": [
         "assets/creatures/blastaria.webp"
       ],
-      "byproducts": [
-        "lapis lazuli",
-        "oil",
-        "raw shellfish meat"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -582,7 +568,8 @@
         "raw shellfish meat"
       ],
       "planets": [
-        "Space"
+        "Space",
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -592,13 +579,8 @@
       "image": [
         "assets/creatures/flyingFish.webp"
       ],
-      "byproducts": [
-        "radon",
-        "raw fish meat"
-      ],
-      "planets": [
-        "Akacala"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -607,13 +589,8 @@
       "image": [
         "assets/creatures/midge.webp"
       ],
-      "byproducts": [
-        "oil",
-        "raw shellfish meat"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -622,13 +599,8 @@
       "image": [
         "assets/creatures/roach.webp"
       ],
-      "byproducts": [
-        "oil",
-        "raw shellfish meat"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -637,8 +609,14 @@
       "image": [
         "assets/creatures/shockroach.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lapis lazuli",
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -648,9 +626,6 @@
         "assets/creatures/spittershark.webp"
       ],
       "byproducts": [
-        "sapphire",
-        "radon",
-        "raw fish meat",
         "raw avian meat"
       ],
       "planets": [
@@ -694,8 +669,14 @@
       "image": [
         "assets/creatures/acidfish.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "sapphire",
+        "radon",
+        "raw fish meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -714,14 +695,8 @@
       "image": [
         "assets/creatures/coldFishun.webp"
       ],
-      "byproducts": [
-        "vesuvianite",
-        "xenon",
-        "raw avian meat"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -750,13 +725,8 @@
       "image": [
         "assets/creatures/hypermaw.webp"
       ],
-      "byproducts": [
-        "vesuvianite",
-        "raw avian meat"
-      ],
-      "planets": [
-        "Space"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -842,13 +812,8 @@
       "image": [
         "assets/creatures/razorbeak.webp"
       ],
-      "byproducts": [
-        "bone",
-        "raw herbivore meat"
-      ],
-      "planets": [
-        "Baracatis III"
-      ],
+      "byproducts": [],
+      "planets": [],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -867,9 +832,7 @@
       "image": [
         "assets/creatures/glacierhorn.webp"
       ],
-      "byproducts": [
-        "raw herbivore meat"
-      ],
+      "byproducts": [],
       "planets": [],
       "preferredFood": [],
       "videos": [],
@@ -889,11 +852,7 @@
       "image": [
         "assets/creatures/thunderhoof.webp"
       ],
-      "byproducts": [
-        "hide",
-        "bone",
-        "raw herbivore meat"
-      ],
+      "byproducts": [],
       "planets": [],
       "preferredFood": [],
       "videos": [],
