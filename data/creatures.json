@@ -6,11 +6,13 @@
       ],
       "byproducts": [
         "armorcryst",
+        "helium",
         "horn",
         "raw reptile meat"
       ],
       "planets": [
         "Akacala",
+        "Akafin",
         "Baracatis III"
       ],
       "preferredFood": [],
@@ -41,7 +43,8 @@
         "raw reptile meat"
       ],
       "planets": [
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -136,7 +139,8 @@
       ],
       "planets": [
         "Herastag",
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredFood": [],
       "videos": [],
@@ -447,7 +451,8 @@
       "planets": [
         "Akacala",
         "Baracatis III",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Akafin"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -725,8 +730,12 @@
       "image": [
         "assets/creatures/hypermaw.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "vesuvianite"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -802,7 +811,8 @@
         "raw herbivore meat"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -812,8 +822,12 @@
       "image": [
         "assets/creatures/razorbeak.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""

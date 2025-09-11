@@ -4,8 +4,12 @@
       "image": [
         "assets/flora/lily.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lily seedling"
+      ],
+      "planets": [
+        "Akafin"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -17,7 +21,8 @@
         "yellow bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -150,7 +155,9 @@
       "byproducts": [
         "purple daisy seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -406,7 +413,9 @@
       "byproducts": [
         "funnel plant seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -470,7 +479,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -517,7 +527,9 @@
       "byproducts": [
         "ornamental palm seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -579,7 +591,8 @@
         "fan palm seedling"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -592,7 +605,8 @@
         "giant land lily seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -606,7 +620,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -717,7 +732,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -809,7 +825,8 @@
       ],
       "planets": [
         "Akacala",
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -967,7 +984,9 @@
         "lilac dandy seedling",
         "salt"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1275,7 +1294,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1354,7 +1374,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1439,7 +1460,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
