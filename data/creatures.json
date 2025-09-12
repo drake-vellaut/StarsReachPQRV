@@ -72,7 +72,8 @@
         "raw alien meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -122,8 +123,13 @@
       "image": [
         "assets/creatures/brutehog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Akafin"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -162,10 +168,12 @@
       ],
       "byproducts": [
         "emerald",
+        "methane",
         "chlorine"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -343,8 +351,13 @@
       "image": [
         "assets/creatures/hare.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone",
+        "raw herbivore meat"
+      ],
+      "planets": [
+        "Akafin"
+      ],
       "preferredFood": [
         "Chanterelle Stock"
       ],
