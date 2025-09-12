@@ -124,10 +124,12 @@
         "assets/creatures/brutehog.webp"
       ],
       "byproducts": [
+        "zircon",
         "helium",
         "raw alien meat"
       ],
       "planets": [
+        "Baracatis III",
         "Akafin"
       ],
       "preferredFood": [],
@@ -447,7 +449,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Baracatis III"
       ],
       "preferredFood": [
         "Raw Herbivore Meat"
@@ -494,9 +497,12 @@
         "assets/creatures/heetah.webp"
       ],
       "byproducts": [
-        "bone"
+        "hide",
+        "bone",
+        "raw carnivore meat"
       ],
       "planets": [
+        "Baracatis III",
         "Grofin (WW)"
       ],
       "preferredFood": [
@@ -619,8 +625,13 @@
       "image": [
         "assets/creatures/roach.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "oil",
+        "raw shellfish meat"
+      ],
+      "planets": [
+        "Akacala"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
