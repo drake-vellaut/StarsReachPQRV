@@ -35,7 +35,8 @@
         "purple bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -219,7 +220,8 @@
         "teal bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -289,7 +291,8 @@
         "gold bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -361,7 +364,8 @@
         "strawberry seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -567,7 +571,8 @@
         "hosta seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -747,7 +752,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -784,7 +790,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -912,7 +919,8 @@
         "bush palm seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1029,7 +1037,8 @@
         "king stropheria stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1043,7 +1052,8 @@
         "brown shimeji stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1057,7 +1067,9 @@
         "amanita stock"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "akafin",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1203,7 +1215,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akaala"
+        "Akaala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1389,7 +1402,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akacala"
+        "Akacala",
+        "Akafin"
       ],
       "preferredClimate": [],
       "videos": []

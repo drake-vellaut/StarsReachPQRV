@@ -391,7 +391,8 @@
         "raw hyper meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -417,7 +418,8 @@
         "raw hyper meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akafin"
       ],
       "preferredFood": [],
       "videos": [],
@@ -879,8 +881,12 @@
       "image": [
         "assets/creatures/thunderhoof.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "hide"
+      ],
+      "planets": [
+        "Akafin"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
