@@ -13,7 +13,9 @@
       "planets": [
         "Akacala",
         "Akafin",
-        "Baracatis III"
+        "Baracatis III",
+        "Doraglas",
+        "Herastag"
       ],
       "preferredFood": [],
       "videos": [],
@@ -28,7 +30,8 @@
         "raw reptile meat"
       ],
       "planets": [
-        "Herastag"
+        "Herastag",
+        "Doraglas"
       ],
       "preferredFood": [],
       "videos": [],
@@ -44,7 +47,10 @@
       ],
       "planets": [
         "Grofin (WW)",
-        "Akafin"
+        "Akafin",
+        "Doralgas",
+        "Herastag",
+        "Doraglas"
       ],
       "preferredFood": [],
       "videos": [],
@@ -83,8 +89,13 @@
       "image": [
         "assets/creatures/ballhog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -147,7 +158,8 @@
       ],
       "planets": [
         "Herastag",
-        "Akacala"
+        "Akacala",
+        "Baracatis III"
       ],
       "preferredFood": [],
       "videos": [],
@@ -450,7 +462,8 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Baracatis III"
+        "Baracatis III",
+        "Doraglas"
       ],
       "preferredFood": [
         "Raw Herbivore Meat"
@@ -532,7 +545,8 @@
         "raw carnivore meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Doraglas"
       ],
       "preferredFood": [
         "Raw Herbivore Meat"
@@ -581,8 +595,13 @@
       "image": [
         "assets/creatures/blastaria.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "lapis lazuli",
+        "oil"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
