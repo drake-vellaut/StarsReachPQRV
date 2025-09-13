@@ -147,8 +147,7 @@
       ],
       "planets": [
         "Herastag",
-        "Akacala",
-        "Baracatis III"
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -375,7 +374,8 @@
         "raw herbivore meat"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Doraglas"
       ],
       "preferredFood": [
         "Chanterelle Chunk"
@@ -470,7 +470,8 @@
         "Akacala",
         "Baracatis III",
         "Grofin (WW)",
-        "Akafin"
+        "Akafin",
+        "Doraglas"
       ],
       "preferredFood": [
         "Raw Carnivore Meat"
@@ -503,6 +504,7 @@
       ],
       "planets": [
         "Baracatis III",
+        "Doraglas",
         "Grofin (WW)"
       ],
       "preferredFood": [

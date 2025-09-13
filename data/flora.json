@@ -338,7 +338,9 @@
         "goji berry",
         "goji berry seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Doraglas"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -520,7 +522,9 @@
         "tin",
         "verdark cone seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Doraglas"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -663,7 +667,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -677,7 +682,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -805,7 +811,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -881,7 +888,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -974,6 +982,7 @@
         "salt"
       ],
       "planets": [
+        "Doraglas",
         "Baracatis III",
         "Herastag",
         "Grofin (WW)",
@@ -1108,7 +1117,9 @@
         "flowering cactus root stock",
         "cactus fiber"
       ],
-      "planets": [],
+      "planets": [
+        "Doraglas"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1121,7 +1132,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1145,7 +1157,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1184,7 +1197,9 @@
       "byproducts": [
         "lumipora root stock"
       ],
-      "planets": [],
+      "planets": [
+        "Doraglas"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1198,7 +1213,8 @@
       ],
       "planets": [
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Doraglas"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1435,7 +1451,9 @@
       "byproducts": [
         "methane"
       ],
-      "planets": [],
+      "planets": [
+        "Doraglas"
+      ],
       "preferredClimate": [],
       "videos": []
     },
