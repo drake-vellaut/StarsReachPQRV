@@ -3446,7 +3446,7 @@
           "Planet": "Herastag",
           "pqrv": [
             451,
-            7104,
+            710,
             344,
             669
           ],
@@ -53134,6 +53134,17 @@
             781
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            564,
+            288,
+            345,
+            781
+          ],
+          "Source": "Maker"
         }
       ],
       "Opal": [
