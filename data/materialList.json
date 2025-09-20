@@ -26,6 +26,17 @@
                 },
                 {
                     "notes": "",
+                    "Planet": "Doraglas (WW)",
+                    "pqrv": [
+                        539,
+                        531,
+                        795,
+                        333
+                    ],
+                    "Source": "Mining"
+                },
+                {
+                    "notes": "",
                     "Planet": "Akacala",
                     "pqrv": [
                         591,
@@ -392,19 +403,6 @@
                         604,
                         493,
                         703
-                    ],
-                    "Source": "Mining"
-                }
-            ],
-            "basalt": [
-                {
-                    "notes": "",
-                    "Planet": "Doraglas (WW)",
-                    "pqrv": [
-                        539,
-                        531,
-                        795,
-                        333
                     ],
                     "Source": "Mining"
                 }
@@ -1781,7 +1779,7 @@
                     "Planet": "Herastag",
                     "pqrv": [
                         451,
-                        710,
+                        714,
                         344,
                         669
                     ],
@@ -3526,9 +3524,7 @@
                         349
                     ],
                     "Source": "Mining"
-                }
-            ],
-            "Black soil": [
+                },
                 {
                     "notes": "",
                     "Planet": "Herastag",
@@ -3601,7 +3597,18 @@
                 "Source": "Dragon Leaf"
             }
         ],
-        "Bush Palm Seedling": [
+        "Bush Palm": [
+            {
+                "notes": "",
+                "Planet": "Akafin (WW)",
+                "pqrv": [
+                    810,
+                    359,
+                    260,
+                    496
+                ],
+                "Source": "Bush Palm"
+            },
             {
                 "notes": "",
                 "Planet": "Jotaviko (WW)",
@@ -3925,7 +3932,7 @@
                 "Source": "Boston Fern"
             }
         ],
-        "Giant Land Lilly Seedling": [
+        "Giant Land Lily Seedling": [
             {
                 "notes": "",
                 "Planet": "Akacala",
@@ -3936,9 +3943,7 @@
                     662
                 ],
                 "Source": "Giant Land Lilly"
-            }
-        ],
-        "Giant Land Lily Seedling": [
+            },
             {
                 "notes": "",
                 "Planet": "Baracatis III",
@@ -5242,19 +5247,6 @@
                     161
                 ],
                 "Source": "Strawberry"
-            }
-        ],
-        "Bush Palm": [
-            {
-                "notes": "",
-                "Planet": "Akafin (WW)",
-                "pqrv": [
-                    810,
-                    359,
-                    260,
-                    496
-                ],
-                "Source": "Bush Palm"
             }
         ],
         "Lady Fern Seedling": [
@@ -8258,43 +8250,6 @@
                     750
                 ],
                 "Source": "Chanterelle"
-            }
-        ],
-        "Chanterelle Stock": [
-            {
-                "notes": "",
-                "Planet": "Baracatis III",
-                "pqrv": [
-                    334,
-                    408,
-                    202,
-                    682
-                ],
-                "Source": "Chanterelle"
-            },
-            {
-                "notes": "",
-                "Planet": "Ayogen (WW)",
-                "pqrv": [
-                    214,
-                    33,
-                    437,
-                    445
-                ],
-                "Source": "Chanterelle"
-            }
-        ],
-        "Amanita Stock": [
-            {
-                "notes": "",
-                "Planet": "Ayogen (WW)",
-                "pqrv": [
-                    191,
-                    26,
-                    845,
-                    385
-                ],
-                "Source": "Amanita"
             }
         ]
     },
@@ -12728,7 +12683,7 @@
                         414,
                         384
                     ],
-                    "Source": "Logs"
+                    "Source": "Log"
                 },
                 {
                     "notes": "",
@@ -13026,21 +12981,6 @@
                 }
             ]
         },
-        "softWood": {
-            "Akafin Light Soft Wood": [
-                {
-                    "notes": "",
-                    "Planet": "Akafin (WW)",
-                    "pqrv": [
-                        506,
-                        121,
-                        724,
-                        415
-                    ],
-                    "Source": "Logging"
-                }
-            ]
-        },
         "Bamboo Wood": [
             {
                 "notes": "",
@@ -13106,7 +13046,42 @@
                 "Source": "Brown Shimeji"
             }
         ],
+        "Chanterelle Stock": [
+            {
+                "notes": "",
+                "Planet": "Baracatis III",
+                "pqrv": [
+                    334,
+                    408,
+                    202,
+                    682
+                ],
+                "Source": "Chanterelle"
+            },
+            {
+                "notes": "",
+                "Planet": "Ayogen (WW)",
+                "pqrv": [
+                    214,
+                    33,
+                    437,
+                    445
+                ],
+                "Source": "Chanterelle"
+            }
+        ],
         "Amanita Stock": [
+            {
+                "notes": "",
+                "Planet": "Ayogen (WW)",
+                "pqrv": [
+                    191,
+                    26,
+                    845,
+                    385
+                ],
+                "Source": "Amanita"
+            },
             {
                 "notes": "",
                 "Planet": "Baracatis III",
@@ -13886,6 +13861,72 @@
             "Raw Reptile Meat": [
                 {
                     "notes": "",
+                    "Planet": "Akacala",
+                    "pqrv": [
+                        427,
+                        218,
+                        510,
+                        761
+                    ],
+                    "Source": "Ballhive"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Deep Space",
+                    "pqrv": [
+                        309,
+                        328,
+                        613,
+                        781
+                    ],
+                    "Source": "Ballhive"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Deep Space",
+                    "pqrv": [
+                        309,
+                        328,
+                        613,
+                        781
+                    ],
+                    "Source": "Scatterhive"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Dorasidus V (WW)",
+                    "pqrv": [
+                        445,
+                        173,
+                        632,
+                        781
+                    ],
+                    "Source": "Scatterhive"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Dorasidus V (WW)",
+                    "pqrv": [
+                        445,
+                        173,
+                        632,
+                        781
+                    ],
+                    "Source": "Ballhive"
+                },
+                {
+                    "notes": "",
+                    "Planet": "Dorasidus V (WW)",
+                    "pqrv": [
+                        445,
+                        173,
+                        632,
+                        781
+                    ],
+                    "Source": "Hominghive"
+                },
+                {
+                    "notes": "",
                     "Planet": "Herastag",
                     "pqrv": [
                         309,
@@ -14397,78 +14438,6 @@
                         377
                     ],
                     "Source": "Scatterhive"
-                }
-            ],
-            "Raw Reptile Meat": [
-                {
-                    "notes": "",
-                    "Planet": "Deep Space",
-                    "pqrv": [
-                        309,
-                        328,
-                        613,
-                        781
-                    ],
-                    "Source": "Ballhive"
-                },
-                {
-                    "notes": "",
-                    "Planet": "Deep Space",
-                    "pqrv": [
-                        309,
-                        328,
-                        613,
-                        781
-                    ],
-                    "Source": "Scatterhive"
-                },
-                {
-                    "notes": "",
-                    "Planet": "Dorasidus V (WW)",
-                    "pqrv": [
-                        445,
-                        173,
-                        632,
-                        781
-                    ],
-                    "Source": "Scatterhive"
-                },
-                {
-                    "notes": "",
-                    "Planet": "Dorasidus V (WW)",
-                    "pqrv": [
-                        445,
-                        173,
-                        632,
-                        781
-                    ],
-                    "Source": "Ballhive"
-                },
-                {
-                    "notes": "",
-                    "Planet": "Dorasidus V (WW)",
-                    "pqrv": [
-                        445,
-                        173,
-                        632,
-                        781
-                    ],
-                    "Source": "Hominghive"
-                }
-            ]
-        },
-        "": {
-            "Raw Reptile Meat": [
-                {
-                    "notes": "",
-                    "Planet": "Akacala",
-                    "pqrv": [
-                        427,
-                        218,
-                        510,
-                        761
-                    ],
-                    "Source": "Ballhive"
                 }
             ]
         },
@@ -15705,21 +15674,6 @@
                     728,
                     668
                 ]
-            }
-        ]
-    },
-    "fiber": {
-        "Cactus Fiber": [
-            {
-                "notes": "",
-                "Planet": "Herastag",
-                "pqrv": [
-                    588,
-                    709,
-                    581,
-                    319
-                ],
-                "Source": "Lumipora"
             }
         ]
     },
@@ -40133,14 +40087,14 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Doraglas (WW)",
+                    "Planet": "Herastag",
                     "pqrv": [
-                        700,
-                        727,
-                        386,
-                        367
+                        588,
+                        709,
+                        581,
+                        319
                     ],
-                    "Source": "Logging"
+                    "Source": "Cactus"
                 },
                 {
                     "notes": "",
