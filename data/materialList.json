@@ -100,6 +100,17 @@
             355
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            600,
+            680,
+            711,
+            403
+          ],
+          "Source": "Mining"
         }
       ],
       "Diorite": [
@@ -576,6 +587,17 @@
             776
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            120,
+            619,
+            314,
+            732
+          ],
+          "Source": "Mining"
         }
       ],
       "Breccia": [
@@ -782,6 +804,17 @@
             562
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            372,
+            183,
+            714,
+            698
+          ],
+          "Source": "Mining"
         }
       ],
       "Shale": [
@@ -940,6 +973,17 @@
             617
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "deposited",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            370,
+            597,
+            795,
+            527
+          ],
+          "Source": "Mining"
         }
       ],
       "Conglomerate": [
@@ -1006,6 +1050,17 @@
             711,
             446,
             426
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            682,
+            700,
+            153,
+            351
           ],
           "Source": "Mining"
         }
@@ -1446,6 +1501,17 @@
             139
           ],
           "Source": "Maker"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            729,
+            689,
+            381,
+            349
+          ],
+          "Source": "Lunareth Tree"
         }
       ],
       "Nitrogen": [
@@ -1982,6 +2048,39 @@
             409,
             776
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Ceracatis III (WW)",
+          "pqrv": [
+            121,
+            794,
+            467,
+            503
+          ],
+          "Source": "Skyshark"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            110,
+            769,
+            302,
+            607
+          ],
+          "Source": "Spittershark"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            340,
+            757,
+            378,
+            519
+          ],
+          "Source": "Acidfish"
         }
       ]
     },
@@ -2120,6 +2219,17 @@
             387
           ],
           "Source": "Hare Razor"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            719,
+            664,
+            104,
+            321
+          ],
+          "Source": "Velocirabbit"
         }
       ],
       "Ammonia": [
@@ -2388,6 +2498,17 @@
             633,
             441
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            789,
+            433,
+            553,
+            282
+          ],
+          "Source": "Skunk Cabbage"
         }
       ],
       "Fluorine": [
@@ -2614,6 +2735,17 @@
             101,
             792,
             610
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            497,
+            532,
+            791,
+            672
           ],
           "Source": "Mining"
         }
@@ -3134,6 +3266,17 @@
             719
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            376,
+            697,
+            348,
+            723
+          ],
+          "Source": "Mining"
         }
       ],
       "Red Soil": [
@@ -3535,6 +3678,17 @@
             451
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            699,
+            291,
+            798,
+            309
+          ],
+          "Source": "Mining"
         }
       ]
     }
@@ -3639,6 +3793,17 @@
           857,
           861,
           831
+        ],
+        "Source": "Bush Palm"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          397,
+          123,
+          556,
+          830
         ],
         "Source": "Bush Palm"
       }
@@ -3768,6 +3933,17 @@
           556
         ],
         "Source": "Spirae"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          234,
+          690,
+          673,
+          707
+        ],
+        "Source": "Spirae"
       }
     ],
     "Monstera Seedling": [
@@ -3849,6 +4025,17 @@
           137
         ],
         "Source": "Mangrove Palm"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          573,
+          135,
+          198,
+          147
+        ],
+        "Source": "Mangrove Palm"
       }
     ],
     "Cattail Seedling": [
@@ -3882,6 +4069,17 @@
           647,
           382,
           143
+        ],
+        "Source": "Cattail"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          799,
+          470,
+          262,
+          252
         ],
         "Source": "Cattail"
       }
@@ -3928,6 +4126,17 @@
           333,
           280,
           721
+        ],
+        "Source": "Boston Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          793,
+          268,
+          275,
+          260
         ],
         "Source": "Boston Fern"
       }
@@ -3987,6 +4196,17 @@
           581
         ],
         "Source": "Giant Land Lily"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          760,
+          739,
+          371,
+          676
+        ],
+        "Source": "Giant Land Lily"
       }
     ],
     "Hosta Seedling": [
@@ -4009,6 +4229,17 @@
           604,
           274,
           548
+        ],
+        "Source": "Hosta"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          740,
+          548,
+          785,
+          690
         ],
         "Source": "Hosta"
       }
@@ -4044,6 +4275,17 @@
           551,
           707,
           605
+        ],
+        "Source": "Campanula"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          766,
+          726,
+          383,
+          626
         ],
         "Source": "Campanula"
       }
@@ -4092,6 +4334,17 @@
           841
         ],
         "Source": "Young Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          420,
+          228,
+          591,
+          274
+        ],
+        "Source": "Young Fern"
       }
     ],
     "Sword Fern Seedling": [
@@ -4125,6 +4378,17 @@
           385,
           731,
           461
+        ],
+        "Source": "Sword Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          108,
+          367,
+          531,
+          631
         ],
         "Source": "Sword Fern"
       }
@@ -4162,6 +4426,17 @@
           582
         ],
         "Source": "Teal Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          768,
+          332,
+          434,
+          583
+        ],
+        "Source": "Teal Bellflower"
       }
     ],
     "Yellow Bellflower Seedling": [
@@ -4184,6 +4459,17 @@
           849,
           723,
           493
+        ],
+        "Source": "Yellow Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          687,
+          361,
+          306,
+          289
         ],
         "Source": "Yellow Bellflower"
       }
@@ -4221,6 +4507,17 @@
           463
         ],
         "Source": "Purple Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          253,
+          680,
+          585,
+          220
+        ],
+        "Source": "Purple Bellflower"
       }
     ],
     "Pink Bellflower Seedling": [
@@ -4232,6 +4529,17 @@
           645,
           412,
           628
+        ],
+        "Source": "Pink Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          247,
+          685,
+          191,
+          436
         ],
         "Source": "Pink Bellflower"
       }
@@ -4256,6 +4564,17 @@
           608,
           611,
           700
+        ],
+        "Source": "Gold Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          322,
+          239,
+          883,
+          285
         ],
         "Source": "Gold Bellflower"
       }
@@ -4387,6 +4706,17 @@
           291,
           270,
           467
+        ],
+        "Source": "Lumineweave Tendril"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          112,
+          228,
+          828,
+          652
         ],
         "Source": "Lumineweave Tendril"
       }
@@ -4536,6 +4866,17 @@
           462,
           589,
           776
+        ],
+        "Source": "Pumpkin"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          669,
+          802,
+          794,
+          721
         ],
         "Source": "Pumpkin"
       }
@@ -5160,6 +5501,17 @@
           194
         ],
         "Source": "Lily"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          106,
+          462,
+          325,
+          403
+        ],
+        "Source": "Lily"
       }
     ],
     "Besom Scrub Seedling": [
@@ -5247,6 +5599,17 @@
           161
         ],
         "Source": "Strawberry"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          842,
+          546,
+          308,
+          142
+        ],
+        "Source": "Strawberry"
       }
     ],
     "Lady Fern Seedling": [
@@ -5269,6 +5632,17 @@
           612,
           413,
           844
+        ],
+        "Source": "Lady Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          555,
+          814,
+          483,
+          485
         ],
         "Source": "Lady Fern"
       }
@@ -5308,6 +5682,80 @@
           154
         ],
         "Source": "Goji Berry"
+      }
+    ],
+    "Bromeliad Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          572,
+          362,
+          748,
+          736
+        ],
+        "Source": "Bromeliad"
+      }
+    ],
+    "Skunk Cabbage Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          319,
+          715,
+          736,
+          802
+        ],
+        "Source": "Skunk Cabbage"
+      }
+    ],
+    "Queen Annes Lace Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          808,
+          300,
+          757,
+          275
+        ],
+        "Source": "Queen Annes Lace"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          797,
+          785,
+          606,
+          457
+        ],
+        "Source": "Queen Annes Lace"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          489,
+          319,
+          572,
+          271
+        ],
+        "Source": "Queen Annes Lace"
+      }
+    ],
+    "Pitcher Plant Seedling": [
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          726,
+          622,
+          480,
+          514
+        ],
+        "Source": "Pitcher Plant"
       }
     ]
   },
@@ -5529,6 +5977,17 @@
           658
         ],
         "Source": "Bush"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          473,
+          168,
+          720,
+          616
+        ],
+        "Source": "Bush"
       }
     ],
     "Strawberry": [
@@ -5573,6 +6032,17 @@
           445,
           167,
           774
+        ],
+        "Source": "Strawberry"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          584,
+          408,
+          321,
+          733
         ],
         "Source": "Strawberry"
       }
@@ -6450,6 +6920,17 @@
             795,
             333
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            645,
+            800,
+            522,
+            490
+          ],
+          "Source": "Velocirabbit"
         }
       ],
       "Agate": [
@@ -7342,6 +7823,28 @@
             478,
             308
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            666,
+            372,
+            481,
+            724
+          ],
+          "Source": "Spittershark"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            603,
+            370,
+            457,
+            793
+          ],
+          "Source": "Acidfish"
         }
       ],
       "Diamond": [
@@ -7706,6 +8209,17 @@
             371,
             316,
             541
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            746,
+            441,
+            530,
+            650
           ],
           "Source": "Mining"
         }
@@ -8141,6 +8655,17 @@
           254
         ],
         "Source": "Brown Shimeji"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          331,
+          619,
+          757,
+          245
+        ],
+        "Source": "Brown Shimeji"
       }
     ],
     "King Stropheria Chunk": [
@@ -8174,6 +8699,17 @@
           622,
           712,
           346
+        ],
+        "Source": "King Stropheria"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          130,
+          657,
+          757,
+          491
         ],
         "Source": "King Stropheria"
       }
@@ -8222,6 +8758,17 @@
           378
         ],
         "Source": "Amanita"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          302,
+          744,
+          505,
+          438
+        ],
+        "Source": "Amanita"
       }
     ],
     "Golden Poplar Chunk": [
@@ -8259,6 +8806,17 @@
           400,
           224,
           750
+        ],
+        "Source": "Chanterelle"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          680,
+          473,
+          375,
+          791
         ],
         "Source": "Chanterelle"
       }
@@ -9095,6 +9653,17 @@
             796,
             451
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            311,
+            754,
+            313,
+            508
+          ],
+          "Source": "Mining"
         }
       ],
       "Nickel": [
@@ -9840,6 +10409,17 @@
             692,
             323
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            547,
+            780,
+            688,
+            473
+          ],
+          "Source": "Mining"
         }
       ],
       "Magnetized Iron": [
@@ -10420,6 +11000,28 @@
             352,
             700
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            740,
+            291,
+            643,
+            449
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            749,
+            462,
+            666,
+            354
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -10802,6 +11404,17 @@
             331,
             719
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            448,
+            788,
+            697,
+            267
+          ],
+          "Source": "Mining"
         }
       ],
       "Antimatter": [
@@ -11573,6 +12186,17 @@
             795,
             333
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            310,
+            548,
+            800,
+            585
+          ],
+          "Source": "Mining"
         }
       ],
       "Uranium": [
@@ -11973,6 +12597,17 @@
             382,
             754
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            380,
+            772,
+            415,
+            692
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -12333,6 +12968,17 @@
             641,
             139
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            338,
+            694,
+            711,
+            351
+          ],
+          "Source": "Mining"
         }
       ],
       "Bismuth": [
@@ -12794,6 +13440,17 @@
             488
           ],
           "Source": "Log"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            727,
+            558,
+            297,
+            417
+          ],
+          "Source": "Log"
         }
       ],
       "Dark Hard Wood": [
@@ -12932,6 +13589,17 @@
             458
           ],
           "Source": "Log"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            626,
+            330,
+            799,
+            434
+          ],
+          "Source": "Log"
         }
       ],
       "Light Hard Wood": [
@@ -13018,6 +13686,17 @@
           579
         ],
         "Source": "Dark Wizard"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          747,
+          200,
+          306,
+          696
+        ],
+        "Source": "Dark Wizard"
       }
     ]
   },
@@ -13055,6 +13734,17 @@
           183
         ],
         "Source": "Brown Shimeji"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          592,
+          476,
+          226,
+          351
+        ],
+        "Source": "Brown Shimeji"
       }
     ],
     "Chanterelle Stock": [
@@ -13077,6 +13767,17 @@
           33,
           437,
           445
+        ],
+        "Source": "Chanterelle"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          399,
+          570,
+          871,
+          122
         ],
         "Source": "Chanterelle"
       }
@@ -13114,6 +13815,17 @@
           683
         ],
         "Source": "Amanita"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          318,
+          473,
+          523,
+          518
+        ],
+        "Source": "Amanita"
       }
     ],
     "King Stropheria Stock": [
@@ -13147,6 +13859,17 @@
           180,
           477,
           730
+        ],
+        "Source": "King Stropheria"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          422,
+          147,
+          210,
+          726
         ],
         "Source": "King Stropheria"
       }
@@ -13404,6 +14127,39 @@
             337
           ],
           "Source": "Deer"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            635,
+            781,
+            406,
+            455
+          ],
+          "Source": "Deer"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            634,
+            717,
+            252,
+            424
+          ],
+          "Source": "Coney"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            634,
+            717,
+            252,
+            424
+          ],
+          "Source": "Owldeer"
         }
       ],
       "Raw Insect Meat": [
@@ -13722,6 +14478,17 @@
             401
           ],
           "Source": "Velocirabbit"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            796,
+            400,
+            637,
+            574
+          ],
+          "Source": "Velocirabbit"
         }
       ],
       "Raw Carnivore Meat": [
@@ -13867,6 +14634,28 @@
             506
           ],
           "Source": "Sleetah"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            454,
+            402,
+            727,
+            534
+          ],
+          "Source": "Wildcat"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            454,
+            402,
+            727,
+            534
+          ],
+          "Source": "Prowler"
         }
       ],
       "Raw Reptile Meat": [
@@ -14023,6 +14812,17 @@
             760
           ],
           "Source": "Ballhive"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            427,
+            218,
+            510,
+            761
+          ],
+          "Source": "Scatterhive"
         }
       ],
       "Raw Fish Meat": [
@@ -14080,6 +14880,50 @@
             282
           ],
           "Source": "Spittershark"
+        },
+        {
+          "notes": "",
+          "Planet": "Ceracatis III (WW)",
+          "pqrv": [
+            794,
+            630,
+            372,
+            282
+          ],
+          "Source": "Skyshark"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            738,
+            638,
+            394,
+            458
+          ],
+          "Source": "Acidfish"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            738,
+            638,
+            394,
+            458
+          ],
+          "Source": "Flying Fish"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            738,
+            638,
+            394,
+            458
+          ],
+          "Source": "Skyshark"
         }
       ]
     },
@@ -14293,6 +15137,39 @@
             101
           ],
           "Source": "Coney"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            779,
+            686,
+            307,
+            255
+          ],
+          "Source": "Owldeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            779,
+            686,
+            307,
+            255
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            778,
+            688,
+            426,
+            469
+          ],
+          "Source": "Deer"
         }
       ],
       "Horn": [
@@ -14447,6 +15324,17 @@
             764,
             664,
             377
+          ],
+          "Source": "Scatterhive"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            336,
+            730,
+            558,
+            409
           ],
           "Source": "Scatterhive"
         }
@@ -14629,6 +15517,28 @@
             617
           ],
           "Source": "Sleetah"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            495,
+            368,
+            744,
+            507
+          ],
+          "Source": "Wildcat"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            495,
+            368,
+            744,
+            507
+          ],
+          "Source": "Prowler"
         }
       ]
     }
@@ -40647,6 +41557,17 @@
           740,
           617
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          324,
+          140,
+          587,
+          719
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -40750,6 +41671,17 @@
           795,
           333
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          429,
+          124,
+          568,
+          702
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -40853,6 +41785,17 @@
           641,
           139
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          593,
+          430,
+          465,
+          774
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -42643,6 +43586,17 @@
           409,
           776
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          776,
+          552,
+          469,
+          393
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -43707,6 +44661,28 @@
           521,
           701
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          405,
+          783,
+          368,
+          590
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          554,
+          715,
+          409,
+          648
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44063,6 +45039,28 @@
           795,
           333
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          453,
+          546,
+          433,
+          794
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          495,
+          625,
+          518,
+          782
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44188,6 +45186,17 @@
           740,
           617
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          400,
+          183,
+          786,
+          617
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44291,6 +45300,17 @@
           388,
           391
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          749,
+          148,
+          609,
+          431
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44350,6 +45370,17 @@
           633,
           441
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          657,
+          306,
+          313,
+          737
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44453,6 +45484,17 @@
           795,
           333
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          484,
+          721,
+          591,
+          598
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44813,6 +45855,28 @@
           795,
           333
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          701,
+          515,
+          382,
+          123
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          722,
+          590,
+          441,
+          126
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -44916,6 +45980,17 @@
           388,
           391
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          323,
+          327,
+          768,
+          693
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45276,6 +46351,28 @@
           740,
           617
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          253,
+          740,
+          361,
+          532
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          311,
+          708,
+          497,
+          600
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45346,6 +46443,17 @@
           692,
           323
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          667,
+          394,
+          741,
+          486
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45894,6 +47002,28 @@
           740,
           617
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          682,
+          404,
+          178,
+          784
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          646,
+          421,
+          536,
+          748
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46063,6 +47193,28 @@
           641,
           139
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          502,
+          667,
+          774,
+          762
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          416,
+          684,
+          715,
+          329
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46133,6 +47285,17 @@
           692,
           323
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          509,
+          372,
+          713,
+          377
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46302,6 +47465,28 @@
           672,
           451
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          702,
+          536,
+          434,
+          177
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          800,
+          564,
+          402,
+          524
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47748,6 +48933,17 @@
           641,
           139
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          764,
+          572,
+          542,
+          337
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47785,6 +48981,17 @@
           781,
           562
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          497,
+          746,
+          673,
+          391
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47998,6 +49205,28 @@
           706,
           457
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          475,
+          777,
+          637,
+          540
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          399,
+          787,
+          643,
+          375
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -48233,6 +49462,17 @@
           781,
           562
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          669,
+          719,
+          391,
+          443
+        ],
+        "Source": "Mining"
       }
     ]
   },

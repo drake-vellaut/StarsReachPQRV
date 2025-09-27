@@ -32,22 +32,18 @@
         "Quantity": "15"
       }
     ],
-    "omniblaster": [
+    "omniShock": [
       {
-        "Material": "uncommonMetal",
-        "Quantity": "25"
+        "Material": "barrel",
+        "Quantity": "1"
       },
       {
-        "Material": "rareGem",
-        "Quantity": "10"
+        "Material": "grip",
+        "Quantity": "1"
       },
       {
-        "Material": "metalAlloy",
-        "Quantity": "20"
-      },
-      {
-        "Material": "plastic",
-        "Quantity": "10"
+        "Material": "energySequencer",
+        "Quantity": "3"
       }
     ],
     "pathfinder": [
@@ -80,20 +76,22 @@
     ],
     "companionOrbs": [
       {
-        "Material": "uncommonMetal",
-        "Quantity": "25"
+        "Material": "focusingLens",
+        "Quantity": "4"
       },
       {
-        "Material": "rareMetal",
-        "Quantity": "20"
+        "Material": "powerChamber",
+        "Quantity": "2"
+      }
+    ],
+    "corrosionDrones": [
+      {
+        "Material": "focusingLens",
+        "Quantity": "4"
       },
       {
-        "Material": "rareGem",
-        "Quantity": "10"
-      },
-      {
-        "Material": "metalAlloy",
-        "Quantity": "15"
+        "Material": "powerChamber",
+        "Quantity": "2"
       }
     ],
     "fabricator": [
@@ -128,6 +126,24 @@
         "Quantity": "20"
       }
     ],
+    "freezeRay": [
+      {
+        "Material": "barrel",
+        "Quantity": "1"
+      },
+      {
+        "Material": "stock",
+        "Quantity": "1"
+      },
+      {
+        "Material": "energySequencer",
+        "Quantity": "2"
+      },
+      {
+        "Material": "powerChamber",
+        "Quantity": "2"
+      }
+    ],
     "grapple": [
       {
         "Material": "commonMetal",
@@ -142,22 +158,36 @@
         "Quantity": "15"
       }
     ],
+    "omniForce": [
+      {
+        "Material": "barrel",
+        "Quantity": "1"
+      },
+      {
+        "Material": "grip",
+        "Quantity": "1"
+      },
+      {
+        "Material": "focusingLens",
+        "Quantity": "3"
+      }
+    ],
     "gravityGun": [
       {
-        "Material": "uncommonMetal",
-        "Quantity": "25"
+        "Material": "barrel",
+        "Quantity": "1"
       },
       {
-        "Material": "rareMetal",
-        "Quantity": "20"
+        "Material": "stock",
+        "Quantity": "1"
       },
       {
-        "Material": "reactiveGas",
-        "Quantity": "10"
+        "Material": "energySequencer",
+        "Quantity": "2"
       },
       {
-        "Material": "antimatter",
-        "Quantity": "10"
+        "Material": "powerChamber",
+        "Quantity": "2"
       }
     ],
     "harvester": [
@@ -180,16 +210,21 @@
     ],
     "healix": [
       {
-        "Material": "uncommonMetal",
-        "Quantity": "25"
+        "Material": "barrel",
+        "Quantity": "1"
       },
       {
-        "Material": "reactiveGas",
-        "Quantity": "10"
+        "Material": "stock",
+        "Quantity": "1"
       },
       {
-        "Material": "metalAlloy",
-        "Quantity": "15"
+        "Material": "focusingLens",
+        "Quantity": "2"
+      }
+      ,
+      {
+        "Material": "energySequencer",
+        "Quantity": "2"
       }
     ],
     "paver": [

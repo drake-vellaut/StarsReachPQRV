@@ -14,10 +14,10 @@
         "r": ["-"],
         "v": ["-"]
       },
-    "omniblaster": {
-        "p": ["Turning Radius"],
-        "q": ["Primary Shot Damage"],
-        "r": ["Homing Radius"],
+    "omniShock": {
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
         "v": ["Battery Efficiency"]
       },
     "pathfinder": {
@@ -33,9 +33,21 @@
         "v": ["Battery Efficiency"]
       },
     "companionOrbs": {
-        "p": ["Boomerang Shot Count"],
-        "q": ["Primary Shot Damage"],
-        "r": ["Node Ring Count"],
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+      "corrosionDrones": {
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+      "freezeRay": {
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
         "v": ["Battery Efficiency"]
       },
     "fabricator": {
@@ -57,9 +69,9 @@
         "v": ["-"]
       },
     "gravityGun": {
-        "p": ["Primary Beam Knockback"],
-        "q": ["Boomer Radius"],
-        "r": ["Black Hole Radius"],
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
         "v": ["Battery Efficiency"]
       },
     "harvester": {
@@ -72,6 +84,12 @@
         "p": ["Surge Radius"],
         "q": ["Primary Beam Healing"],
         "r": ["Mass Heal Radius"],
+        "v": ["Battery Efficiency"]
+      },
+      "omniForce": {
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
         "v": ["Battery Efficiency"]
       },
     "paver": {
