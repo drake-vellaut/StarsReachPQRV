@@ -1263,17 +1263,72 @@
                 "klaatus": "",
             	"skillCost": "5"
 				},
+                {
+                "tree": "Preservation",
+                "id": "preservation-preservation",
+                "name": "Preservation",
+                "description": "",
+                "parent": "preservation-cooking",
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
             {
                 "tree": "Cooking",
                 "id": "foods-cooking",
                 "name": "Foods",
                 "description": "",
                 "parent": "cooking-cooking",
-                "active": "WIP",
+                "active": "yes",
                 "exp": "",
                 "klaatus": "",
             	"skillCost": "5"
 				},
+                {
+                "tree": "Foods",
+                "id": "foods-foods",
+                "name": "Foods",
+                "description": "",
+                "parent": "foods-cooking",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "Foods",
+                "id": "fruitJam-foods",
+                "name": "Fruit Jam",
+                "description": "",
+                "parent": "foods-foods",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "Foods",
+                "id": "mushroomPatty-foods",
+                "name": "Mushroom Patty",
+                "description": "",
+                "parent": "foods-foods",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "Foods",
+                "id": "meatKabob-foods",
+                "name": "Meat Kabob",
+                "description": "",
+                "parent": "foods-foods",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
             {
                 "tree": "Crafting",
                 "id": "crafting-crafting",
@@ -2795,6 +2850,50 @@
                 "klaatus": "",
             	"skillCost": "5"
 				},
+                {
+                "tree": "trailblazerUtilities",
+                "id": "trailblazerUtilities-trailblazerUtilities",
+                "name": "Trailblazer Utilities",
+                "description": "",
+                "parent": "trailblazerUtilities-ranger",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "trailblazerUtilities",
+                "id": "flamethrower-trailblazerUtilities",
+                "name": "Flamethrower",
+                "description": "",
+                "parent": "trailblazerUtilities-trailblazerUtilities",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "trailblazerUtilities",
+                "id": "freezeBeam-trailblazerUtilities",
+                "name": "Freeze Beam",
+                "description": "",
+                "parent": "trailblazerUtilities-trailblazerUtilities",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
+                "tree": "trailblazerUtilities",
+                "id": "flare-trailblazerUtilities",
+                "name": "Flare",
+                "description": "",
+                "parent": "trailblazerUtilities-trailblazerUtilities",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
             {
                 "tree": "Ranger",
                 "id": "survivalist-ranger",
