@@ -2509,6 +2509,17 @@
             282
           ],
           "Source": "Skunk Cabbage"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            783,
+            325,
+            630,
+            367
+          ],
+          "Source": "Skunk Cabbage"
         }
       ],
       "Fluorine": [
@@ -5708,6 +5719,17 @@
           802
         ],
         "Source": "Skunk Cabbage"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          892,
+          655,
+          777,
+          826
+        ],
+        "Source": "Skunk Cabbage"
       }
     ],
     "Queen Annes Lace Seedling": [
@@ -5848,6 +5870,17 @@
           700,
           427,
           540
+        ],
+        "Source": "Banana Tree"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          430,
+          711,
+          466,
+          693
         ],
         "Source": "Banana Tree"
       }
@@ -11022,6 +11055,17 @@
             354
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            732,
+            344,
+            594,
+            318
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -11413,6 +11457,17 @@
             788,
             697,
             267
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            465,
+            790,
+            639,
+            407
           ],
           "Source": "Mining"
         }
@@ -13697,6 +13752,17 @@
           696
         ],
         "Source": "Dark Wizard"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          765,
+          492,
+          471,
+          533
+        ],
+        "Source": "Blackhart"
       }
     ]
   },
@@ -38812,6 +38878,17 @@
           672.0,
           799.0
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          500,
+          500,
+          500,
+          500
+        ],
+        "Source": "Blackhart"
       }
     ],
     "Lithalum": [
@@ -41568,6 +41645,17 @@
           719
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          365,
+          196,
+          642,
+          786
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -43483,6 +43571,17 @@
           633,
           441
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          728,
+          682,
+          405,
+          475
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -43595,6 +43694,17 @@
           552,
           469,
           393
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          700,
+          628,
+          411,
+          440
         ],
         "Source": "Mining"
       }
@@ -45061,6 +45171,17 @@
           782
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          478,
+          504,
+          201,
+          800
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45309,6 +45430,17 @@
           148,
           609,
           431
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          776,
+          172,
+          679,
+          377
         ],
         "Source": "Mining"
       }
@@ -45991,6 +46123,17 @@
           693
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          407,
+          350,
+          763,
+          512
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46061,6 +46204,17 @@
           722,
           678
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          568,
+          305,
+          451,
+          773
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46373,6 +46527,17 @@
           600
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          403,
+          751,
+          369,
+          657
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -46452,6 +46617,17 @@
           394,
           741,
           486
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          596,
+          467,
+          791,
+          513
         ],
         "Source": "Mining"
       }
@@ -47024,6 +47200,17 @@
           748
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          537,
+          461,
+          490,
+          762
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47215,6 +47402,17 @@
           329
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          428,
+          638,
+          715,
+          525
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47294,6 +47492,17 @@
           372,
           713,
           377
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          669,
+          334,
+          770,
+          421
         ],
         "Source": "Mining"
       }
@@ -47485,6 +47694,17 @@
           564,
           402,
           524
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          764,
+          529,
+          483,
+          260
         ],
         "Source": "Mining"
       }
@@ -48992,6 +49212,17 @@
           391
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          464,
+          726,
+          649,
+          553
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -49225,6 +49456,17 @@
           787,
           643,
           375
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          405,
+          710,
+          656,
+          373
         ],
         "Source": "Mining"
       }
@@ -49471,6 +49713,17 @@
           719,
           391,
           443
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          542,
+          759,
+          115,
+          400
         ],
         "Source": "Mining"
       }
@@ -49833,6 +50086,17 @@
           478,
           308
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          526,
+          264,
+          703,
+          448
+        ],
+        "Source": "Mining"
       }
     ]
   },

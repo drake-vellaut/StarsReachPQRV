@@ -2194,7 +2194,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "refining-Mineralogy",
+                "id": "refining-mineralogy",
                 "name": "Refining",
                 "description": "",
                 "parent": "mineralogy-mineralogy",
@@ -2282,7 +2282,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "prospecting-Mineralogy",
+                "id": "prospecting-mineralogy",
                 "name": "Prospecting",
                 "description": "",
                 "parent": "mineralogy-mineralogy",
@@ -2337,7 +2337,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "mining-Mineralogy",
+                "id": "mining-mineralogy",
                 "name": "Mining",
                 "description": "",
                 "parent": "mineralogy-mineralogy",
@@ -2634,7 +2634,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "gasHarvesting-Mineralogy",
+                "id": "gasHarvesting-mineralogy",
                 "name": "Gas Harvesting",
                 "description": "Learn to extract gasses from other materials you mine through",
                 "parent": "mineralogy-mineralogy",
@@ -2689,7 +2689,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "depositing-Mineralogy",
+                "id": "depositing-mineralogy",
                 "name": "Depositing",
                 "description": "",
                 "parent": "mineralogy-mineralogy",
@@ -2711,7 +2711,7 @@
 				},
             {
                 "tree": "Mineralogy",
-                "id": "chronophasing-Mineralogy",
+                "id": "chronophasing-mineralogy",
                 "name": "Chronophasing",
                 "description": "",
                 "parent": "mineralogy-mineralogy",
@@ -2722,7 +2722,7 @@
 				},
             {
                 "tree": "Chronophasing",
-                "id": "chronophasing-Mineralogy",
+                "id": "chronophasing-mineralogy",
                 "name": "Chronophasing",
                 "description": "",
                 "parent": "chronophasing-mineralogy",
@@ -2841,7 +2841,7 @@
 				},
             {
                 "tree": "Ranger",
-                "id": "trailblazerUtilities-Ranger",
+                "id": "trailblazerUtilities-ranger",
                 "name": "Trailblazer Utilities",
                 "description": "Unlock utilities to use with the Trailblazer tool",
                 "parent": "ranger-ranger",
@@ -3138,7 +3138,7 @@
 				},
             {
                 "tree": "Ranger",
-                "id": "surveying-Ranger",
+                "id": "surveying-ranger",
                 "name": "Surveying",
                 "description": "Movement and mapping skills",
                 "parent": "ranger-ranger",
@@ -3721,7 +3721,7 @@
 				},
             {
                 "tree": "Ranger",
-                "id": "navigation-Ranger",
+                "id": "navigation-ranger",
                 "name": "Navigation",
                 "description": "",
                 "parent": "ranger-ranger",
@@ -3842,7 +3842,7 @@
 				},
             {
                 "tree": "Ranger",
-                "id": "camping-Ranger",
+                "id": "camping-ranger",
                 "name": "Camping",
                 "description": "",
                 "parent": "camping-ranger",
