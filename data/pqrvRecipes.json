@@ -33,20 +33,20 @@
         "v": ["Battery Efficiency"]
       },
     "companionOrbs": {
-        "p": ["Damage"],
-        "q": ["-"],
+        "p": ["-"],
+        "q": ["Damage"],
         "r": ["-"],
         "v": ["Battery Efficiency"]
       },
       "corrosionDrones": {
-        "p": ["Damage"],
-        "q": ["-"],
+        "p": ["-"],
+        "q": ["Damage"],
         "r": ["-"],
         "v": ["Battery Efficiency"]
       },
       "freezeRay": {
-        "p": ["Damage"],
-        "q": ["-"],
+        "p": ["-"],
+        "q": ["Damage"],
         "r": ["-"],
         "v": ["Battery Efficiency"]
       },
@@ -69,8 +69,8 @@
         "v": ["-"]
       },
     "gravityGun": {
-        "p": ["Damage"],
-        "q": ["-"],
+        "p": ["-"],
+        "q": ["Damage"],
         "r": ["-"],
         "v": ["Battery Efficiency"]
       },
@@ -87,8 +87,8 @@
         "v": ["Battery Efficiency"]
       },
       "omniForce": {
-        "p": ["Damage"],
-        "q": ["-"],
+        "p": ["-"],
+        "q": ["Damage"],
         "r": ["-"],
         "v": ["Battery Efficiency"]
       },
