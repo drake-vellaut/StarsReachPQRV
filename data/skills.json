@@ -8,7 +8,7 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "yes"
             },
             {
@@ -870,7 +870,7 @@
                 "description": "Learn the ins and outs of running businesses",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -964,7 +964,7 @@
                 "description": "Skills to enhance your use of Humanities, plus access to the Music, Acting, Dance, Writing, and Journalism skill trees",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -1082,7 +1082,7 @@
                 "description": "Learn Leadership skills as vell as accessing the Group Tactics, Inspiration, and Coordination skill trees",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -1188,7 +1188,7 @@
                 "description": "Learn to control various types of vehicles",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -1270,7 +1270,7 @@
                 "description": "The study of alien physiology",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -2426,7 +2426,7 @@
                 "description": "",
                 "parent": null,
                 "active": "yes",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
@@ -3132,7 +3132,7 @@
                 "description": "",
                 "parent": null,
                 "active": "yes",
-                "skillCost": "0",
+                "skillCost": "5",
                 "autoUnlocked": "no"
             },
             {
