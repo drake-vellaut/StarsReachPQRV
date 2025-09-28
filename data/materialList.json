@@ -701,6 +701,17 @@
             441
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            785,
+            512,
+            510,
+            353
+          ],
+          "Source": "Mining"
         }
       ],
       "Chert": [
@@ -1591,6 +1602,17 @@
             758
           ],
           "Source": "Witchs Ringlet"
+        },
+        {
+          "notes": "Witchs Ringlet is from Jotaviko",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            384,
+            408,
+            636,
+            727
+          ],
+          "Source": "Witchs Ringlet"
         }
       ],
       "Neon": [
@@ -2173,6 +2195,17 @@
             798
           ],
           "Source": "Hexavine Spires"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            545,
+            561,
+            359,
+            791
+          ],
+          "Source": "Hexavine Spires"
         }
       ],
       "Hydrogen": [
@@ -2228,6 +2261,17 @@
             664,
             104,
             321
+          ],
+          "Source": "Velocirabbit"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            769,
+            680,
+            149,
+            314
           ],
           "Source": "Velocirabbit"
         }
@@ -2518,6 +2562,17 @@
             325,
             630,
             367
+          ],
+          "Source": "Skunk Cabbage"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            784,
+            357,
+            649,
+            143
           ],
           "Source": "Skunk Cabbage"
         }
@@ -3025,6 +3080,17 @@
             521,
             701
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            335,
+            721,
+            584,
+            350
+          ],
+          "Source": "Mining"
         }
       ],
       "Laterite Soil": [
@@ -3516,6 +3582,17 @@
             771
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "from eroding Sandstone",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            336,
+            656,
+            432,
+            708
+          ],
+          "Source": "Mining"
         }
       ],
       "Sandy Dirt": [
@@ -3619,6 +3696,17 @@
             498,
             210,
             541
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            720,
+            369,
+            596,
+            622
           ],
           "Source": "Mining"
         }
@@ -4623,6 +4711,17 @@
           163
         ],
         "Source": "Cordyline"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          411,
+          237,
+          593,
+          681
+        ],
+        "Source": "Cordyline"
       }
     ],
     "Reed Seedling": [
@@ -4680,6 +4779,17 @@
           180,
           469,
           841
+        ],
+        "Source": "Dracaena Fragrans"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          176,
+          123,
+          518,
+          796
         ],
         "Source": "Dracaena Fragrans"
       }
@@ -5562,6 +5672,17 @@
           182
         ],
         "Source": "Purple Daisy"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          550,
+          155,
+          392,
+          182
+        ],
+        "Source": "Purple Daisy"
       }
     ],
     "Lilac Dandy Seedling": [
@@ -5730,6 +5851,17 @@
           826
         ],
         "Source": "Skunk Cabbage"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          319,
+          715,
+          736,
+          802
+        ],
+        "Source": "Skunk Cabbage"
       }
     ],
     "Queen Annes Lace Seedling": [
@@ -5763,6 +5895,17 @@
           319,
           572,
           271
+        ],
+        "Source": "Queen Annes Lace"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          594,
+          635,
+          276,
+          551
         ],
         "Source": "Queen Annes Lace"
       }
@@ -6307,6 +6450,17 @@
             754
           ],
           "Source": "Brimmed Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            663,
+            470,
+            378,
+            714
+          ],
+          "Source": "Mining"
         }
       ],
       "Quartz": [
@@ -8163,6 +8317,17 @@
             769
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            564,
+            288,
+            345,
+            781
+          ],
+          "Source": "Maker"
         }
       ],
       "Opal": [
@@ -10831,6 +10996,17 @@
             672,
             451
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            588,
+            477,
+            555,
+            723
+          ],
+          "Source": "Maker"
         }
       ],
       "Magnesium": [
@@ -11064,6 +11240,17 @@
             344,
             594,
             318
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            775,
+            317,
+            585,
+            454
           ],
           "Source": "Mining"
         }
@@ -14226,6 +14413,39 @@
             424
           ],
           "Source": "Owldeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            513,
+            785,
+            540,
+            327
+          ],
+          "Source": "Raindeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            635,
+            781,
+            406,
+            455
+          ],
+          "Source": "Raindeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            549,
+            787,
+            375,
+            324
+          ],
+          "Source": "Hare"
         }
       ],
       "Raw Insect Meat": [
@@ -14553,6 +14773,17 @@
             400,
             637,
             574
+          ],
+          "Source": "Velocirabbit"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            717,
+            488,
+            681,
+            460
           ],
           "Source": "Velocirabbit"
         }
@@ -15236,6 +15467,28 @@
             469
           ],
           "Source": "Deer"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            715,
+            698,
+            500,
+            579
+          ],
+          "Source": "Raindeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            778,
+            688,
+            426,
+            469
+          ],
+          "Source": "Raindeer"
         }
       ],
       "Horn": [
@@ -15403,6 +15656,17 @@
             409
           ],
           "Source": "Scatterhive"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            336,
+            730,
+            558,
+            409
+          ],
+          "Source": "Hominghive"
         }
       ]
     },
@@ -15605,6 +15869,17 @@
             507
           ],
           "Source": "Prowler"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            341,
+            124,
+            778,
+            649
+          ],
+          "Source": "Raindeer"
         }
       ]
     }
@@ -41344,6 +41619,28 @@
           795,
           333
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          724,
+          580,
+          361,
+          472
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          712,
+          614,
+          218,
+          312
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45182,6 +45479,17 @@
           800
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          489,
+          617,
+          575,
+          798
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -45511,6 +45819,17 @@
           306,
           313,
           737
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          630,
+          462,
+          477,
+          727
         ],
         "Source": "Mining"
       }
@@ -47707,6 +48026,17 @@
           260
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          722,
+          664,
+          451,
+          195
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -49469,6 +49799,17 @@
           373
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          441,
+          797,
+          663,
+          357
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -49873,6 +50214,17 @@
           382,
           754
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          420,
+          506,
+          771,
+          416
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -50095,6 +50447,17 @@
           264,
           703,
           448
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          606,
+          344,
+          800,
+          464
         ],
         "Source": "Mining"
       }

@@ -8,9 +8,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "herbalism-botany",
@@ -20,9 +19,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "yield1-botany",
@@ -30,11 +28,10 @@
                 "description": "Increase the yield rate when using the Harvester by 20%",
                 "parent": "botany-botany",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "yield2-botany",
@@ -42,11 +39,10 @@
                 "description": "Increase the yield rate when using the Harvester by 20%",
                 "parent": "yield1-botany",
                 "active": "yes",
-                "exp": "900",
-                "klaatus": "90",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "yield3-botany",
@@ -54,11 +50,10 @@
                 "description": "Increase the yield rate when using the Harvester by 20%",
                 "parent": "yield2-botany",
                 "active": "yes",
-                "exp": "1200",
-                "klaatus": "120",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "forestry-botany",
@@ -66,11 +61,10 @@
                 "description": "Unlock the Forestry skills to cut, plant and grow trees",
                 "parent": "botany-botany",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "foraging-botany",
@@ -80,789 +74,701 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Botany",
                 "id": "farming-botany",
                 "name": "Farming",
                 "description": "Learn to build Gardens and Farms",
                 "parent": "botany-botany",
-                "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Herbalism",
-                "id": "herbalism-herbalism",
-                "name": "Herbalism",
-                "description": "Combine harvested and foraged items together to create remedies, cures.",
-                "parent": "herbalism-botany",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlockedBy": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "forestry-forestry",
                 "name": "Forestry",
-                "description": "Unlock this from the Botany skill tree.",
+                "description": "",
                 "parent": "forestry-botany",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlockedBy": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "planting-forestry",
                 "name": "Planting",
-                "description": "Unlock the ability to use the Xyloslicer or Harvester to plant tree, bush, flower, and fruit seeds into the world",
+                "description": "",
                 "parent": "forestry-forestry",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "growthBeam1-forestry",
                 "name": "Growth Beam 1",
-                "description": "Unlock the ability to use the Xyloslicer to quickly mature trees",
+                "description": "",
                 "parent": "forestry-forestry",
                 "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "growthBeam2-forestry",
                 "name": "Growth Beam 2",
-                "description": "Increase the growth rate of the Xyloslicer Growth Beam by +50%",
+                "description": "",
                 "parent": "growthBeam1-forestry",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "growthBeam3-forestry",
                 "name": "Growth Beam 3",
-                "description": "Increase the growth rate of the Xyloslicer Growth Beam by +50%",
+                "description": "",
                 "parent": "growthBeam2-forestry",
                 "active": "yes",
-                "exp": "900",
-                "klaatus": "90",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "stunting-forestry",
                 "name": "Stunting",
-                "description": "Unlock the ability to use the Xyloslicer to stunt tree growth",
+                "description": "",
                 "parent": "growthBeam3-forestry",
                 "active": "yes",
-                "exp": "600.",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "pruning-forestry",
                 "name": "Pruning",
-                "description": "Unlock the ability to use the Xyloslicer to shrink trees",
+                "description": "",
                 "parent": "growthBeam3-forestry",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "growthBeam4-forestry",
                 "name": "Growth Beam 4",
-                "description": "Increase the growth rate of the Xyloslicer Growth Beam by +50%",
+                "description": "",
                 "parent": "growthBeam3-forestry",
                 "active": "yes",
-                "exp": "1200",
-                "klaatus": "120",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "yield1-forestry",
                 "name": "Yield 1",
-                "description": "Increase the yield rate when using the Xyloslicer by +20%",
+                "description": "",
                 "parent": "forestry-forestry",
                 "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "yield2-forestry",
                 "name": "Yield 2",
-                "description": "Increase the yield rate when using the Xyloslicer by +20%",
+                "description": "",
                 "parent": "yield1-forestry",
                 "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Forestry",
                 "id": "yield3-forestry",
                 "name": "Yield 3",
-                "description": "Increase the yield rate when using the Xyloslicer by +20%",
+                "description": "",
                 "parent": "yield2-forestry",
                 "active": "yes",
-                "exp": "900",
-                "klaatus": "90",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Foraging",
-                "id": "foraging-foraging",
-                "name": "Foraging",
-                "description": "Unlock this from the Botany skill tree.",
-                "parent": "foraging-botany",
-                "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlockedBy": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "farming-farming",
                 "name": "Farming",
-                "description": "Unlock this from the Botany skill tree.",
+                "description": "Learn to build Gardens and Farms",
                 "parent": "farming-botany",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "thermalMeter-farming",
                 "name": "Thermal Meter",
-                "description": "Craft and place devices to control nearby temperature",
+                "description": "",
                 "parent": "farming-farming",
                 "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "plantGenetics-farming",
                 "name": "Plant Genetics",
-                "description": "Hybridize and cultivate new species of flora",
+                "description": "",
                 "parent": "farming-farming",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "bushPlanting-farming",
                 "name": "Bush Planting",
-                "description": "The ability to plant bush and flower seeds with the Harvester",
+                "description": "",
                 "parent": "farming-farming",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "growthPod1-farming",
                 "name": "Growth Pod 1",
-                "description": "Increase the growth rate of the Growth Pods you activate by +50%",
+                "description": "",
                 "parent": "farming-farming",
-                "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "growthPod2-farming",
                 "name": "Growth Pod 2",
-                "description": "Increase the growth rate of the Growth Pods you activate by +50%",
+                "description": "",
                 "parent": "growthPod1-farming",
-                "active": "yes",
-                "exp": "600",
-                "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Farming",
                 "id": "growthPod3-farming",
                 "name": "Growth Pod 3",
-                "description": "Increase the growth rate of the Growth Pods you activate by +50%",
+                "description": "",
                 "parent": "growthPod2-farming",
-                "active": "yes",
-                "exp": "900",
-                "klaatus": "90",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat",
                 "id": "combat-combat",
                 "name": "Combat",
-                "description": "Advance your skills with weaponry",
+                "description": "",
                 "parent": null,
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat",
                 "id": "playtestSpecials-combat",
                 "name": "Playtest Specials",
-                "description": "Testing weapons balance and special abilities",
+                "description": "",
                 "parent": "combat-combat",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat",
                 "id": "combatTactics-combat",
                 "name": "Combat Tactics",
-                "description": "Learn tactical skills to use during battles",
+                "description": "",
                 "parent": "combat-combat",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Tactics",
                 "id": "combatTactics-combatTactics",
                 "name": "Combat Tactics",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "combatTactics-combat",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Tactics",
                 "id": "ranged-combatTactics",
                 "name": "Ranged",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "combatTactics-combatTactics",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Tactics",
                 "id": "melee-combatTactics",
                 "name": "Melee",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "combatTactics-combatTactics",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Tactics",
                 "id": "drones-combatTactics",
                 "name": "Drones",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "combatTactics-combatTactics",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Tactics",
                 "id": "combatEngineer-combatTactics",
                 "name": "Combat Engineer",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "combatTactics-combatTactics",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "ranged-ranged",
                 "name": "Ranged",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-combatTactics",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "sniper-ranged",
                 "name": "Sniper",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "shotgun-ranged",
                 "name": "Shotgun",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "rocketLauncher-ranged",
                 "name": "Rocket Launcher",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "pistol-ranged",
                 "name": "Pistol",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "heavyMachineGun-ranged",
                 "name": "Heavy Machine Gun",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "bow-ranged",
                 "name": "Bow",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "battleRifle-ranged",
                 "name": "Battle Rifle",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranged",
                 "id": "assaultRifle-ranged",
                 "name": "Assault Rifle",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "ranged-ranged",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "melee-melee",
                 "name": "Melee",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-combatTactics",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "sword-melee",
                 "name": "Sword",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-melee",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "staff-melee",
                 "name": "Staff",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-melee",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "mauler-melee",
                 "name": "Mauler",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-melee",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "laserWhip-melee",
                 "name": "Laser Whip",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-melee",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Melee",
                 "id": "knifeStars-melee",
                 "name": "Knife Stars",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "melee-melee",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Drones",
                 "id": "drones-drones",
                 "name": "Drones",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "drones-combatTactics",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Combat Engineer",
                 "id": "combatEngineer-combatEngineer",
-                "name": "Combat Engineer",
-                "description": "Unlock this from the Combat skill tree.",
+                "name": "Sword",
+                "description": "",
                 "parent": "combatEngineer-combatTactics",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "playtestSpecials-playtestSpecials",
                 "name": "playtestSpecials",
-                "description": "Unlock this from the Combat skill tree.",
+                "description": "",
                 "parent": "playtestSpecials-combat",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "omniShock-playtestSpecials",
                 "name": "OmniShock",
-                "description": "Specials for the OmniShock pistol",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "triShot-playtestSpecials",
                 "name": "Tri-Shot",
-                "description": "Instead of firing a single projectile, the Tri-Shot sends three homing projectiles out in a fan",
+                "description": "",
                 "parent": "omniShock-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "doomBlossom-playtestSpecials",
                 "name": "Doom Blossom",
-                "description": "Send out a porojectile that detonates at range sending homing projectiles in all directions from the point of impact",
+                "description": "",
                 "parent": "omniShock-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "omniForce-playtestSpecials",
                 "name": "OmniForce",
-                "description": "Specials for the OmniForce pistol",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "hunterSeekers-playtestSpecials",
                 "name": "Hunter Seekers",
-                "description": "Launch three projectiles that detonates after short distance, each into a cloud of homing hunter seekers that do light damage, but there are many of them",
+                "description": "",
                 "parent": "omniForce-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "artillery-playtestSpecials",
                 "name": "Artillery",
-                "description": "Launch an indirect projectile with a very large area of effect and a high degree of damage in that area",
+                "description": "",
                 "parent": "omniForce-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "gravityGun-playtestSpecials",
                 "name": "Gravity Gun",
-                "description": "Special for the Gravity Gun",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "blackHoleBomb-playtestSpecials",
                 "name": "Black Hole Bomb",
-                "description": "Filing a projectile to a destination where it implodes, dragging any nearby targets to the center and causing damage",
+                "description": "",
                 "parent": "gravityGun-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "boomer-playtestSpecials",
                 "name": "Boomer",
-                "description": "The Boomer ability explodes force outward, damaging nearby enemies and flinging them away from you",
+                "description": "",
                 "parent": "gravityGun-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "freezeRay-playtestSpecials",
                 "name": "Freeze Ray",
-                "description": "Special for the Freeze Ray",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "snowGlobe-playtestSpecials",
                 "name": "Snow Globe",
-                "description": "Launch a hemisphere of cold projectiles outward, exploding after a short distance, creating a dome of damage around you",
+                "description": "",
                 "parent": "freezeRay-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "deepFreeze-playtestSpecials",
                 "name": "Deep Freeze",
-                "description": "Launch an indirect projectile that explodes in a very large area, freezing creatures and terrain for a time or until damaged",
+                "description": "",
                 "parent": "freezeRay-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "corrosionDrones-playtestSpecials",
                 "name": "Corrosion Drones",
-                "description": "Special for the Acid Drones weapon system",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "bugBombs-playtestSpecials",
                 "name": "Bug Bombs",
-                "description": "Each of your drones launches a salvo of three explosive projectiles in front of you, saturating an area with explosions",
+                "description": "",
                 "parent": "corrosionDrones-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "acidBath-playtestSpecials",
                 "name": "Acid Bath",
-                "description": "A ring of corrosive projectiles are sent out in all directions, exploding after a short distance.",
+                "description": "",
                 "parent": "corrosionDrones-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "companionOrbs-playtestSpecials",
                 "name": "Companion Orbs",
-                "description": "Special for the Companion Orbs weapon system",
+                "description": "",
                 "parent": "playtestSpecials-playtestSpecials",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "nodeRing-playtestSpecials",
                 "name": "Node Ring",
-                "description": "A circle of fireballs does damage to anything that approaches and also blocks incoming projectiles",
+                "description": "",
                 "parent": "companionOrbs-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Playtest Specials",
                 "id": "boomerangBurst-playtestSpecials",
                 "name": "Bommerang Burst",
-                "description": "A burst of fireballs streak outward and upward, reach max range, then return back to origin damaging anything in the way",
+                "description": "",
                 "parent": "companionOrbs-playtestSpecials",
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Business",
                 "id": "business-business",
@@ -870,9 +776,8 @@
                 "description": "Learn the ins and outs of running businesses",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Business",
                 "id": "management-business",
@@ -882,21 +787,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Management",
                 "id": "management-management",
                 "name": "Management",
-                "description": "Unlock this from the Business skill tree,",
+                "description": "Run shops and companies",
                 "parent": "management-business",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Business",
                 "id": "logistics-business",
@@ -906,21 +809,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Logistics",
                 "id": "logistics-logistics",
                 "name": "Logistics",
-                "description": "Unlock this from the Business skill tree,",
+                "description": "Manage supply chains and infrastructure",
                 "parent": "logistics-business",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Logistics",
                 "id": "crime-logistics",
@@ -930,9 +831,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Business",
                 "id": "advertising-business",
@@ -942,21 +842,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Advertising",
                 "id": "advertising-advertising",
                 "name": "Advertising",
-                "description": "Unlock this from the Business skill tree,",
+                "description": "Create popularity for business you champion",
                 "parent": "advertising-business",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Humanities",
                 "id": "humanities-humanities",
@@ -964,9 +862,8 @@
                 "description": "Skills to enhance your use of Humanities, plus access to the Music, Acting, Dance, Writing, and Journalism skill trees",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Humanities",
                 "id": "writing-humanties",
@@ -976,21 +873,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Writing",
                 "id": "writing-writing",
                 "name": "Writing",
-                "description": "Unlock this from the Humanities skill tree.",
+                "description": "Learn the craft of wordsmithing",
                 "parent": "writing-humanities",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Writing",
                 "id": "journalism-writing",
@@ -1000,9 +895,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Humanities",
                 "id": "music-humanties",
@@ -1012,21 +906,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Music",
                 "id": "music-music",
                 "name": "Music",
-                "description": "Unlock this from the Humanities skill tree.",
+                "description": "Hone your instrumental skills alone and with groups",
                 "parent": "music-humanities",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Humanities",
                 "id": "dance-humanties",
@@ -1036,21 +928,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Dance",
                 "id": "dance-dance",
                 "name": "Dance",
-                "description": "Unlock this from the Humanities skill tree.",
+                "description": "Learn to dance individually and with groups",
                 "parent": "dance-humanities",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Humanities",
                 "id": "acting-humanties",
@@ -1060,21 +950,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Acting",
                 "id": "acting-acting",
                 "name": "Acting",
-                "description": "Unlock this from the Humanities skill tree.",
+                "description": "Learn oration and coor(r)dinate production of plays",
                 "parent": "acting-humanities",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Leadership",
                 "id": "leadership-leadership",
@@ -1082,9 +970,8 @@
                 "description": "Learn Leadership skills as vell as accessing the Group Tactics, Inspiration, and Coordination skill trees",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Leadership",
                 "id": "inspiration-leadership",
@@ -1094,21 +981,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Inspiration",
                 "id": "inspiration-inspiration",
                 "name": "Inspiration",
-                "description": "Unlock this from the Leadership skill tree.",
+                "description": "Learn skills to Inspire your group",
                 "parent": "inspiration-leadership",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Inspiration",
                 "id": "politics-inspiration",
@@ -1118,9 +1003,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Leadership",
                 "id": "groupTactics-leadership",
@@ -1130,21 +1014,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Group Tactics",
                 "id": "groupTactics-groupTactics",
                 "name": "Group Tactics",
-                "description": "Unlock this from the Leadership skill tree.",
+                "description": "Learn Group Tactics",
                 "parent": "groupTactics-leadership",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Leadership",
                 "id": "coordination-leadership",
@@ -1154,21 +1036,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Coordination",
                 "id": "coordination-coordination",
                 "name": "Coordination",
-                "description": "Unlock this from the Leadership skill tree.",
+                "description": "Learn to coordinate your allies and group",
                 "parent": "coordination-leadership",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Coordination",
                 "id": "politics-coordination",
@@ -1178,19 +1058,17 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Vehicles",
                 "id": "vehicles-vehicles",
                 "name": "Vehicles",
-                "description": "Learn to control various types of vehicles",
+                "description": "",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Vehicles",
                 "id": "starships-vehicles",
@@ -1200,21 +1078,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Starships",
                 "id": "starships-starships",
                 "name": "Starships",
-                "description": "Unlock this from the Vehicles skill tree.",
+                "description": "Pilot starships",
                 "parent": "starships-vehicles",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Vehicles",
                 "id": "groundVehicles-vehicles",
@@ -1224,21 +1100,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ground Vehicles",
                 "id": "groundVehicles-vehicles",
                 "name": "Ground Vehicles",
-                "description": "Unlock this from the Vehicles skill tree.",
+                "description": "Operate terrestrial vehicles",
                 "parent": "groundVehicles-vehicles",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Vehicles",
                 "id": "airVehicles-vehicles",
@@ -1248,21 +1122,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Air Vehicles",
                 "id": "airVehicles-vehicles",
                 "name": "Air Vehicles",
-                "description": "Unlock this from the Vehicles skill tree.",
+                "description": "Learn to fly atmospheric vehicles",
                 "parent": "airVehicles-vehicles",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenobiology",
                 "id": "xenobiology-xenobiology",
@@ -1270,9 +1142,8 @@
                 "description": "The study of alien physiology",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenobiology",
                 "id": "xenolinguistics-xenobiology",
@@ -1282,21 +1153,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenolinguistics",
                 "id": "xenolinguistics-xenolinguistics",
                 "name": "Xenolinguistics",
-                "description": "Unlock this from the Xenobiology skill tree.",
+                "description": "Learn to decipher alien languages",
                 "parent": "xenolinguistics-xenobiology",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenolinguistics",
                 "id": "xenoarcheology-xenolinguistics",
@@ -1306,9 +1175,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenobiology",
                 "id": "pets-xenobiology",
@@ -1318,21 +1186,19 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pets",
                 "id": "pets-pets",
                 "name": "Pets",
-                "description": "Unlock this from the Xenobiology skill tree.",
+                "description": "Tame creatures to become pets and teach them tricks",
                 "parent": "pets-xenobiology",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pets",
                 "id": "husbandry-pets",
@@ -1342,9 +1208,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pets",
                 "id": "animalTraining-pets",
@@ -1354,9 +1219,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Xenobiology",
                 "id": "huntingAndFishing-xenobiology",
@@ -1366,125 +1230,114 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Hunting and Fishing",
                 "id": "huntingAndFishing-huntingAndFishing",
                 "name": "Hunting and Fishing",
-                "description": "Unlock this from the Xenobiology skill tree.",
+                "description": "Gather protein foodstuffs from the wild",
                 "parent": "huntingAndFishing-xenobiology",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Cooking",
                 "id": "cooking-cooking",
                 "name": "Cooking",
-                "description": "Use the Stove to make delicious and nutritious meals and medicines",
+                "description": "",
                 "parent": null,
                 "active": "WIP",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Cooking",
                 "id": "preservation-cooking",
                 "name": "Preservation",
-                "description": "Learn to preserve foods for longer storage without spoiling",
+                "description": "",
                 "parent": "cooking-cooking",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
+            	"skillCost": "5"
+				},
+                {
                 "tree": "Preservation",
                 "id": "preservation-preservation",
                 "name": "Preservation",
-                "description": "Unlock this from the Cooking skill tree.",
+                "description": "",
                 "parent": "preservation-cooking",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
             {
                 "tree": "Cooking",
                 "id": "foods-cooking",
                 "name": "Foods",
-                "description": "Create sustaining foods that increase your maximum health, focus or stamina",
+                "description": "",
                 "parent": "cooking-cooking",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
+                {
                 "tree": "Foods",
                 "id": "foods-foods",
                 "name": "Foods",
-                "description": "Unlock this from the Cooking skill tree.",
+                "description": "",
                 "parent": "foods-cooking",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
-            {
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
                 "tree": "Foods",
                 "id": "fruitJam-foods",
                 "name": "Fruit Jam",
-                "description": "Boosts your maximum Focus, letting you use more than normal. Your new maximum lasts for a set duration.",
+                "description": "",
                 "parent": "foods-foods",
                 "active": "yes",
-                "exp": "100",
-                "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
                 "tree": "Foods",
                 "id": "mushroomPatty-foods",
                 "name": "Mushroom Patty",
-                "description": "Boosts your maximum Stamina, letting you use more than normal. Your new maximum lasts for a set duration.",
+                "description": "",
                 "parent": "foods-foods",
                 "active": "yes",
-                "exp": "100",
-                "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
+                {
                 "tree": "Foods",
                 "id": "meatKabob-foods",
                 "name": "Meat Kabob",
-                "description": "Boosts your maximum Health, letting you use more than normal. Your new maximum lasts for a set duration.",
+                "description": "",
                 "parent": "foods-foods",
                 "active": "yes",
-                "exp": "100",
-                "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+                "skillCost": "5"
+                },
             {
                 "tree": "Crafting",
                 "id": "crafting-crafting",
                 "name": "Crafting",
-                "description": "Unlock the ability to craft many other kinds of tools, weapons and items",
+                "description": "",
                 "parent": null,
-                "active": "yes",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "active": "WIP",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Crafting",
                 "id": "tailoring-crafting",
@@ -1494,717 +1347,646 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Tailoring",
                 "id": "tailoring-tailoring",
                 "name": "Tailoring",
-                "description": "Unlock this from the Crafting skill tree.",
+                "description": "Create new clothing and clothing variants to wear and sell",
                 "parent": "tailoring-crafting",
                 "active": "WIP",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Tailoring",
                 "id": "armorer-tailoring",
                 "name": "Armorer",
-                "description": "Create protective armor against damage and environmental hazards",
+                "description": "",
                 "parent": "tailoring-tailoring",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Crafting",
                 "id": "machinist-crafting",
                 "name": "Machinist",
                 "description": "Learn to make stations and gain access to the Engineer, Toolmaker and Weaponsmith skill trees",
                 "parent": "crafting-crafting",
-                "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Machinist",
                 "id": "machinist-machinist",
                 "name": "Machinist",
-                "description": "Unlock this from the Crafting skill tree.",
+                "description": "Learn to make stations and gain access to the Engineer, Toolmaker and Weaponsmith skill trees",
                 "parent": "machinist-crafting",
-                "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Machinist",
                 "id": "weaponsmith-machinist",
                 "name": "Weaponsmith",
-                "description": "Study to be able to craft weapons and shields",
+                "description": "",
                 "parent": "machinist-machinist",
                 "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Weaponsmith",
-                "id": "weaponsmith-weaponsmith",
-                "name": "Machinist",
-                "description": "Unlock this from the Machinist skill tree.",
-                "parent": "weaponsmith-machinist",
-                "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "reflectionShield-weaponsmith",
                 "name": "Reflection Shield",
-                "description": "Learn to build the Reflection Shield so you can send projectiles right back at your atatckers",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "powerBattery-weaponsmith",
                 "name": "Power Battery",
-                "description": "Learn to use the Power Battery consumable to recharge your weapons in the field",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
-                "exp": "300",
-                "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "omniShock-weaponsmith",
                 "name": "OmniShock",
-                "description": "Learn to build the OmniShock pistol.",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "omniForce-weaponsmith",
                 "name": "OmniForce",
-                "description": "Learn to build the OmniForce pistol that combines homing techniques with salvos and indirect fire to great effect",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "healix-weaponsmith",
                 "name": "Healix",
-                "description": "Learn to build the medicald evice, the multi-use Healix",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "gravityGun-weaponsmith",
                 "name": "Gravity Gun",
-                "description": "Learn to build the gravity-controlling weapon that can explode and implode your enemies",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "freezeRay-weaponsmith",
                 "name": "Freeze Ray",
-                "description": "Learn to make the Freeze Ray that has a high damage beam effect plus the Snow Globe and Deep Freeze special abilities.",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "fortressShield-weaponsmith",
                 "name": "Fortress Shield",
-                "description": "Learn to build the Fortress Shield that slows down and stop much of the damage you might take in battle",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "companionOrbs-weaponsmith",
                 "name": "Companion Orbs",
-                "description": "Learn to build the floating orbs that can direct fire toward the target of your choice",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Weaponsmith",
                 "id": "acidDrones-weaponsmith",
                 "name": "Acid Drones",
-                "description": "Spit corrosion and acid at your foes from these twin drones, with the ability to use the Acid Spray and Acid Blast specials.",
+                "description": "",
                 "parent": "weaponsmith-weaponsmith",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Machinist",
                 "id": "toolmaker-machinist",
                 "name": "Toolmaker",
-                "description": "Learn to make tools and crafting stations",
+                "description": "",
                 "parent": "machinist-machinist",
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "toolmaker-toolmaker",
                 "name": "Toolmaker",
-                "description": "Unlock this from the Machinist skill tree.",
+                "description": "",
                 "parent": "toolmaker-machinist",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "xyloslicer-toolmaker",
                 "name": "Xyloslicer",
-                "description": "Learn to build the Xyloslicer, the tool used for cutting and planting trees",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "pruingShears-toolmaker",
                 "name": "Pruning Shears",
-                "description": "Learn to make the Pruning Shears so you can force grow, diminish or stunt tree growth",
+                "description": "",
                 "parent": "xyloslicer-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "terraformer-toolmaker",
                 "name": "Terraformer",
-                "description": "Learn to build the Terraformer, the ultimate device for digging, depositing, transforming, and exploring resources around you",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "depositor-toolmaker",
                 "name": "Depositor",
-                "description": "Learn to make the Depositer to deposit raw resources into the world",
+                "description": "",
                 "parent": "terraformer-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "chronophaser-toolmaker",
                 "name": "Chronophaser",
-                "description": "Learn to create the Chronophaser allowing you to Erode, Lithify, and melt resources around you",
+                "description": "",
                 "parent": "depositor-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "paver-toolmaker",
                 "name": "Paver",
-                "description": "Learn to make the Paver, used for paving roads and courtyards",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "pathfinder-toolmaker",
                 "name": "Pathfinder",
-                "description": "Learn to use the Pathfinder for completing planetary survey node maps",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "trailblazer-toolmaker",
                 "name": "Trailblazer",
-                "description": "Build the Trailblazer, the primary Ranger device for establishing camps, clearing shrubs, and detecting Makers in the area",
+                "description": "",
                 "parent": "pathfinder-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "instaformer-toolmaker",
                 "name": "Instaformer",
-                "description": "Learn to build the Instaformer, a device for converting resources into building blocks",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "fabricator-toolmaker",
                 "name": "Fabricator",
-                "description": "Learn to build the Fabricator building tool",
+                "description": "",
                 "parent": "instaformer-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "harvester-toolmaker",
                 "name": "Harvester",
-                "description": "Build the Harvester for gathering bushes and flowers",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "growthBeacon-toolmaker",
                 "name": "Growth Beacon",
-                "description": "Learn to build the Growth Beacons to stimulate tree and plant growth in an area",
+                "description": "",
                 "parent": "harvester-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "grapple-toolmaker",
                 "name": "Grapple",
-                "description": "Master the ability to craft a Grapple",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "gravityMesh-toolmaker",
                 "name": "Gravity Mesh",
-                "description": "Learn the details of defeating gravity and build the Gravity Mesh",
+                "description": "",
                 "parent": "grapple-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "cookingStation-toolmaker",
                 "name": "Cooking Station",
-                "description": "Learn to build the Stove, a station for cooking",
+                "description": "",
                 "parent": "toolmaker-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "toolmakingStation-toolmaker",
                 "name": "Toolmaking Station",
-                "description": "Master the use of the Toolmaker and become able to build tools that other explorers will always need",
+                "description": "",
                 "parent": "cookingStation-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "latheStation-toolmaker",
                 "name": "Lathe Station",
-                "description": "Familiarize yourself with the Lathe, a crafting station for building Instaformer blocks, Fabricator pieces, and paver tiles",
+                "description": "",
                 "parent": "latheStation-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Toolmaker",
                 "id": "refiningStation-toolmaker",
                 "name": "Refining Station",
-                "description": "Learn to use the Refinery station and find ways to convert common materials into harder to find ones",
+                "description": "",
                 "parent": "latheStation-toolmaker",
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Machinist",
                 "id": "engineer-machinist",
                 "name": "Engineer",
-                "description": "Learn Engineering skills",
+                "description": "",
                 "parent": "machinist-machinist",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Crafting",
                 "id": "civilEngineering-crafting",
                 "name": "Civil Engineering",
-                "description": "Enhance the Paver tool and unlock the Architect tree of skills",
+                "description": "",
                 "parent": "crafting-crafting",
-                "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "active": "WIP",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Civil Engineering",
                 "id": "civilEngineering-civilEngineering",
                 "name": "Civil Engineering",
-                "description": "Unlock this from the Crafting skill tree.",
+                "description": "",
                 "parent": "civilEngineering-crafting",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Civil Engineering",
                 "id": "publicWorks-civilEngineering",
                 "name": "Public Works",
-                "description": "Able to create Works outside of Homesteads and Public Lots",
+                "description": "",
                 "parent": "civilEngineering-civilEngineering",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Civil Engineering",
                 "id": "publicArchitecture-civilEngineering",
                 "name": "Public Architecture",
-                "description": "Able to create buildings in Public Lots",
+                "description": "",
                 "parent": "civilEngineering-civilEngineering",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Civil Engineering",
                 "id": "paver-civilEngineering",
                 "name": "Paver",
-                "description": "Unlocks Paver Tiles to use with that tool",
-                "parent": "civilEngineering-civilEngineering",
-                "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Civil Engineering",
-                "id": "paverManufacturedSurfaces-civilEngineering",
-                "name": "Paver: Manufactured Surfaces",
-                "description": "Unlocks the Manufactures and Stone tiles for the Paver: Black Brick, Cobble, Concrete, Dirt, Plasticrete, Red Brick, and Slate",
-                "parent": "paver-civilEngineering",
-                "active": "yes",
-                "exp": "350",
-                "klaatus": "35",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Civil Engineering",
-                "id": "paverFlagstones-civilEngineering",
-                "name": "Paver: Flagstones",
-                "description": "Unlocks thses Flagstone tiles for the Paver: Breccia, Conglomerate, Gabbro, Gneiss, Granite, Marble and Sandstone",
-                "parent": "paver-civilEngineering",
-                "active": "yes",
-                "exp": "350",
-                "klaatus": "35",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
-            {
-                "tree": "Civil Engineering",
-                "id": "architect-civilEngineering",
-                "name": "Architect",
-                "description": "Enhance the things you can make with the Instaformer and Fabricator",
+                "description": "",
                 "parent": "civilEngineering-civilEngineering",
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
+            {
+                "tree": "Civil Engineering",
+                "id": "paverManufacturedSurfaces-civilEngineering",
+                "name": "Paver: Manufactured Surfaces",
+                "description": "",
+                "parent": "paver-civilEngineering",
+                "active": "yes",
+                "exp": "350",
+                "klaatus": "35",
+            	"skillCost": "5"
+				},
+            {
+                "tree": "Civil Engineering",
+                "id": "paverFlagstones-civilEngineering",
+                "name": "Paver: Flagstones",
+                "description": "",
+                "parent": "paver-civilEngineering",
+                "active": "yes",
+                "exp": "350",
+                "klaatus": "35",
+            	"skillCost": "5"
+				},
+            {
+                "tree": "Civil Engineering",
+                "id": "architect-civilEngineering",
+                "name": "Architect",
+                "description": "",
+                "parent": "civilEngineering-civilEngineering",
+                "active": "yes",
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "architect-architect",
                 "name": "Architect",
-                "description": "Unlock this from the Civil Engineering skill tree.",
+                "description": "",
                 "parent": "architect-civilEngineering",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "instaformer-architect",
                 "name": "Instaformer",
-                "description": "Recipe sets to use with the Instaformer tool",
+                "description": "",
                 "parent": "architect-architect",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "stoneBlocks-architect",
                 "name": "Stone Blocks",
-                "description": "Unlock stone block styles including Breccia, Conglomerate, Diorite, Gabbro, Gneiss, Granite, Laterite, Marble, Sandstone, and Slate",
+                "description": "",
                 "parent": "instaformer-architect",
                 "active": "yes",
                 "exp": "500",
                 "klaatus": "50",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "metalBlocks-architect",
                 "name": "Metal Blocks",
-                "description": "Unlock these block styles: Aluminum, Anti-Gravium, Brass, Bronze, Chromium Steel, Cobalt Steel, Copper, Gold, Manganese Steel, Stainless Steel and Steel",
+                "description": "",
                 "parent": "instaformer-architect",
                 "active": "yes",
                 "exp": "550",
                 "klaatus": "55",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "manufacturedBlocks-architect",
                 "name": "Manufactured Blocks",
-                "description": "Make block styles including Black Brick, Red Brick, Glass, Iron Girder and Log Cabin",
+                "description": "",
                 "parent": "instaformer-architect",
                 "active": "yes",
                 "exp": "250",
                 "klaatus": "25",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "initialHomestead-architect",
                 "name": "Initial Homestead",
-                "description": "Acquire the rights to place a Homestead",
+                "description": "",
                 "parent": "architect-architect",
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "additionalHomestead-architect",
                 "name": "Additional Homestead",
-                "description": "Acquire the rights for a second Homestead",
+                "description": "",
                 "parent": "initialHomestead-architect",
                 "active": "yes",
                 "exp": "1200",
                 "klaatus": "120",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "additionalHomestead2-architect",
                 "name": "Additional Homestead 2",
-                "description": "Acquire the rights for a third Homestead",
+                "description": "",
                 "parent": "additionalHomestead-architect",
                 "active": "yes",
                 "exp": "1800",
                 "klaatus": "180",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "fabricator-architect",
                 "name": "Fabricator",
-                "description": "Recipe sets to use with the Fabricator tool",
+                "description": "",
                 "parent": "architect-architect",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "windowsAndWalls-architect",
                 "name": "Windows & Walls",
-                "description": "This set unlocks doorway and window pieces including walls with small and large windows, corner wall pieces with small and large windows, as well as four doorway arch pieces.",
+                "description": "",
                 "parent": "fabricator-architect",
                 "active": "yes",
                 "exp": "400",
                 "klaatus": "40",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "ramps-architect",
                 "name": "Ramps",
-                "description": "All the sloped pieces including wide and narrow stairs, wide and narrow ramps, a wall angle and railing for stairs",
+                "description": "",
                 "parent": "fabricator-architect",
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "lights-architect",
                 "name": "Lights",
-                "description": "All the lights including White, Red, Green, Blue, and Yellow solid lights, as well as blinking versions",
+                "description": "",
                 "parent": "fabricator-architect",
                 "active": "yes",
                 "exp": "250",
                 "klaatus": "25",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "decorations-architect",
                 "name": "Decorations",
-                "description": "Fabricator pieces you use to decorate there st of your build including Wall Span, Roof Trim (straight and corner), Column, three Railing pieces, and Angled Roof",
+                "description": "",
                 "parent": "fabricator-architect",
                 "active": "yes",
                 "exp": "400",
                 "klaatus": "40",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Architect",
                 "id": "essentials-architect",
                 "name": "Essentials",
-                "description": "Essential Fabricator pieces you need including Floor, Triangular Floor, Wall, Corner Walls (large and snmall), Foundation and Roof",
+                "description": "",
                 "parent": "fabricator-architect",
                 "active": "yes",
                 "exp": "350",
                 "klaatus": "35",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Medical",
                 "id": "medical-medical",
@@ -2212,9 +1994,8 @@
                 "description": "Advance your skills healing and benefiting others",
                 "parent": null,
                 "active": "yes",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Medical",
                 "id": "pharmacology-medical",
@@ -2222,23 +2003,21 @@
                 "description": "Learn new medicines",
                 "parent": "medical-medical",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "pharmacology-pharmacology",
                 "name": "Pharmacology",
-                "description": "Unlock this from the Medical skill tree.",
+                "description": "",
                 "parent": "pharmacology-medical",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "0",
-                "autoUnlocked": "yes"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "medicine-pharmacology",
@@ -2246,47 +2025,43 @@
                 "description": "Create medicines to instantly restore stamina, focus and health",
                 "parent": "pharmacology-pharmacology",
                 "active": "yes",
-                "exp": "0",
-                "klaatus": "0",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+                "exp": "",
+                "klaatus": "",
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "staminaBooster-pharmacology",
                 "name": "Stamina Booster",
-                "description": "Immediate Stamina restoration",
+                "description": "",
                 "parent": "medicine-pharmacology",
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "healthBooster-pharmacology",
                 "name": "Health Booster",
-                "description": "Immediate Health restoration",
+                "description": "",
                 "parent": "medicine-pharmacology",
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "focusBooster-pharmacology",
                 "name": "Focus Booster",
-                "description": "Immediate Focus restoration",
+                "description": "",
                 "parent": "medicine-pharmacology",
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "cures-pharmacology",
@@ -2296,9 +2071,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "wattAway-pharmacology",
@@ -2308,9 +2082,8 @@
                 "active": "yes",
                 "exp": "100",
                 "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "thawBones-pharmacology",
@@ -2320,9 +2093,8 @@
                 "active": "yes",
                 "exp": "100",
                 "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "goJuice-pharmacology",
@@ -2332,9 +2104,8 @@
                 "active": "yes",
                 "exp": "100",
                 "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "flameOut-pharmacology",
@@ -2344,9 +2115,8 @@
                 "active": "yes",
                 "exp": "100",
                 "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Pharmacology",
                 "id": "cureAll-pharmacology",
@@ -2356,9 +2126,8 @@
                 "active": "yes",
                 "exp": "100",
                 "klaatus": "10",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Healix",
                 "id": "healix-healix",
@@ -2368,9 +2137,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Healix",
                 "id": "surge-healix",
@@ -2380,9 +2148,8 @@
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Healix",
                 "id": "massHeal-healix",
@@ -2392,9 +2159,8 @@
                 "active": "yes",
                 "exp": "800",
                 "klaatus": "80",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Genetics",
                 "id": "genetics-genetics",
@@ -2404,9 +2170,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Medical",
                 "id": "genetics-medical",
@@ -2416,9 +2181,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "mineralogy-mineralogy",
@@ -2426,9 +2190,8 @@
                 "description": "",
                 "parent": null,
                 "active": "yes",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "refining-mineralogy",
@@ -2438,9 +2201,8 @@
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "refining-refining",
@@ -2450,9 +2212,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "soils-refining",
@@ -2462,9 +2223,8 @@
                 "active": "yes",
                 "exp": "325",
                 "klaatus": "32",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "sedimentary-refining",
@@ -2474,9 +2234,8 @@
                 "active": "yes",
                 "exp": "1175",
                 "klaatus": "117",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "other-refining",
@@ -2486,9 +2245,8 @@
                 "active": "yes",
                 "exp": "1025",
                 "klaatus": "102",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "metamorphic-refining",
@@ -2498,9 +2256,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "igneous-refining",
@@ -2510,9 +2267,8 @@
                 "active": "yes",
                 "exp": "675",
                 "klaatus": "67",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Refining",
                 "id": "alloy-refining",
@@ -2522,9 +2278,8 @@
                 "active": "yes",
                 "exp": "475",
                 "klaatus": "47",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "prospecting-mineralogy",
@@ -2534,9 +2289,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Prospecting",
                 "id": "prospecting-prospecting",
@@ -2546,9 +2300,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Prospecting",
                 "id": "assayStats-prospecting",
@@ -2558,9 +2311,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Prospecting",
                 "id": "assayAdhesionAndTemp-prospecting",
@@ -2570,9 +2322,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Prospecting",
                 "id": "advancedAssay-prospecting",
@@ -2582,9 +2333,8 @@
                 "active": "yes",
                 "exp": "750",
                 "klaatus": "75",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "mining-mineralogy",
@@ -2594,9 +2344,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "mining-mining",
@@ -2606,9 +2355,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "yield1-mining",
@@ -2618,9 +2366,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "yield2-mining",
@@ -2630,9 +2377,8 @@
                 "active": "yes",
                 "exp": "900",
                 "klaatus": "90",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "gemology-mining",
@@ -2642,9 +2388,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "yield3-mining",
@@ -2654,9 +2399,8 @@
                 "active": "yes",
                 "exp": "1200",
                 "klaatus": "120",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "speed1-mining",
@@ -2666,9 +2410,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "speed2-mining",
@@ -2678,9 +2421,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "speed3-mining",
@@ -2690,9 +2432,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "hopperSize1-mining",
@@ -2702,9 +2443,8 @@
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "hopperSize2-mining",
@@ -2714,9 +2454,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mining",
                 "id": "hopperSize3-mining",
@@ -2726,9 +2465,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gemology",
                 "id": "gemology-gemology",
@@ -2738,9 +2476,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gemology",
                 "id": "gemDrops1-gemology",
@@ -2750,9 +2487,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gemology",
                 "id": "gemDrops2-gemology",
@@ -2762,9 +2498,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gemology",
                 "id": "gemDrops3-gemology",
@@ -2774,9 +2509,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "inudstrialMining-mineralogy",
@@ -2786,9 +2520,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "inudstrialMining-industrialMining",
@@ -2798,9 +2531,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigSpeed1-industrialMining",
@@ -2810,9 +2542,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigSpeed2-industrialMining",
@@ -2822,9 +2553,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigSpeed3-industrialMining",
@@ -2834,9 +2564,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigRange1-industrialMining",
@@ -2846,9 +2575,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigRange2-industrialMining",
@@ -2858,9 +2586,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "rigRange3-industrialMining",
@@ -2870,9 +2597,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "mines1-industrialMining",
@@ -2882,9 +2608,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "mines2-industrialMining",
@@ -2894,9 +2619,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Industrial Mining",
                 "id": "mines3-industrialMining",
@@ -2906,9 +2630,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "gasHarvesting-mineralogy",
@@ -2918,9 +2641,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gas Harvesting",
                 "id": "gasHarvesting-gasHarvesting",
@@ -2930,9 +2652,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gas Harvesting",
                 "id": "gasYield1-gasHarvesting",
@@ -2942,9 +2663,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gas Harvesting",
                 "id": "gasYield2-gasHarvesting",
@@ -2954,9 +2674,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Gas Harvesting",
                 "id": "gasYield3-gasHarvesting",
@@ -2966,9 +2685,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "depositing-mineralogy",
@@ -2978,9 +2696,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Depositing",
                 "id": "depositing-depositing",
@@ -2990,9 +2707,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Mineralogy",
                 "id": "chronophasing-mineralogy",
@@ -3002,9 +2718,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "chronophasing-mineralogy",
@@ -3014,9 +2729,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "lithify1-chronophasing",
@@ -3026,9 +2740,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "lithify2-chronophasing",
@@ -3038,9 +2751,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "lithify3-chronophasing",
@@ -3050,9 +2762,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "heat1-chronophasing",
@@ -3062,9 +2773,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "heat2-chronophasing",
@@ -3074,9 +2784,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "heat3-chronophasing",
@@ -3086,9 +2795,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "erode1-chronophasing",
@@ -3098,9 +2806,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "erode2-chronophasing",
@@ -3110,9 +2817,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Chronophasing",
                 "id": "erode3-chronophasing",
@@ -3122,9 +2828,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "ranger-ranger",
@@ -3132,9 +2837,8 @@
                 "description": "",
                 "parent": null,
                 "active": "yes",
-                "skillCost": "0",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "trailblazerUtilities-ranger",
@@ -3144,9 +2848,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
                 {
                 "tree": "trailblazerUtilities",
                 "id": "trailblazerUtilities-trailblazerUtilities",
@@ -3156,8 +2859,7 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
+                "skillCost": "5"
                 },
                 {
                 "tree": "trailblazerUtilities",
@@ -3168,8 +2870,7 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
+                "skillCost": "5"
                 },
                 {
                 "tree": "trailblazerUtilities",
@@ -3180,8 +2881,7 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
+                "skillCost": "5"
                 },
                 {
                 "tree": "trailblazerUtilities",
@@ -3192,8 +2892,7 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
+                "skillCost": "5"
                 },
             {
                 "tree": "Ranger",
@@ -3204,9 +2903,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "survivalist-survivalist",
@@ -3216,9 +2914,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "poisonResistance-survivalist",
@@ -3228,9 +2925,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "poisonResistance1-survivalist",
@@ -3240,9 +2936,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "poisonResistance2-survivalist",
@@ -3252,9 +2947,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "poisonResistance3-survivalist",
@@ -3264,9 +2958,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "heatResistance-survivalist",
@@ -3276,9 +2969,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "heatResistance1-survivalist",
@@ -3288,9 +2980,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "heatResistance2-survivalist",
@@ -3300,9 +2991,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "heatResistance3-survivalist",
@@ -3312,9 +3002,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "fallDamageReduction-survivalist",
@@ -3324,9 +3013,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "fallDamageReduction1-survivalist",
@@ -3336,9 +3024,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "fallDamageReduction2-survivalist",
@@ -3348,9 +3035,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "fallDamageReduction3-survivalist",
@@ -3360,9 +3046,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "coldResistance-survivalist",
@@ -3372,9 +3057,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "coldResistance1-survivalist",
@@ -3384,9 +3068,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "coldResistance2-survivalist",
@@ -3396,9 +3079,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "coldResistance3-survivalist",
@@ -3408,9 +3090,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "antiNauseaTraining-survivalist",
@@ -3420,9 +3101,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "antiNauseaTraining1-survivalist",
@@ -3432,9 +3112,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "antiNauseaTraining2-survivalist",
@@ -3444,9 +3123,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Survivalist",
                 "id": "antiNauseaTraining3-survivalist",
@@ -3456,9 +3134,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "surveying-ranger",
@@ -3468,9 +3145,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "surveying-surveying",
@@ -3480,9 +3156,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "swimming-surveying",
@@ -3492,9 +3167,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "swimming1-surveying",
@@ -3504,9 +3178,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "swimming2-surveying",
@@ -3516,9 +3189,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "swimming3-surveying",
@@ -3528,9 +3200,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "makerScanning-surveying",
@@ -3540,9 +3211,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "range1-surveying",
@@ -3552,9 +3222,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "range2-surveying",
@@ -3564,9 +3233,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "range3-surveying",
@@ -3576,9 +3244,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "landmarkNaming-surveying",
@@ -3588,9 +3255,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "landmarkNaming1-surveying",
@@ -3600,9 +3266,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "landmarkNaming2-surveying",
@@ -3612,9 +3277,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "landmarkNaming3-surveying",
@@ -3624,9 +3288,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "hiking-surveying",
@@ -3636,9 +3299,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "hiking1-surveying",
@@ -3648,9 +3310,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "hiking2-surveying",
@@ -3660,9 +3321,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "hiking3-surveying",
@@ -3672,9 +3332,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "footing-surveying",
@@ -3684,9 +3343,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "footing1-surveying",
@@ -3696,9 +3354,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "climbing-surveying",
@@ -3708,9 +3365,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "climbing1-surveying",
@@ -3720,9 +3376,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "climbing2-surveying",
@@ -3732,9 +3387,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "climbing3-surveying",
@@ -3744,9 +3398,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "piton-surveying",
@@ -3756,9 +3409,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Surveying",
                 "id": "caveMapping-surveying",
@@ -3768,9 +3420,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "stealth-ranger",
@@ -3780,9 +3431,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "stealth-stealth",
@@ -3792,9 +3442,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "mask1-stealth",
@@ -3804,9 +3453,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "mask2-stealth",
@@ -3816,9 +3464,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "mask3-stealth",
@@ -3828,9 +3475,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "hide-stealth",
@@ -3840,9 +3486,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "sneak-stealth",
@@ -3852,9 +3497,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "sneak1-stealth",
@@ -3864,9 +3508,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "sneak2-stealth",
@@ -3876,9 +3519,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "sneak3-stealth",
@@ -3888,9 +3530,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "hide1-stealth",
@@ -3900,9 +3541,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "hide2-stealth",
@@ -3912,9 +3552,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "hide3-stealth",
@@ -3924,9 +3563,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "areaAwareness-stealth",
@@ -3936,9 +3574,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "detectHidden-stealth",
@@ -3948,9 +3585,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "detectHidden1-stealth",
@@ -3960,9 +3596,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "detectHidden2-stealth",
@@ -3972,9 +3607,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth",
                 "id": "detectHidden3-stealth",
@@ -3984,9 +3618,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "stealthAttacks-ranger",
@@ -3996,9 +3629,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "stealthAttacks-stealthAttacks",
@@ -4008,9 +3640,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "sneakAttack-stealthAttacks",
@@ -4020,9 +3651,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "sneakAttack1-stealthAttacks",
@@ -4032,9 +3662,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "sneakAttack2-stealthAttacks",
@@ -4044,9 +3673,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "sneakAttack3-stealthAttacks",
@@ -4056,9 +3684,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "hiddenAttack1-stealthAttacks",
@@ -4068,9 +3695,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "hiddenAttack2-stealthAttacks",
@@ -4080,9 +3706,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Stealth Attacks",
                 "id": "hiddenAttack3-stealthAttacks",
@@ -4092,9 +3717,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "navigation-ranger",
@@ -4104,9 +3728,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "navigation-navigation",
@@ -4116,9 +3739,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "localWaypoint-navigation",
@@ -4128,9 +3750,8 @@
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "rangedWaypoint-navigation",
@@ -4140,9 +3761,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "surveyMap-navigation",
@@ -4152,9 +3772,8 @@
                 "active": "yes",
                 "exp": "2400",
                 "klaatus": "240",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "library1-navigation",
@@ -4164,9 +3783,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "library2-navigation",
@@ -4176,9 +3794,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "library3-navigation",
@@ -4188,9 +3805,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "distance1-navigation",
@@ -4200,9 +3816,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "distance2-navigation",
@@ -4212,9 +3827,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Navigation",
                 "id": "distance3-navigation",
@@ -4224,9 +3838,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Ranger",
                 "id": "camping-ranger",
@@ -4236,9 +3849,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campStation1-camping",
@@ -4248,9 +3860,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campStation2-camping",
@@ -4260,9 +3871,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campStation3-camping",
@@ -4272,9 +3882,8 @@
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campSize1-camping",
@@ -4284,9 +3893,8 @@
                 "active": "yes",
                 "exp": "",
                 "klaatus": "",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campSize2-camping",
@@ -4296,9 +3904,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campSize3-camping",
@@ -4308,9 +3915,8 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campDuration1-camping",
@@ -4320,9 +3926,8 @@
                 "active": "yes",
                 "exp": "300",
                 "klaatus": "30",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campDuration2-camping",
@@ -4332,9 +3937,8 @@
                 "active": "yes",
                 "exp": "450",
                 "klaatus": "45",
-                "skillCost": "5",
-                "autoUnlocked": "no"
-            },
+            	"skillCost": "5"
+				},
             {
                 "tree": "Camping",
                 "id": "campDuration3-camping",
@@ -4344,7 +3948,6 @@
                 "active": "yes",
                 "exp": "600",
                 "klaatus": "60",
-                "skillCost": "5",
-                "autoUnlocked": "no"
+                "skillCost": "5"
             }
-]
+        ]
