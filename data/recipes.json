@@ -665,6 +665,7 @@
         "Quantity": "0"
       }
     ],
+
     "Amethyst": [
       [
         {
@@ -1744,6 +1745,12 @@
           "Quantity": "0"
         }
       ]
+    ],
+    "Jasper": [
+      {
+        "Material": "breccia",
+        "Quantity": "0"
+      }
     ],
     "UAl": [
       {
