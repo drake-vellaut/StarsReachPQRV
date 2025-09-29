@@ -2746,7 +2746,7 @@
                 "id": "gemDrops1-gemology",
                 "name": "Gem Drops 1",
                 "description": "",
-                "parent": "yield1-mining",
+                "parent": "gemology-mining",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
