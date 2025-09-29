@@ -2734,7 +2734,7 @@
                 "id": "gemology-gemology",
                 "name": "Gemology",
                 "description": "",
-                "parent": "yield1-mining",
+                "parent": "gemology-mining",
                 "active": "WIP",
                 "exp": "",
                 "klaatus": "",
