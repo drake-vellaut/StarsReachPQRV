@@ -280,6 +280,17 @@
             139
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "from lithifying Bare Laterite Soil",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            394,
+            718,
+            700,
+            306
+          ],
+          "Source": "Mining"
         }
       ],
       "Gabbro": [
@@ -3179,6 +3190,17 @@
             389,
             352,
             700
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            613,
+            404,
+            195,
+            800
           ],
           "Source": "Mining"
         }
@@ -6461,6 +6483,17 @@
             714
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            684,
+            482,
+            309,
+            724
+          ],
+          "Source": "Blushing Bonnet"
         }
       ],
       "Quartz": [
@@ -6885,6 +6918,17 @@
             641,
             139
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            575,
+            768,
+            386,
+            659
+          ],
+          "Source": "Mining"
         }
       ],
       "Amethyst": [
@@ -7197,6 +7241,17 @@
             595,
             415
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            373,
+            346,
+            549,
+            765
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -8260,6 +8315,17 @@
             462
           ],
           "Source": "Blastaria"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            649,
+            734,
+            307,
+            433
+          ],
+          "Source": "Mining"
         }
       ],
       "Tourmaline": [
@@ -8374,6 +8440,17 @@
             412
           ],
           "Source": "Maker"
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            449,
+            502,
+            747,
+            162
+          ],
+          "Source": "Mining"
         }
       ],
       "Topaz": [
@@ -9462,6 +9539,17 @@
             795,
             333
           ]
+        },
+        {
+          "notes": "from meteorite",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            171,
+            462,
+            797,
+            653
+          ],
+          "Source": "Mining"
         }
       ],
       "Chromium": [
@@ -13366,6 +13454,17 @@
             641,
             139
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Vitehaven III (WW)",
+          "pqrv": [
+            709,
+            581,
+            558,
+            489
+          ],
+          "Source": "Mining"
         }
       ],
       "Cobalt": [
@@ -44107,6 +44206,17 @@
           641,
           139
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          352,
+          656,
+          771,
+          752
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -47732,6 +47842,17 @@
           525
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          400,
+          632,
+          784,
+          239
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -49492,6 +49613,17 @@
           572,
           542,
           337
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Vitehaven III (WW)",
+        "pqrv": [
+          793,
+          536,
+          551,
+          369
         ],
         "Source": "Mining"
       }

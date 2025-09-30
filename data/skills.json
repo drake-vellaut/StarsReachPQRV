@@ -969,7 +969,7 @@
             },
             {
                 "tree": "Humanities",
-                "id": "writing-humanties",
+                "id": "writing-humanities",
                 "name": "Writing",
                 "description": "Learn the craft of wordsmithing",
                 "parent": "humanities-humanities",
