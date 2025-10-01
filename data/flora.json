@@ -8,7 +8,10 @@
         "lily seedling"
       ],
       "planets": [
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Baracatis III",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -22,7 +25,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -36,7 +40,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -96,7 +102,8 @@
         "pink bellflower seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -157,7 +164,8 @@
         "purple daisy seedling"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -221,7 +229,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -252,8 +262,14 @@
       "image": [
         "assets/flora/queenAnnesLace.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "queen annes lace seedling"
+      ],
+      "planets": [
+        "Akacala",
+        "Vitehaven III (WW)",
+        "Herastag"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -292,7 +308,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -339,7 +356,8 @@
         "goji berry seedling"
       ],
       "planets": [
-        "Doraglas"
+        "Doraglas (WW)",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -366,8 +384,10 @@
         "strawberry seedling"
       ],
       "planets": [
+        "Akafin (WW)",
         "Baracatis III",
-        "Akafin"
+        "Herastag",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -381,7 +401,8 @@
         "lumineweave tendril seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -394,7 +415,9 @@
         "pumpkin"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -407,7 +430,9 @@
         "spirae"
       ],
       "planets": [
-        "Jotaviko (WW)"
+        "Jotaviko (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -471,7 +496,9 @@
       "planets": [
         "Jotaviko (WW)",
         "Herastag",
-        "Grofin (WW)"
+        "Grofin (WW)",
+        "Aulito IV (WW)",
+        "Dorasidus V (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -486,7 +513,9 @@
       "planets": [
         "Baracatis III",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -510,7 +539,9 @@
       "byproducts": [
         "pitcher plant seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Vitehaven III (WW)"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -523,7 +554,8 @@
         "verdark cone seedling"
       ],
       "planets": [
-        "Doraglas"
+        "Doraglas (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -536,7 +568,8 @@
         "ornamental palm seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -563,7 +596,9 @@
       "byproducts": [
         "bromeliad seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -576,7 +611,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -601,7 +637,7 @@
       ],
       "planets": [
         "Herastag",
-        "Akafin"
+        "Akafin (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -614,8 +650,11 @@
         "giant land lily seedling"
       ],
       "planets": [
+        "Baracatis III",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -630,7 +669,9 @@
       "planets": [
         "Akacala",
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -654,7 +695,11 @@
         "skunk cabbage seedling",
         "methane"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala",
+        "Baracatis III",
+        "Vitehaven III (WW)"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -668,7 +713,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -683,7 +730,8 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -744,7 +792,9 @@
       "planets": [
         "Akacala",
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -759,7 +809,8 @@
       "planets": [
         "Baracatis III",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -782,7 +833,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Herastag"
+        "Herastag",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -797,7 +850,8 @@
       "planets": [
         "Baracatis III",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -812,7 +866,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -840,7 +896,9 @@
       "planets": [
         "Akacala",
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -863,7 +921,8 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akacala"
+        "Akacala",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -889,7 +948,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -913,7 +974,8 @@
         "pineapple"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -927,8 +989,11 @@
         "bush palm seedling"
       ],
       "planets": [
+        "Akafin (WW)",
+        "Jotaviko (WW)",
         "Akacala",
-        "Akafin"
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -946,7 +1011,8 @@
         "salt"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -965,8 +1031,11 @@
         "Jotaviko (WW)",
         "Akacala",
         "Herastag",
+        "Baracatis III",
         "Grofin (WW)",
-        "Baracatis III"
+        "Aulito IV (WW)",
+        "Dorasidus V (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -982,10 +1051,12 @@
         "salt"
       ],
       "planets": [
-        "Doraglas",
         "Baracatis III",
         "Herastag",
         "Grofin (WW)",
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)",
         "Akacala"
       ],
       "preferredClimate": [],
@@ -1002,7 +1073,7 @@
         "salt"
       ],
       "planets": [
-        "Doraglas",
+        "Doraglas (WW)",
         "Baracatis III"
       ],
       "preferredClimate": [],
@@ -1019,7 +1090,9 @@
         "blushing bonnet seedling"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Herastag",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1048,7 +1121,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1063,7 +1138,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akafin"
+        "Akafin (WW)",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1078,8 +1155,9 @@
       ],
       "planets": [
         "Baracatis III",
-        "akafin",
-        "Akafin"
+        "Akafin (WW)",
+        "Ayogen (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1092,7 +1170,11 @@
         "chanterelle chunk",
         "chanterelle stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III",
+        "Vitehaven III (WW)",
+        "Ayogen (WW)"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1104,7 +1186,9 @@
         "fairy morel chunk",
         "fairy morel stock"
       ],
-      "planets": [],
+      "planets": [
+        "Ayogen (WW)"
+      ],
       "preferredClimate": [],
       "videos": []
     }
@@ -1119,7 +1203,7 @@
         "cactus fiber"
       ],
       "planets": [
-        "Doraglas"
+        "Doraglas (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1134,7 +1218,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1159,7 +1245,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1199,7 +1287,9 @@
         "lumipora root stock"
       ],
       "planets": [
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1215,7 +1305,9 @@
       "planets": [
         "Herastag",
         "Grofin (WW)",
-        "Doraglas"
+        "Doraglas (WW)",
+        "Dorasidus V (WW)",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1232,8 +1324,9 @@
       ],
       "planets": [
         "Jotaviko (WW)",
-        "Akaala",
-        "Akafin"
+        "Akacala",
+        "Akafin (WW)",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1308,7 +1401,8 @@
         "blue veil root stock"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Herastag"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1325,7 +1419,9 @@
       "planets": [
         "Jotaviko (WW)",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Vitehaven III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1405,7 +1501,8 @@
       "planets": [
         "Jotaviko (WW)",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1420,7 +1517,8 @@
       "planets": [
         "Jotaviko (WW)",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1453,7 +1551,10 @@
         "methane"
       ],
       "planets": [
-        "Doraglas"
+        "Doraglas (WW)",
+        "Herastag",
+        "Akacala",
+        "Ceracatis III (WW)"
       ],
       "preferredClimate": [],
       "videos": []
@@ -1494,7 +1595,9 @@
       "planets": [
         "Jotaviko (WW)",
         "Akacala",
-        "Akafin"
+        "Akafin (WW)",
+        "Aulito IV (WW)",
+        "Baracatis III"
       ],
       "preferredClimate": [],
       "videos": []
