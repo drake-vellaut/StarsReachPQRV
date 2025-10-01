@@ -638,7 +638,7 @@
             {
                 "tree": "Playtest Specials",
                 "id": "playtestSpecials-playtestSpecials",
-                "name": "playtestSpecials",
+                "name": "Playtest Specials",
                 "description": "Unlock this from the Combat skill tree.",
                 "parent": "playtestSpecials-combat",
                 "active": "yes",
