@@ -179,6 +179,17 @@
             614
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "deposited",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            711,
+            308,
+            250,
+            670
+          ],
+          "Source": "Mining"
         }
       ],
       "Granite": [
@@ -609,6 +620,17 @@
             732
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            470,
+            696,
+            463,
+            776
+          ],
+          "Source": "Mining"
         }
       ],
       "Breccia": [
@@ -721,6 +743,28 @@
             512,
             510,
             353
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            732,
+            562,
+            676,
+            305
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            718,
+            589,
+            610,
+            428
           ],
           "Source": "Mining"
         }
@@ -938,6 +982,28 @@
             701
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            511,
+            302,
+            313,
+            776
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            563,
+            444,
+            400,
+            733
+          ],
+          "Source": "Mining"
         }
       ],
       "Chalk": [
@@ -1004,6 +1070,17 @@
             597,
             795,
             527
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            377,
+            480,
+            740,
+            642
           ],
           "Source": "Mining"
         }
@@ -1142,6 +1219,17 @@
             401,
             236,
             507
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "deposited",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            741,
+            329,
+            185,
+            657
           ],
           "Source": "Mining"
         }
@@ -1304,6 +1392,28 @@
             678
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "deposited",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            286,
+            371,
+            705,
+            524
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            165,
+            466,
+            742,
+            691
+          ],
+          "Source": "Mining"
         }
       ],
       "Marble": [
@@ -1416,6 +1526,30 @@
             687,
             706,
             457
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            475,
+            651,
+            738,
+            380
+          ],
+          "Source": "Mining"
+        }
+      ],
+      "Slate": [
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            483,
+            602,
+            294,
+            745
           ],
           "Source": "Mining"
         }
@@ -1567,6 +1701,17 @@
             349
           ],
           "Source": "Lunareth Tree"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            773,
+            535,
+            358,
+            394
+          ],
+          "Source": "Maker"
         }
       ],
       "Nitrogen": [
@@ -1703,6 +1848,17 @@
             451
           ],
           "Source": "Harvesting Lumineweave Plant"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            773,
+            602,
+            402,
+            388
+          ],
+          "Source": "Lumineweave Tendril"
         }
       ],
       "Helium": [
@@ -1846,6 +2002,28 @@
             323,
             726,
             156
+          ],
+          "Source": "Artyhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            506,
+            483,
+            750,
+            466
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            506,
+            483,
+            750,
+            466
           ],
           "Source": "Artyhog"
         }
@@ -2202,6 +2380,17 @@
             314,
             732
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            376,
+            790,
+            417,
+            626
+          ],
+          "Source": "Blue Veil Tree"
         }
       ]
     },
@@ -2303,6 +2492,17 @@
             561,
             359,
             791
+          ],
+          "Source": "Hexavine Spires"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            284,
+            634,
+            389,
+            750
           ],
           "Source": "Hexavine Spires"
         }
@@ -2419,6 +2619,39 @@
             199
           ],
           "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            505,
+            722,
+            462,
+            411
+          ],
+          "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            610,
+            738,
+            453,
+            504
+          ],
+          "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            610,
+            738,
+            453,
+            504
+          ],
+          "Source": "Emberbloom Torch"
         }
       ],
       "Methane": [
@@ -3256,6 +3489,17 @@
             494
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            244,
+            724,
+            625,
+            355
+          ],
+          "Source": "Mining"
         }
       ],
       "Laterite Soil": [
@@ -3677,6 +3921,17 @@
             347
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            670,
+            352,
+            746,
+            422
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -3778,6 +4033,17 @@
             656,
             432,
             708
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            125,
+            621,
+            369,
+            789
           ],
           "Source": "Mining"
         }
@@ -3894,6 +4160,28 @@
             369,
             596,
             622
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            750,
+            461,
+            454,
+            579
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            763,
+            455,
+            430,
+            659
           ],
           "Source": "Mining"
         }
@@ -4651,6 +4939,17 @@
           626
         ],
         "Source": "Campanula"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          819,
+          114,
+          140,
+          355
+        ],
+        "Source": "Campanula"
       }
     ],
     "Young Fern Seedling": [
@@ -4708,6 +5007,17 @@
           274
         ],
         "Source": "Young Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          511,
+          515,
+          109,
+          609
+        ],
+        "Source": "Young Fern"
       }
     ],
     "Sword Fern Seedling": [
@@ -4752,6 +5062,17 @@
           367,
           531,
           631
+        ],
+        "Source": "Sword Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          412,
+          595,
+          555,
+          877
         ],
         "Source": "Sword Fern"
       }
@@ -4800,6 +5121,28 @@
           583
         ],
         "Source": "Teal Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          148,
+          392,
+          327,
+          807
+        ],
+        "Source": "Teal Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          140,
+          171,
+          181,
+          535
+        ],
+        "Source": "Teal Bellflower"
       }
     ],
     "Yellow Bellflower Seedling": [
@@ -4833,6 +5176,17 @@
           361,
           306,
           289
+        ],
+        "Source": "Yellow Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          332,
+          258,
+          388,
+          765
         ],
         "Source": "Yellow Bellflower"
       }
@@ -4881,6 +5235,17 @@
           220
         ],
         "Source": "Purple Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          133,
+          707,
+          671,
+          615
+        ],
+        "Source": "Purple Bellflower"
       }
     ],
     "Pink Bellflower Seedling": [
@@ -4903,6 +5268,17 @@
           685,
           191,
           436
+        ],
+        "Source": "Pink Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          770,
+          528,
+          143,
+          277
         ],
         "Source": "Pink Bellflower"
       }
@@ -4938,6 +5314,17 @@
           239,
           883,
           285
+        ],
+        "Source": "Gold Bellflower"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          184,
+          276,
+          446,
+          108
         ],
         "Source": "Gold Bellflower"
       }
@@ -5135,6 +5522,17 @@
           228,
           828,
           652
+        ],
+        "Source": "Lumineweave Tendril"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          102,
+          302,
+          351,
+          310
         ],
         "Source": "Lumineweave Tendril"
       }
@@ -5808,6 +6206,17 @@
           191
         ],
         "Source": "Dark Wizard"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          163,
+          748,
+          401,
+          855
+        ],
+        "Source": "Dark Wizard"
       }
     ],
     "Sunset Coleus Seedling": [
@@ -5819,6 +6228,17 @@
           705,
           474,
           775
+        ],
+        "Source": "Sunset Coleus"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          542,
+          870,
+          442,
+          386
         ],
         "Source": "Sunset Coleus"
       }
@@ -5834,6 +6254,17 @@
           700
         ],
         "Source": "Red Currant"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          803,
+          254,
+          162,
+          517
+        ],
+        "Source": "Red Currant"
       }
     ],
     "Arctic Rush Seedling": [
@@ -5847,6 +6278,17 @@
           603
         ],
         "Source": "Arctic Rush"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          632,
+          280,
+          368,
+          196
+        ],
+        "Source": "Arctic Rush"
       }
     ],
     "Blushing Bonnet Seedling": [
@@ -5858,6 +6300,17 @@
           176,
           723,
           492
+        ],
+        "Source": "Blushing Bonnet"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          282,
+          824,
+          613,
+          882
         ],
         "Source": "Blushing Bonnet"
       }
@@ -6085,6 +6538,28 @@
           485
         ],
         "Source": "Lady Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          410,
+          760,
+          449,
+          634
+        ],
+        "Source": "Lady Fern"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          488,
+          287,
+          579,
+          357
+        ],
+        "Source": "Lady Fern"
       }
     ],
     "Verdark Cone Seedling": [
@@ -6240,6 +6715,106 @@
           514
         ],
         "Source": "Pitcher Plant"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          291,
+          699,
+          110,
+          110
+        ],
+        "Source": "Pitcher Plant"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          134,
+          643,
+          178,
+          897
+        ],
+        "Source": "Pitcher Plant"
+      }
+    ],
+    "Bourvardia Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          419,
+          270,
+          313,
+          681
+        ],
+        "Source": "Bourvardia"
+      }
+    ],
+    "Daisy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          550,
+          155,
+          392,
+          182
+        ],
+        "Source": "Daisy"
+      }
+    ],
+    "Glowy Rose Seedling": [
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          451,
+          743,
+          274,
+          113
+        ],
+        "Source": "Glowy Rose"
+      }
+    ],
+    "Emberbloom Torch Seedling": [
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          135,
+          286,
+          722,
+          185
+        ],
+        "Source": "Emberbloom Torch"
+      }
+    ],
+    "Gripweed": [
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          280,
+          307,
+          480,
+          329
+        ],
+        "Source": "Gripweed"
+      }
+    ],
+    "Mizudashi Seedling": [
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          646,
+          415,
+          100,
+          777
+        ],
+        "Source": "Mizudashi"
       }
     ]
   },
@@ -6514,6 +7089,17 @@
           168,
           720,
           616
+        ],
+        "Source": "Bush"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          436,
+          321,
+          773,
+          559
         ],
         "Source": "Bush"
       }
@@ -6824,6 +7410,39 @@
             724
           ],
           "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            519,
+            565,
+            480,
+            700
+          ],
+          "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            558,
+            593,
+            494,
+            798
+          ],
+          "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            558,
+            593,
+            494,
+            798
+          ],
+          "Source": "Dark Wizard"
         }
       ],
       "Quartz": [
@@ -7026,6 +7645,17 @@
             722,
             678
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            304,
+            680,
+            724,
+            127
+          ],
+          "Source": "Mining"
         }
       ],
       "Zircon": [
@@ -7815,6 +8445,17 @@
             310,
             453,
             588
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            772,
+            222,
+            432,
+            522
           ],
           "Source": "Mining"
         }
@@ -8617,6 +9258,17 @@
             348,
             723
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            127,
+            727,
+            572,
+            360
+          ],
+          "Source": "Mining"
         }
       ]
     },
@@ -8755,6 +9407,28 @@
             433
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Deep Space",
+          "pqrv": [
+            617,
+            718,
+            546,
+            323
+          ],
+          "Source": "Blastaria"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            573,
+            788,
+            224,
+            330
+          ],
+          "Source": "Mining"
         }
       ],
       "Tourmaline": [
@@ -8823,6 +9497,17 @@
             781
           ],
           "Source": "Maker"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            675,
+            116,
+            364,
+            754
+          ],
+          "Source": "Mining"
         }
       ],
       "Opal": [
@@ -8926,6 +9611,28 @@
             650
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            756,
+            437,
+            357,
+            678
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "mob is Servitor",
+          "Planet": "Herastag",
+          "pqrv": [
+            788,
+            378,
+            494,
+            671
+          ],
+          "Source": "Orbis Starburst"
         }
       ],
       "Turquoise": [
@@ -9313,6 +10020,28 @@
           200
         ],
         "Source": "Brimmed Bonnet"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          235,
+          120,
+          548,
+          137
+        ],
+        "Source": "Blushing Bonnet"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          235,
+          120,
+          548,
+          137
+        ],
+        "Source": "Dark Wizard"
       }
     ],
     "Brown Shimeji Chunk": [
@@ -9381,6 +10110,28 @@
           245
         ],
         "Source": "Brown Shimeji"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          435,
+          580,
+          733,
+          347
+        ],
+        "Source": "Brown Shimeji"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          435,
+          580,
+          733,
+          347
+        ],
+        "Source": "Brown Shimeji"
       }
     ],
     "King Stropheria Chunk": [
@@ -9425,6 +10176,17 @@
           657,
           757,
           491
+        ],
+        "Source": "King Stropheria"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          579,
+          543,
+          774,
+          380
         ],
         "Source": "King Stropheria"
       }
@@ -9484,12 +10246,45 @@
           438
         ],
         "Source": "Amanita"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          295,
+          741,
+          550,
+          462
+        ],
+        "Source": "Amanita"
       }
     ],
     "Golden Poplar Chunk": [
       {
         "notes": "",
         "Planet": "Akacala",
+        "pqrv": [
+          436,
+          790,
+          603,
+          404
+        ],
+        "Source": "Golden Poplar"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          373,
+          790,
+          691,
+          447
+        ],
+        "Source": "Golden Poplar"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
         "pqrv": [
           436,
           790,
@@ -9508,6 +10303,17 @@
           104,
           331,
           623
+        ],
+        "Source": "Fairy Morel"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          800,
+          197,
+          320,
+          572
         ],
         "Source": "Fairy Morel"
       }
@@ -9532,6 +10338,17 @@
           473,
           375,
           791
+        ],
+        "Source": "Chanterelle"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          646,
+          363,
+          302,
+          799
         ],
         "Source": "Chanterelle"
       }
@@ -10311,6 +11128,17 @@
             153,
             351
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            743,
+            170,
+            644,
+            345
+          ],
+          "Source": "Mining"
         }
       ],
       "Manganese": [
@@ -10500,6 +11328,17 @@
             798,
             309
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            171,
+            789,
+            497,
+            600
+          ],
+          "Source": "Mining"
         }
       ],
       "Nickel": [
@@ -10821,6 +11660,17 @@
             195,
             800
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            388,
+            594,
+            737,
+            165
+          ],
+          "Source": "Mining"
         }
       ],
       "Zinc": [
@@ -11841,6 +12691,17 @@
             477,
             555,
             723
+          ],
+          "Source": "Maker"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            650,
+            398,
+            574,
+            730
           ],
           "Source": "Maker"
         }
@@ -12963,6 +13824,17 @@
             551
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            476,
+            263,
+            712,
+            681
+          ],
+          "Source": "Mining"
         }
       ],
       "Cadmium": [
@@ -13594,6 +14466,28 @@
             711,
             403
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            471,
+            629,
+            766,
+            595
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Deep Space",
+          "pqrv": [
+            401,
+            657,
+            746,
+            462
+          ],
+          "Source": "Mining"
         }
       ],
       "Uranium": [
@@ -13849,6 +14743,17 @@
             314,
             732
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            558,
+            335,
+            200,
+            788
+          ],
+          "Source": "Mining"
         }
       ],
       "Lithium": [
@@ -14082,6 +14987,28 @@
             309,
             724
           ]
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            154,
+            715,
+            352,
+            659
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "mob is Servitor",
+          "Planet": "Herastag",
+          "pqrv": [
+            515,
+            743,
+            452,
+            626
+          ],
+          "Source": "Orbis Starburst"
         }
       ]
     },
@@ -14875,6 +15802,17 @@
             648
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            110,
+            780,
+            351,
+            551
+          ],
+          "Source": "Mining"
         }
       ]
     }
@@ -15046,6 +15984,17 @@
             339
           ],
           "Source": "Bush"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            700,
+            521,
+            234,
+            450
+          ],
+          "Source": "Log"
         }
       ],
       "Dark Hard Wood": [
@@ -15195,6 +16144,17 @@
             434
           ],
           "Source": "Log"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            696,
+            286,
+            709,
+            363
+          ],
+          "Source": "Bush"
         }
       ],
       "Light Hard Wood": [
@@ -15303,6 +16263,17 @@
           533
         ],
         "Source": "Blackhart"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          765,
+          517,
+          457,
+          657
+        ],
+        "Source": "Dark Wizard"
       }
     ]
   },
@@ -15351,6 +16322,17 @@
           351
         ],
         "Source": "Brown Shimeji"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          110,
+          283,
+          669,
+          227
+        ],
+        "Source": "Brown Shimeji"
       }
     ],
     "Chanterelle Stock": [
@@ -15384,6 +16366,17 @@
           570,
           871,
           122
+        ],
+        "Source": "Chanterelle"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          832,
+          483,
+          829,
+          472
         ],
         "Source": "Chanterelle"
       }
@@ -15476,6 +16469,17 @@
           147,
           210,
           726
+        ],
+        "Source": "King Stropheria"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          329,
+          106,
+          897,
+          415
         ],
         "Source": "King Stropheria"
       }
@@ -15605,6 +16609,17 @@
           429
         ],
         "Source": "Golden Poplar"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          243,
+          481,
+          565,
+          401
+        ],
+        "Source": "Golden Poplar"
       }
     ],
     "Flowering Cactus Root Stock": [
@@ -15618,6 +16633,19 @@
           503
         ],
         "Source": "Flowering Cactus"
+      }
+    ],
+    "Fairy Morel Stock": [
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          410,
+          226,
+          706,
+          844
+        ],
+        "Source": "Fairy Morel"
       }
     ]
   },
@@ -15810,6 +16838,61 @@
             469
           ],
           "Source": "Hare"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            583,
+            770,
+            259,
+            428
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            583,
+            770,
+            259,
+            428
+          ],
+          "Source": "Thunderhoof"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            583,
+            770,
+            259,
+            428
+          ],
+          "Source": "Hare"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            635,
+            781,
+            406,
+            455
+          ],
+          "Source": "Insanedeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            583,
+            770,
+            259,
+            428
+          ],
+          "Source": "Owldeer"
         }
       ],
       "Raw Insect Meat": [
@@ -15876,6 +16959,17 @@
             652,
             477,
             721
+          ],
+          "Source": "Kharvix"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            484,
+            674,
+            309,
+            787
           ],
           "Source": "Kharvix"
         }
@@ -16001,6 +17095,28 @@
             787
           ],
           "Source": "Chuckerhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            530,
+            504,
+            390,
+            755
+          ],
+          "Source": "Brutehog"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            530,
+            504,
+            390,
+            755
+          ],
+          "Source": "Ballhog"
         }
       ],
       "Raw Avian Meat": [
@@ -16864,6 +17980,61 @@
             469
           ],
           "Source": "Raindeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Haratara (WW)",
+          "pqrv": [
+            789,
+            587,
+            354,
+            155
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            790,
+            684,
+            423,
+            167
+          ],
+          "Source": "Thunderhoof"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            778,
+            688,
+            426,
+            469
+          ],
+          "Source": "Glacierhorn"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            778,
+            688,
+            426,
+            469
+          ],
+          "Source": "Insanedeer"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            790,
+            684,
+            423,
+            167
+          ],
+          "Source": "Razorbeak"
         }
       ],
       "Horn": [
@@ -17266,6 +18437,28 @@
             600
           ],
           "Source": "Thunderhoof"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            465,
+            527,
+            761,
+            606
+          ],
+          "Source": "Glacierhorn"
+        },
+        {
+          "notes": "",
+          "Planet": "Akacala",
+          "pqrv": [
+            465,
+            527,
+            761,
+            606
+          ],
+          "Source": "Insanedeer"
         }
       ]
     }
@@ -17325,6 +18518,17 @@
             288,
             571,
             747
+          ],
+          "Source": "Kharvix"
+        },
+        {
+          "notes": "",
+          "Planet": "Guladath II (WW)",
+          "pqrv": [
+            318,
+            438,
+            647,
+            708
           ],
           "Source": "Kharvix"
         }
@@ -18410,6 +19614,17 @@
           799,
           434
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          742,
+          617,
+          542,
+          500
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -62321,6 +63536,17 @@
           476
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          735,
+          645,
+          417,
+          375
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -62666,6 +63892,50 @@
           795,
           527
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          358,
+          172,
+          669,
+          718
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Haratara (WW)",
+        "pqrv": [
+          397,
+          488,
+          564,
+          761
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          431,
+          260,
+          602,
+          752
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          495,
+          148,
+          503,
+          772
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -62927,6 +64197,17 @@
           700,
           306
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          619,
+          343,
+          498,
+          741
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -64834,6 +66115,17 @@
           510,
           353
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          720,
+          625,
+          321,
+          333
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -65095,6 +66387,28 @@
           700,
           306
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          502,
+          667,
+          774,
+          762
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          533,
+          672,
+          782,
+          742
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -66845,6 +68159,17 @@
           525
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          319,
+          464,
+          762,
+          540
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -67082,6 +68407,28 @@
           437,
           553,
           794
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Haratara (WW)",
+        "pqrv": [
+          500,
+          437,
+          553,
+          794
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          675,
+          495,
+          570,
+          711
         ],
         "Source": "Mining"
       }
@@ -67646,6 +68993,17 @@
           271
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          744,
+          587,
+          387,
+          371
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -67861,6 +69219,17 @@
           305,
           451,
           773
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          549,
+          127,
+          399,
+          701
         ],
         "Source": "Mining"
       }
@@ -68219,6 +69588,28 @@
           795,
           527
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          492,
+          778,
+          464,
+          568
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Haratara (WW)",
+        "pqrv": [
+          335,
+          779,
+          472,
+          591
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -68936,6 +70327,17 @@
           795,
           527
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Haratara (WW)",
+        "pqrv": [
+          555,
+          329,
+          201,
+          787
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -69160,6 +70562,28 @@
           700,
           306
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          407,
+          555,
+          746,
+          304
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          355,
+          698,
+          775,
+          562
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -69250,6 +70674,17 @@
           334,
           770,
           421
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          588,
+          436,
+          741,
+          417
         ],
         "Source": "Mining"
       }
@@ -70819,6 +72254,17 @@
           799,
           434
         ]
+      },
+      {
+        "notes": "mob is Servitor",
+        "Planet": "Herastag",
+        "pqrv": [
+          592,
+          628,
+          763,
+          498
+        ],
+        "Source": "Orbis Starburst"
       }
     ]
   },
@@ -71096,6 +72542,28 @@
           531,
           364,
           396
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          736,
+          606,
+          272,
+          346
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          709,
+          594,
+          320,
+          492
         ],
         "Source": "Mining"
       }
@@ -71436,6 +72904,17 @@
           432,
           708
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          400,
+          704,
+          560,
+          220
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -72150,6 +73629,17 @@
           542,
           749,
           381
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Guladath II (WW)",
+        "pqrv": [
+          698,
+          112,
+          751,
+          337
         ],
         "Source": "Mining"
       }
@@ -72965,6 +74455,17 @@
           595,
           415
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          241,
+          476,
+          761,
+          555
+        ],
+        "Source": "Mining"
       }
     ]
   }
