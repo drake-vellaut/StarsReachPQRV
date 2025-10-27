@@ -431,6 +431,10 @@
       {
         "Material": "darkWoodPlanking",
         "Quantity": "15"
+      },
+      {
+        "Material": "metal",
+        "Quantity": "5"
       }
     ],
     "trowel": [
