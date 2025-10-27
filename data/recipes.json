@@ -389,6 +389,10 @@
       {
         "Material": "lightWoodPlanking",
         "Quantity": "15"
+      },
+      {
+        "Material": "metal",
+        "Quantity": "5"
       }
     ],
     "nanoCompressionMatrix": [
@@ -399,6 +403,10 @@
       {
         "Material": "inertGas",
         "Quantity": "15"
+      },
+      {
+        "Material": "gemstone",
+        "Quantity": "10"
       }
     ],
     "powerChamber": [
@@ -409,6 +417,10 @@
       {
         "Material": "plastic",
         "Quantity": "25"
+      },
+      {
+        "Material": "metal",
+        "Quantity": "10"
       }
     ],
     "stock": [
