@@ -1,0 +1,139 @@
+{
+  "toolmaker": {
+    "gravMesh":
+      {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "instaformer": 
+      {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "omniShock": {
+        "p": ["Damage"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "pathfinder": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "trailblazer": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["B-"],
+        "v": ["Battery Efficiency"]
+      },
+    "companionOrbs": {
+        "p": ["-"],
+        "q": ["Damage"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+      "corrosionDrones": {
+        "p": ["-"],
+        "q": ["Damage"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+      "freezeRay": {
+        "p": ["-"],
+        "q": ["Damage"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "fabricator": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "fortressShield": {
+        "p": ["Capacitor Size"],
+        "q": ["-"],
+        "r": ["Shield Duration"],
+        "v": ["-"]
+      },
+    "grapple": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["-"]
+      },
+    "gravityGun": {
+        "p": ["-"],
+        "q": ["Damage"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "harvester": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "healix": {
+        "p": ["Surge Radius"],
+        "q": ["Primary Beam Healing"],
+        "r": ["Mass Heal Radius"],
+        "v": ["Battery Efficiency"]
+      },
+      "omniForce": {
+        "p": ["-"],
+        "q": ["Damage"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "paver": {
+        "p": ["-"],
+        "q": ["-"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "reflectionShield": {
+        "p": ["Capacitor Size"],
+        "q": ["-"],
+        "r": ["Shield Duration"],
+        "v": ["-"]
+      },
+    "terraformer": {
+        "p": ["Hopper Capacity"],
+        "q": ["Excation Magnitude"],
+        "r": ["Scan Results"],
+        "v": ["Battery Efficiency"]
+      },
+    "xyloslicer": {
+        "p": ["-"],
+        "q": ["Chopping Battery Drain"],
+        "r": ["Planting Battery Drain"],
+        "v": ["-"]
+      },
+    "chronophaser": {
+        "p": ["-"],
+        "q": ["Heat Maximum"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "depositor": {
+        "p": ["-"],
+        "q": ["Deposit Efficiency"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      },
+    "pruningShear": {
+        "p": ["Pruning Speed"],
+        "q": ["Growth Speed"],
+        "r": ["-"],
+        "v": ["Battery Efficiency"]
+      }
+
+  }
+}
