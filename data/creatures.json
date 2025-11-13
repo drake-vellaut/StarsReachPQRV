@@ -56,8 +56,13 @@
       "image": [
         "assets/creatures/ballhog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Deep Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -96,8 +101,12 @@
       "image": [
         "assets/creatures/brutehog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -106,8 +115,15 @@
       "image": [
         "assets/creatures/chuckerhog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "zircon",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Deep Space",
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -208,8 +224,13 @@
       "image": [
         "assets/creatures/deer.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw herbivore meat",
+        "bone"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -360,8 +381,12 @@
       "image": [
         "assets/creatures/prowler.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw carnivore meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Raw Herbivore Meat"
       ],
@@ -372,8 +397,13 @@
       "image": [
         "assets/creatures/kharvix.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw insect meat",
+        "acid"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Raw Carnivore Meat"
       ],
@@ -394,8 +424,13 @@
       "image": [
         "assets/creatures/heetah.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone",
+        "hide"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Raw Herbivore Meat"
       ],
@@ -416,8 +451,13 @@
       "image": [
         "assets/creatures/wildcat.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw carnivore meat",
+        "hide"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Raw Herbivore Meat"
       ],
@@ -470,8 +510,12 @@
       "image": [
         "assets/creatures/caustisect.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "oil"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""

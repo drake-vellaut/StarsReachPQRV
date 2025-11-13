@@ -37,8 +37,12 @@
       "image": [
         "assets/flora/berryBush.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "stim-berry"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -580,7 +584,9 @@
         "skunk cabbage seedling",
         "methane"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
