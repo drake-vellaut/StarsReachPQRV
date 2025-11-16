@@ -4,7 +4,7 @@
             "Basalt": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         483,
                         683,
@@ -28,7 +28,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         738,
                         475,
@@ -244,7 +244,7 @@
             "Xenon": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         736,
                         584,
@@ -472,7 +472,7 @@
             "Radon": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         137,
                         732,
@@ -553,7 +553,7 @@
             "Chlorine": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         132,
                         564,
@@ -657,7 +657,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         766,
                         487,
@@ -827,7 +827,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         235,
                         363,
@@ -888,7 +888,7 @@
             "Red Soil": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         736,
                         465,
@@ -938,7 +938,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         109,
                         697,
@@ -973,7 +973,7 @@
             "Sandy Dirt": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         445,
                         337,
@@ -1026,7 +1026,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         590,
                         649,
@@ -1440,7 +1440,7 @@
         "Cactus Fruit": [
             {
                 "notes": "",
-                "Planet": "Audath V (WW)",
+                "Planet": "Audath V",
                 "pqrv": [
                     777,
                     581,
@@ -1453,7 +1453,7 @@
         "Goji Berry": [
             {
                 "notes": "",
-                "Planet": "Audath V (WW)",
+                "Planet": "Audath V",
                 "pqrv": [
                     765,
                     515,
@@ -1491,7 +1491,7 @@
             "Salt": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         618,
                         452,
@@ -1662,7 +1662,7 @@
                     ]
                 },
                 {
-                    "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                    "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -1736,7 +1736,7 @@
                     "Source": "Mining"
                 },
                 {
-                    "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                    "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -1879,7 +1879,7 @@
             "Jade": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         359,
                         476,
@@ -1974,7 +1974,7 @@
         "Alien Mushroom Chunk": [
             {
                 "notes": "",
-                "Planet": "Audath V (WW)",
+                "Planet": "Audath V",
                 "pqrv": [
                     122,
                     173,
@@ -2198,7 +2198,7 @@
                     ]
                 },
                 {
-                    "notes": "refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                    "notes": "refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -2818,7 +2818,7 @@
                     ]
                 },
                 {
-                    "notes": "refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                    "notes": "refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -2899,7 +2899,7 @@
             ],
             "Lithium": [
                 {
-                    "notes": "refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V (WW) from Harvesting",
+                    "notes": "refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V from Harvesting",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -3098,7 +3098,7 @@
             "Cobalt": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         150,
                         764,
@@ -3108,7 +3108,7 @@
                     "Source": "Mining"
                 },
                 {
-                    "notes": "refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                    "notes": "refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                     "Planet": "",
                     "Source": "Refined",
                     "pqrv": [
@@ -3137,7 +3137,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         725,
                         657,
@@ -3208,7 +3208,7 @@
                 },
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         525,
                         103,
@@ -3771,7 +3771,7 @@
                 ]
             },
             {
-                "notes": "refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -3826,7 +3826,7 @@
                 ]
             },
             {
-                "notes": "refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -3918,7 +3918,7 @@
                 ]
             },
             {
-                "notes": "refined from Silica Ore with pqrv [109, 697, 394, 704] not found on planet Refined but refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V (WW) from Mining",
+                "notes": "refined from Silica Ore with pqrv [109, 697, 394, 704] not found on planet Refined but refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -3995,7 +3995,7 @@
                 ]
             },
             {
-                "notes": "refined from Feldspar with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Feldspar with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4287,7 +4287,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4298,7 +4298,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4309,7 +4309,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4320,7 +4320,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4331,7 +4331,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4540,7 +4540,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4784,7 +4784,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tin with pqrv [384, 671, 769, 545] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tin with pqrv [384, 671, 769, 545] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4795,7 +4795,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tin with pqrv [437, 507, 372, 764] not found on planet from Refined but refined from Alluvial Soil with pqrv [437, 507, 372, 764] on planet Baracatis III from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tin with pqrv [437, 507, 372, 764] not found on planet from Refined but refined from Alluvial Soil with pqrv [437, 507, 372, 764] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4806,7 +4806,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tin with pqrv [166, 686, 340, 702] not found on planet from Refined but refined from Alluvial Soil with pqrv [166, 686, 340, 702] on planet Akacala from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tin with pqrv [166, 686, 340, 702] not found on planet from Refined but refined from Alluvial Soil with pqrv [166, 686, 340, 702] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4817,7 +4817,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tin with pqrv [458, 714, 698, 259] not found on planet from Refined but refined from Cassiterite with pqrv [458, 714, 698, 259] not found on planet from Refined but refined from Granite with pqrv [458, 714, 698, 259] on planet Herastag from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tin with pqrv [458, 714, 698, 259] not found on planet from Refined but refined from Cassiterite with pqrv [458, 714, 698, 259] not found on planet from Refined but refined from Granite with pqrv [458, 714, 698, 259] on planet Herastag from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -4905,7 +4905,7 @@
                 ]
             },
             {
-                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tin with pqrv [502, 667, 774, 762] not found on planet from Refined but refined from Cassiterite with pqrv [502, 667, 774, 762] on planet Herastag from Mining",
+                "notes": "Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tin with pqrv [502, 667, 774, 762] not found on planet from Refined but refined from Cassiterite with pqrv [502, 667, 774, 762] on planet Herastag from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5426,7 +5426,7 @@
         ],
         "Cobalt Steel": [
             {
-                "notes": "Refined from iron with pqrv [596, 467, 791, 513] not found on planet from Refined but refined from Hematite with pqrv [596, 467, 791, 513] on planet Baracatis III from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [596, 467, 791, 513] not found on planet from Refined but refined from Hematite with pqrv [596, 467, 791, 513] on planet Baracatis III from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5437,7 +5437,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [596, 467, 791, 513] not found on planet from Refined but refined from Hematite with pqrv [596, 467, 791, 513] on planet Baracatis III from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [596, 467, 791, 513] not found on planet from Refined but refined from Hematite with pqrv [596, 467, 791, 513] on planet Baracatis III from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5448,7 +5448,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [720, 436, 512, 349] not found on planet from Refined but refined from Hematite with pqrv [720, 436, 512, 349] not found on planet Refined but refined from Chert with pqrv [720, 436, 512, 349] on planet Baracatis III from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [720, 436, 512, 349] not found on planet from Refined but refined from Hematite with pqrv [720, 436, 512, 349] not found on planet Refined but refined from Chert with pqrv [720, 436, 512, 349] on planet Baracatis III from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5459,7 +5459,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [720, 436, 512, 349] not found on planet from Refined but refined from Hematite with pqrv [720, 436, 512, 349] not found on planet Refined but refined from Chert with pqrv [720, 436, 512, 349] on planet Baracatis III from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [720, 436, 512, 349] not found on planet from Refined but refined from Hematite with pqrv [720, 436, 512, 349] not found on planet Refined but refined from Chert with pqrv [720, 436, 512, 349] on planet Baracatis III from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5470,7 +5470,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [770, 488, 592, 570] not found on planet from Refined but refined from Hematite with pqrv [770, 488, 592, 570] not found on planet Refined but refined from Chert with pqrv [770, 488, 592, 570] on planet Akacala from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [770, 488, 592, 570] not found on planet from Refined but refined from Hematite with pqrv [770, 488, 592, 570] not found on planet Refined but refined from Chert with pqrv [770, 488, 592, 570] on planet Akacala from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5481,7 +5481,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [770, 488, 592, 570] not found on planet from Refined but refined from Hematite with pqrv [770, 488, 592, 570] not found on planet Refined but refined from Chert with pqrv [770, 488, 592, 570] on planet Akacala from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [770, 488, 592, 570] not found on planet from Refined but refined from Hematite with pqrv [770, 488, 592, 570] not found on planet Refined but refined from Chert with pqrv [770, 488, 592, 570] on planet Akacala from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5492,7 +5492,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [131, 745, 507, 386] on planet Deep Space from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [131, 745, 507, 386] on planet Deep Space from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5503,7 +5503,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [131, 745, 507, 386] on planet Deep Space from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [131, 745, 507, 386] on planet Deep Space from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5514,7 +5514,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [667, 394, 741, 486] not found on planet from Refined but refined from Hematite with pqrv [667, 394, 741, 486] on planet Akacala from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [667, 394, 741, 486] not found on planet from Refined but refined from Hematite with pqrv [667, 394, 741, 486] on planet Akacala from Mining and Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5525,7 +5525,7 @@
                 ]
             },
             {
-                "notes": "Refined from iron with pqrv [667, 394, 741, 486] not found on planet from Refined but refined from Hematite with pqrv [667, 394, 741, 486] on planet Akacala from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from iron with pqrv [667, 394, 741, 486] not found on planet from Refined but refined from Hematite with pqrv [667, 394, 741, 486] on planet Akacala from Mining and Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5560,7 +5560,7 @@
                 ]
             },
             {
-                "notes": "Refined from gold with pqrv [320, 713, 677, 532] on planet Baracatis III from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from gold with pqrv [320, 713, 677, 532] on planet Baracatis III from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5593,7 +5593,7 @@
                 ]
             },
             {
-                "notes": "Refined from gold with pqrv [393, 779, 608, 104] on planet Akacala from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from gold with pqrv [393, 779, 608, 104] on planet Akacala from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5626,7 +5626,7 @@
                 ]
             },
             {
-                "notes": "Refined from gold with pqrv [437, 507, 372, 764] not found on planet from Refined but refined from Alluvial Soil with pqrv [437, 507, 372, 764] on planet Baracatis III from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from gold with pqrv [437, 507, 372, 764] not found on planet from Refined but refined from Alluvial Soil with pqrv [437, 507, 372, 764] on planet Baracatis III from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5659,7 +5659,7 @@
                 ]
             },
             {
-                "notes": "Refined from gold with pqrv [166, 686, 340, 702] not found on planet from Refined but refined from Alluvial Soil with pqrv [166, 686, 340, 702] on planet Akacala from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "Refined from gold with pqrv [166, 686, 340, 702] not found on planet from Refined but refined from Alluvial Soil with pqrv [166, 686, 340, 702] on planet Akacala from Mining and Refined from silver with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Argentite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5925,7 +5925,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5936,7 +5936,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5947,7 +5947,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5958,7 +5958,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -5969,7 +5969,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6145,7 +6145,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6156,7 +6156,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6167,7 +6167,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6178,7 +6178,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6189,7 +6189,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6475,7 +6475,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6486,7 +6486,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6497,7 +6497,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6508,7 +6508,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6519,7 +6519,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -6948,7 +6948,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
+                "notes": "Refined from nickel with pqrv [764, 529, 483, 260] not found on planet from Refined but refined from Pentlandite with pqrv [764, 529, 483, 260] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7091,7 +7091,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
+                "notes": "Refined from nickel with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Pentlandite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7234,7 +7234,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
+                "notes": "Refined from nickel with pqrv [424, 532, 718, 527] on planet Deep Space from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7542,7 +7542,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [669, 346, 422, 771] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7553,7 +7553,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [542, 759, 115, 400] not found on planet from Refined but refined from Sphalerite with pqrv [542, 759, 115, 400] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7564,7 +7564,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [677, 383, 334, 749] not found on planet from Refined but refined from Sphalerite with pqrv [677, 383, 334, 749] not found on planet Refined but refined from Shale with pqrv [677, 383, 334, 749] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7575,7 +7575,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [446, 667, 318, 748] not found on planet from Refined but refined from Sphalerite with pqrv [446, 667, 318, 748] not found on planet Refined but refined from Sandstone with pqrv [446, 667, 318, 748] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7586,7 +7586,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [461, 177, 715, 573] not found on planet from Refined but refined from Sphalerite with pqrv [461, 177, 715, 573] not found on planet Refined but refined from Limestone with pqrv [461, 177, 715, 573] on planet Baracatis III from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -7597,7 +7597,7 @@
                 ]
             },
             {
-                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
+                "notes": "Refined from nickel with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Pentlandite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from copper with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Chalcopyrite with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from zinc with pqrv [300, 683, 311, 730] not found on planet from Refined but refined from Sphalerite with pqrv [300, 683, 311, 730] not found on planet Refined but refined from Sandstone with pqrv [300, 683, 311, 730] on planet Akacala from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -8097,7 +8097,7 @@
         ],
         "Stellite": [
             {
-                "notes": "Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V (WW) from Mining and Refined from tungsten with pqrv [504, 362, 478, 716] on planet Deep Space from Mining and Refined from chromium with pqrv [768, 194, 599, 320] on planet Deep Space from Mining",
+                "notes": "Refined from cobalt with pqrv [150, 764, 467, 616] on planet Audath V from Mining and Refined from tungsten with pqrv [504, 362, 478, 716] on planet Deep Space from Mining and Refined from chromium with pqrv [768, 194, 599, 320] on planet Deep Space from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -8108,7 +8108,7 @@
                 ]
             },
             {
-                "notes": "Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining and Refined from tungsten with pqrv [504, 362, 478, 716] on planet Deep Space from Mining and Refined from chromium with pqrv [768, 194, 599, 320] on planet Deep Space from Mining",
+                "notes": "Refined from cobalt with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Cobaltite with pqrv [483, 683, 706, 413] not found on planet from Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining and Refined from tungsten with pqrv [504, 362, 478, 716] on planet Deep Space from Mining and Refined from chromium with pqrv [768, 194, 599, 320] on planet Deep Space from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -8389,7 +8389,7 @@
         ],
         "Lithalum": [
             {
-                "notes": "Refined from aluminum with pqrv [724, 435, 565, 411] not found on planet from Refined but refined from Bauxite with pqrv [724, 435, 565, 411] on planet Baracatis III from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V (WW) from Harvesting",
+                "notes": "Refined from aluminum with pqrv [724, 435, 565, 411] not found on planet from Refined but refined from Bauxite with pqrv [724, 435, 565, 411] on planet Baracatis III from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V from Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -8422,7 +8422,7 @@
                 ]
             },
             {
-                "notes": "Refined from aluminum with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Bauxite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V (WW) from Harvesting",
+                "notes": "Refined from aluminum with pqrv [597, 327, 188, 703] not found on planet from Refined but refined from Bauxite with pqrv [597, 327, 188, 703] not found on planet Refined but refined from Laterite Soil with pqrv [597, 327, 188, 703] on planet Baracatis III from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V from Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -8587,7 +8587,7 @@
                 ]
             },
             {
-                "notes": "Refined from aluminum with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Bauxite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V (WW) from Harvesting",
+                "notes": "Refined from aluminum with pqrv [552, 463, 545, 726] not found on planet from Refined but refined from Bauxite with pqrv [552, 463, 545, 726] not found on planet Refined but refined from Laterite Soil with pqrv [552, 463, 545, 726] on planet Herastag from Mining and Refined from lithium with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Spodumene with pqrv [618, 452, 414, 783] not found on planet from Refined but refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V from Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9227,7 +9227,7 @@
             "Cactus Fiber": [
                 {
                     "notes": "",
-                    "Planet": "Audath V (WW)",
+                    "Planet": "Audath V",
                     "pqrv": [
                         622,
                         777,
@@ -9312,7 +9312,7 @@
                 ]
             },
             {
-                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9408,7 +9408,7 @@
     "Basalt Powder": {
         "Basalt Powder": [
             {
-                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9471,7 +9471,7 @@
                 ]
             },
             {
-                "notes": "refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9526,7 +9526,7 @@
                 ]
             },
             {
-                "notes": "refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9581,7 +9581,7 @@
                 ]
             },
             {
-                "notes": "refined from Methane with pqrv [766, 487, 587, 394] on planet Audath V (WW) from Harvesting",
+                "notes": "refined from Methane with pqrv [766, 487, 587, 394] on planet Audath V from Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9691,7 +9691,7 @@
                 ]
             },
             {
-                "notes": "refined from Oil with pqrv [725, 657, 182, 379] not found on planet Refined but refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Oil with pqrv [725, 657, 182, 379] not found on planet Refined but refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9746,7 +9746,7 @@
                 ]
             },
             {
-                "notes": "refined from Oil with pqrv [525, 103, 724, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Oil with pqrv [525, 103, 724, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -9956,7 +9956,7 @@
     "Ceramic": {
         "Ceramic": [
             {
-                "notes": "refined from Red Soil with pqrv [736, 465, 161, 631] on planet Audath V (WW) from Mining",
+                "notes": "refined from Red Soil with pqrv [736, 465, 161, 631] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10033,7 +10033,7 @@
                 ]
             },
             {
-                "notes": "refined from Silica Ore with pqrv [109, 697, 394, 704] not found on planet Refined but refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V (WW) from Mining",
+                "notes": "refined from Silica Ore with pqrv [109, 697, 394, 704] not found on planet Refined but refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10110,7 +10110,7 @@
                 ]
             },
             {
-                "notes": "refined from Feldspar with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Feldspar with pqrv [483, 683, 706, 413] not found on planet Refined but refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10257,7 +10257,7 @@
                 ]
             },
             {
-                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10372,7 +10372,7 @@
     "Cobaltite": {
         "Cobaltite": [
             {
-                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10423,7 +10423,7 @@
                 ]
             },
             {
-                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V (WW) from Mining",
+                "notes": "refined from Basalt with pqrv [483, 683, 706, 413] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -10711,7 +10711,7 @@
             },
             {
                 "notes": "",
-                "Planet": "Audath V (WW)",
+                "Planet": "Audath V",
                 "pqrv": [
                     673,
                     350,
@@ -11018,7 +11018,7 @@
                 ]
             },
             {
-                "notes": "refined from Oil with pqrv [725, 657, 182, 379] not found on planet Refined but refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Oil with pqrv [725, 657, 182, 379] not found on planet Refined but refined from Dark Soft Wood with pqrv [725, 657, 182, 379] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -11073,7 +11073,7 @@
                 ]
             },
             {
-                "notes": "refined from Oil with pqrv [525, 103, 724, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V (WW) from Logging or Harvesting",
+                "notes": "refined from Oil with pqrv [525, 103, 724, 348] not found on planet Refined but refined from Light Soft Wood with pqrv [525, 103, 724, 348] on planet Audath V from Logging or Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -11250,7 +11250,7 @@
                 ]
             },
             {
-                "notes": "refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V (WW) from Mining",
+                "notes": "refined from Sand with pqrv [109, 697, 394, 704] on planet Audath V from Mining",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
@@ -11390,7 +11390,7 @@
     "Spodumene": {
         "Spodumene": [
             {
-                "notes": "refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V (WW) from Harvesting",
+                "notes": "refined from Salt with pqrv [618, 452, 414, 783] on planet Audath V from Harvesting",
                 "Planet": "",
                 "Source": "Refined",
                 "pqrv": [
