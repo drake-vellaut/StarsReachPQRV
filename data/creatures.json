@@ -4,8 +4,15 @@
       "image": [
         "assets/creatures/ballhive.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "armorcryst",
+        "raw reptile meat",
+        "horn"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Deep Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -14,8 +21,14 @@
       "image": [
         "assets/creatures/homingHive.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "raw reptile meat",
+        "horn"
+      ],
+      "planets": [
+        "Baracatis III",
+        "Deep Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -46,8 +59,14 @@
       "image": [
         "assets/creatures/artyhog.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Akacala",
+        "Deep Space"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -61,7 +80,8 @@
         "raw alien meat"
       ],
       "planets": [
-        "Deep Space"
+        "Deep Space",
+        "Akacala"
       ],
       "preferredFood": [],
       "videos": [],
@@ -182,8 +202,13 @@
       "image": [
         "assets/creatures/invader.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "helium",
+        "raw alien meat"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -249,8 +274,13 @@
       "image": [
         "assets/creatures/raindeer.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone",
+        "hide"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Salt"
       ],
@@ -305,8 +335,13 @@
       "image": [
         "assets/creatures/jackalope.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone",
+        "hide"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""
@@ -315,8 +350,12 @@
       "image": [
         "assets/creatures/hare.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "bone"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [
         "Chanterelle Stock"
       ],
@@ -382,7 +421,8 @@
         "assets/creatures/prowler.webp"
       ],
       "byproducts": [
-        "raw carnivore meat"
+        "raw carnivore meat",
+        "hide"
       ],
       "planets": [
         "Baracatis III"
@@ -524,8 +564,12 @@
       "image": [
         "assets/creatures/flyingFish.webp"
       ],
-      "byproducts": [],
-      "planets": [],
+      "byproducts": [
+        "radon"
+      ],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredFood": [],
       "videos": [],
       "type": ""

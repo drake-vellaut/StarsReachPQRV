@@ -122,9 +122,12 @@
         "assets/flora/glowyDandelion.webp"
       ],
       "byproducts": [
-        "glowy dandelion seedling"
+        "glowy dandelion seedling",
+        "glowy dandelion"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -234,9 +237,12 @@
         "assets/flora/queenAnnesLace.webp"
       ],
       "byproducts": [
-        "queen annes lace seedling"
+        "queen annes lace seedling",
+        "queen annes lace"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -312,7 +318,9 @@
         "goji berry",
         "goji berry seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -335,7 +343,9 @@
         "strawberry",
         "strawberry seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -457,9 +467,12 @@
         "assets/flora/pitcherPlant.webp"
       ],
       "byproducts": [
-        "pitcher plant seedling"
+        "pitcher plant seedling",
+        "pitcher plant"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -826,9 +839,12 @@
         "alien mushroom chunk",
         "dark wizard seedling",
         "antimatter gas",
-        "salt"
+        "salt",
+        "dark wizard"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -842,7 +858,10 @@
         "witchs ringlet seedling",
         "salt"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III",
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -854,9 +873,12 @@
         "xenon",
         "alien mushroom chunk",
         "brimmed bonnet seedling",
-        "salt"
+        "salt",
+        "brimmed bonnet"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -882,9 +904,13 @@
         "ammonia",
         "alien mushroom chunk",
         "salt",
-        "blushing bonnet seedling"
+        "blushing bonnet seedling",
+        "blushing bonnet"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III",
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -896,7 +922,9 @@
         "golden poplar chunk",
         "golden poplar stock"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -908,7 +936,9 @@
         "king stropheria chunk",
         "king stropheria stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -920,7 +950,9 @@
         "brown shimeji chunk",
         "brown shimeji stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -932,7 +964,9 @@
         "amanita chunk",
         "amanita stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -944,7 +978,9 @@
         "chanterelle chunk",
         "chanterelle stock"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1066,7 +1102,9 @@
         "dark soft wood",
         "coconut"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1152,7 +1190,9 @@
         "light hard wood",
         "lunareth tree stock"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1228,7 +1268,9 @@
         "light hard wood",
         "lemon"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1239,7 +1281,9 @@
       "byproducts": [
         "lime"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -1307,7 +1351,9 @@
         "banana",
         "banana tree root stock"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     }
