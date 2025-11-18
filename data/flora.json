@@ -7,7 +7,9 @@
       "byproducts": [
         "lily seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -18,7 +20,9 @@
       "byproducts": [
         "yellow bellflower seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -91,7 +95,9 @@
       "byproducts": [
         "pink bellflower seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -206,7 +212,9 @@
       "byproducts": [
         "teal bellflower seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -275,7 +283,9 @@
       "byproducts": [
         "gold bellflower seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -366,9 +376,12 @@
         "assets/flora/pumpkin.webp"
       ],
       "byproducts": [
-        "pumpkin"
+        "pumpkin",
+        "pumpkin seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -446,7 +459,9 @@
       "byproducts": [
         "young fern seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -519,7 +534,9 @@
       "byproducts": [
         "bromeliad seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Akacala"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -530,7 +547,9 @@
       "byproducts": [
         "hosta seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -552,7 +571,9 @@
       "byproducts": [
         "fan palm seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Audath V"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -563,7 +584,9 @@
       "byproducts": [
         "giant land lily seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -574,7 +597,9 @@
       "byproducts": [
         "dracaena fragrans seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -598,7 +623,8 @@
         "methane"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Akacala"
       ],
       "preferredClimate": [],
       "videos": []
@@ -610,7 +636,9 @@
       "byproducts": [
         "agave seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Audath V"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -674,7 +702,9 @@
       "byproducts": [
         "boston fern seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -685,7 +715,9 @@
       "byproducts": [
         "sword fern seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -705,7 +737,9 @@
       "byproducts": [
         "campanula seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Baracatis III"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -727,7 +761,9 @@
       "byproducts": [
         "creosote bush seedling"
       ],
-      "planets": [],
+      "planets": [
+        "Audath V"
+      ],
       "preferredClimate": [],
       "videos": []
     },
@@ -843,7 +879,8 @@
         "dark wizard"
       ],
       "planets": [
-        "Baracatis III"
+        "Baracatis III",
+        "Audath V"
       ],
       "preferredClimate": [],
       "videos": []
@@ -860,7 +897,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Audath V"
       ],
       "preferredClimate": [],
       "videos": []
@@ -877,7 +915,8 @@
         "brimmed bonnet"
       ],
       "planets": [
-        "Akacala"
+        "Akacala",
+        "Audath V"
       ],
       "preferredClimate": [],
       "videos": []
@@ -909,7 +948,8 @@
       ],
       "planets": [
         "Baracatis III",
-        "Akacala"
+        "Akacala",
+        "Audath V"
       ],
       "preferredClimate": [],
       "videos": []
