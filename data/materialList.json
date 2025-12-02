@@ -60,6 +60,17 @@
             259
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "maybe deposited",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            345,
+            787,
+            692,
+            566
+          ],
+          "Source": "mining"
         }
       ],
       "Gabbro": [],
@@ -168,7 +179,19 @@
         }
       ],
       "Chalk": [],
-      "Conglomerate": []
+      "Conglomerate": [
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            568,
+            716,
+            281,
+            473
+          ],
+          "Source": "mining"
+        }
+      ]
     },
     "exoticRock": {
       "Pyroxene": [
@@ -329,6 +352,28 @@
             568
           ],
           "Source": "Brimmed Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            763,
+            654,
+            456,
+            137
+          ],
+          "Source": "Lunareth Tree"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            719,
+            670,
+            495,
+            410
+          ],
+          "Source": "Spattershark"
         }
       ],
       "Nitrogen": [
@@ -500,6 +545,61 @@
             365
           ],
           "Source": "Brutehog"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            669,
+            442,
+            718,
+            340
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            624,
+            414,
+            767,
+            132
+          ],
+          "Source": "Chuckerhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            624,
+            414,
+            767,
+            132
+          ],
+          "Source": "Artyhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            624,
+            414,
+            767,
+            132
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            624,
+            414,
+            767,
+            132
+          ],
+          "Source": "Brutehog"
         }
       ],
       "Radon": [
@@ -590,6 +690,28 @@
             574
           ],
           "Source": "Skyshark"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            537,
+            768,
+            397,
+            566
+          ],
+          "Source": "Lilac Dandy"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            561,
+            708,
+            430,
+            574
+          ],
+          "Source": "Acidfish"
         }
       ]
     },
@@ -662,6 +784,17 @@
             420
           ],
           "Source": "Hare Razor"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            716,
+            536,
+            403,
+            420
+          ],
+          "Source": "Bouncing Bunny"
         }
       ],
       "Ammonia": [
@@ -776,6 +909,17 @@
             235
           ],
           "Source": "Skunk Cabbage"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            726,
+            350,
+            624,
+            563
+          ],
+          "Source": "Spore Pod Tree"
         }
       ],
       "Fluorine": [
@@ -922,6 +1066,17 @@
             363,
             729,
             588
+          ],
+          "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            500,
+            478,
+            712,
+            671
           ],
           "Source": "Mining"
         }
@@ -1134,18 +1289,53 @@
             643
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            562,
+            584,
+            505,
+            514
+          ],
+          "Source": "Mining"
         }
       ]
     }
   },
   "seedling": {
-    "Dragon Leaf Seedling": [],
+    "Dragon Leaf Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          808,
+          571,
+          774,
+          504
+        ],
+        "Source": "Dragon Leaf"
+      }
+    ],
     "Bush Palm": [],
     "Paradise Plant Seedling": [],
     "Witchs Ringlet Seedling": [],
     "Spirae": [],
     "Monstera Seedling": [],
-    "Mangrove Palm Seedling": [],
+    "Mangrove Palm Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          789,
+          110,
+          435,
+          600
+        ],
+        "Source": "Mangrove Palm"
+      }
+    ],
     "Cattail Seedling": [
       {
         "notes": "",
@@ -1307,12 +1497,83 @@
     ],
     "Pineapple": [],
     "Lumineweave Tendril Seedling": [],
-    "Brimmed Bonnet Seedling": [],
-    "Hexavine Spires Seedling": [],
+    "Brimmed Bonnet Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          203,
+          553,
+          570,
+          892
+        ],
+        "Source": "Brimmed Bonnet"
+      }
+    ],
+    "Hexavine Spires Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          685,
+          460,
+          138,
+          414
+        ],
+        "Source": "Hexavine Spires"
+      },
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          331,
+          855,
+          632,
+          506
+        ],
+        "Source": "Hexavine Spires"
+      }
+    ],
     "Pumpkin": [],
-    "Barrel Cactus Seedling": [],
-    "Sagebrush Seedling": [],
-    "Aloe Seedling": [],
+    "Barrel Cactus Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          288,
+          272,
+          254,
+          547
+        ],
+        "Source": "Barrel Cactus"
+      }
+    ],
+    "Sagebrush Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          700,
+          582,
+          475,
+          323
+        ],
+        "Source": "Sagebrush"
+      }
+    ],
+    "Aloe Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          109,
+          758,
+          896,
+          633
+        ],
+        "Source": "Aloe"
+      }
+    ],
     "Prickly Pear Seedling": [],
     "Creosote Bush Seedling": [
       {
@@ -1344,12 +1605,59 @@
     "Arctic Lupine Seedling": [],
     "Pink Daisy Seedling": [],
     "Yellow Daisy Seedling": [],
-    "Paintbrush Seedling": [],
+    "Paintbrush Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          786,
+          610,
+          349,
+          892
+        ],
+        "Source": "Paintbrush"
+      }
+    ],
     "Ilima Seedling": [],
     "Red Daisy Seedling": [],
     "White Daisy Seedling": [],
-    "Glowy Dandelion Seedling": [],
-    "Purple Snapdragon Seedling": [],
+    "Glowy Dandelion Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          739,
+          337,
+          404,
+          744
+        ],
+        "Source": "Glowy Dandelion"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          739,
+          337,
+          404,
+          744
+        ],
+        "Source": "Glowy Dandelion"
+      }
+    ],
+    "Purple Snapdragon Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          333,
+          737,
+          105,
+          866
+        ],
+        "Source": "Purple Snapdragon"
+      }
+    ],
     "Fan Palm Seedling": [
       {
         "notes": "",
@@ -1364,11 +1672,47 @@
       }
     ],
     "White Snapdragon Seedling": [],
-    "Dark Wizard Seedling": [],
-    "Sunset Coleus Seedling": [],
+    "Dark Wizard Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          762,
+          496,
+          396,
+          191
+        ],
+        "Source": "Dark Wizard"
+      }
+    ],
+    "Sunset Coleus Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          155,
+          705,
+          474,
+          775
+        ],
+        "Source": "Sunset Coleus"
+      }
+    ],
     "Red Currant Seedling": [],
     "Arctic Rush Seedling": [],
-    "Blushing Bonnet Seedling": [],
+    "Blushing Bonnet Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          269,
+          176,
+          723,
+          492
+        ],
+        "Source": "Blushing Bonnet"
+      }
+    ],
     "Ornamental Palm Seedling": [],
     "Lily Seedling": [
       {
@@ -1383,10 +1727,45 @@
         "Source": "Lily"
       }
     ],
-    "Besom Scrub Seedling": [],
+    "Besom Scrub Seedling": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          113,
+          641,
+          870,
+          772
+        ],
+        "Source": "Besom Scrub"
+      }
+    ],
     "Funnel Plant Seedling": [],
     "Purple Daisy Seedling": [],
-    "Lilac Dandy Seedling": [],
+    "Lilac Dandy Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          368,
+          202,
+          320,
+          615
+        ],
+        "Source": "Lilac Dandy"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          153,
+          280,
+          380,
+          422
+        ],
+        "Source": "Lilac Dandy"
+      }
+    ],
     "Strawberry Seedling": [
       {
         "notes": "",
@@ -1427,7 +1806,19 @@
         "Source": "Goji Berry"
       }
     ],
-    "Bromeliad Seedling": [],
+    "Bromeliad Seedling": [
+      {
+        "notes": "",
+        "Planet": "Akacala",
+        "pqrv": [
+          572,
+          362,
+          748,
+          736
+        ],
+        "Source": "Bromeliad"
+      }
+    ],
     "Skunk Cabbage Seedling": [
       {
         "notes": "",
@@ -1444,12 +1835,12 @@
     "Queen Annes Lace Seedling": [
       {
         "notes": "",
-        "Planet": "Baracatis III",
+        "Planet": "Akacala",
         "pqrv": [
-          797,
-          785,
-          606,
-          457
+          808,
+          300,
+          757,
+          275
         ],
         "Source": "Queen Annes Lace"
       }
@@ -1473,71 +1864,6 @@
     "Emberbloom Torch Seedling": [],
     "Gripweed": [],
     "Mizudashi Seedling": [],
-    "Glowy Dandelion Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          739,
-          337,
-          404,
-          744
-        ],
-        "Source": "Glowy Dandelion"
-      }
-    ],
-    "Pitcher Plant Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          291,
-          699,
-          110,
-          110
-        ],
-        "Source": "Pitcher Plant"
-      }
-    ],
-    "Dark Wizard Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          762,
-          496,
-          396,
-          191
-        ],
-        "Source": "Dark Wizard"
-      }
-    ],
-    "Besom Scrub Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          113,
-          641,
-          870,
-          772
-        ],
-        "Source": "Besom Scrub"
-      }
-    ],
-    "Blushing Bonnet Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          269,
-          176,
-          723,
-          492
-        ],
-        "Source": "Blushing Bonnet"
-      }
-    ],
     "Luminweave Tendril Seedling": [
       {
         "notes": "",
@@ -1551,36 +1877,10 @@
         "Source": "Luminweave Tendril"
       }
     ],
-    "Sunset Coleus Seedling": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          155,
-          705,
-          474,
-          775
-        ],
-        "Source": "Sunset Coleus"
-      }
-    ],
-    "Queen Annes Lace Seedling": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          808,
-          300,
-          757,
-          275
-        ],
-        "Source": "Queen Annes Lace"
-      }
-    ],
     "Phoenix Bush Seedling": [
       {
         "notes": "",
-        "Planet": "Akacala",
+        "Planet": "Audath V",
         "pqrv": [
           405,
           552,
@@ -1588,69 +1888,17 @@
           311
         ],
         "Source": "Phoenix Bush"
-      }
-    ],
-    "Paintbrush Seedling": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          786,
-          610,
-          349,
-          892
-        ],
-        "Source": "Paintbrush"
-      }
-    ],
-    "Brimmed Bonnet Seedling": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          203,
-          553,
-          570,
-          892
-        ],
-        "Source": "Brimmed Bonnet"
-      }
-    ],
-    "Hexavine Spires Seedling": [
-      {
-        "notes": "",
-        "Planet": "Akacala",
-        "pqrv": [
-          685,
-          460,
-          138,
-          414
-        ],
-        "Source": "Hexavine Spires"
       },
       {
         "notes": "",
-        "Planet": "Akacala",
+        "Planet": "Herastag",
         "pqrv": [
-          331,
-          855,
-          632,
-          506
+          516,
+          309,
+          121,
+          704
         ],
-        "Source": "Hexavine Spires"
-      }
-    ],
-    "Cattail Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          816,
-          450,
-          657,
-          860
-        ],
-        "Source": "Cattail"
+        "Source": "Phoenix Bush"
       }
     ],
     "Blackberry Bush Seedling": [
@@ -1664,19 +1912,17 @@
           476
         ],
         "Source": "Blackberry Bush"
-      }
-    ],
-    "Bromeliad Seedling": [
+      },
       {
         "notes": "",
-        "Planet": "Akacala",
+        "Planet": "Herastag",
         "pqrv": [
-          572,
-          362,
-          748,
-          736
+          582,
+          166,
+          546,
+          476
         ],
-        "Source": "Bromeliad"
+        "Source": "Blackberry Bush"
       }
     ],
     "Witch Hazel Seedling": [
@@ -1716,6 +1962,17 @@
           230
         ],
         "Source": "White Bedstraw"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          274,
+          769,
+          678,
+          599
+        ],
+        "Source": "White Bedstraw"
       }
     ],
     "Dandelion Seedling": [
@@ -1731,19 +1988,6 @@
         "Source": "Dandelion"
       }
     ],
-    "Blackberry Bush Seedling": [
-      {
-        "notes": "",
-        "Planet": "Baracatis III",
-        "pqrv": [
-          582,
-          166,
-          546,
-          476
-        ],
-        "Source": "Blackberry Bush"
-      }
-    ],
     "Pumpkin Seedling": [
       {
         "notes": "",
@@ -1757,17 +2001,69 @@
         "Source": "Pumpkin"
       }
     ],
-    "Phoenix Bush Seedling": [
+    "Tansy Seedling": [
       {
         "notes": "",
-        "Planet": "Audath V",
+        "Planet": "Baracatis III",
         "pqrv": [
-          405,
-          552,
-          247,
-          311
+          320,
+          858,
+          180,
+          571
         ],
-        "Source": "Phoenix Bush"
+        "Source": "Tansy"
+      }
+    ],
+    "Vipers Bugloss Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          843,
+          167,
+          414,
+          620
+        ],
+        "Source": "Vipers Bugloss"
+      }
+    ],
+    "Cactus Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          117,
+          768,
+          239,
+          463
+        ],
+        "Source": "Cactus"
+      }
+    ],
+    "Wheat Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          373,
+          446,
+          275,
+          617
+        ],
+        "Source": "Wheat"
+      }
+    ],
+    "Pineapple Seedling": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          315,
+          202,
+          249,
+          685
+        ],
+        "Source": "Pineapple"
       }
     ]
   },
@@ -1893,6 +2189,17 @@
           302
         ],
         "Source": "Harvest Cactus"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          700,
+          572,
+          196,
+          321
+        ],
+        "Source": "Saguaro Cactus"
       }
     ],
     "Goji Berry": [
@@ -2076,6 +2383,17 @@
             783
           ],
           "Source": "Blushing Bonnet"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            673,
+            458,
+            374,
+            723
+          ],
+          "Source": "Lilac Dandy"
         }
       ],
       "Quartz": [],
@@ -2169,6 +2487,39 @@
             540
           ],
           "Source": "Artyhog"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            551,
+            751,
+            450,
+            603
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            551,
+            751,
+            450,
+            603
+          ],
+          "Source": "Invader"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Herastag",
+          "pqrv": [
+            581,
+            704,
+            464,
+            608
+          ],
+          "Source": "Brutehog"
         }
       ],
       "Amethyst": [
@@ -2215,6 +2566,17 @@
             306
           ],
           "Source": "Hare Razor"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            668,
+            732,
+            354,
+            306
+          ],
+          "Source": "Bouncing Bunny"
         }
       ],
       "Agate": [
@@ -2381,6 +2743,17 @@
             345,
             312
           ]
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            640,
+            400,
+            5812,
+            782
+          ],
+          "Source": "Spittershark"
         }
       ],
       "Diamond": [
@@ -2423,7 +2796,19 @@
         }
       ],
       "Lapis Lazuli": [],
-      "Tourmaline": [],
+      "Tourmaline": [
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            522,
+            501,
+            362,
+            700
+          ],
+          "Source": "mining"
+        }
+      ],
       "Opal": [],
       "Topaz": [
         {
@@ -2447,6 +2832,17 @@
             657
           ],
           "Source": "Orbis Starburst"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            786,
+            473,
+            349,
+            527
+          ],
+          "Source": "Mining"
         }
       ],
       "Turquoise": [
@@ -2510,6 +2906,17 @@
             644
           ],
           "Source": "Mining"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            582,
+            576,
+            792,
+            501
+          ],
+          "Source": "Hypermaw"
         }
       ]
     }
@@ -2690,7 +3097,19 @@
         "Source": "Golden Poplar"
       }
     ],
-    "Fairy Morel Chunk": [],
+    "Fairy Morel Chunk": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          702,
+          356,
+          429,
+          544
+        ],
+        "Source": "Fairy Morel"
+      }
+    ],
     "Chanterelle Chunk": [
       {
         "notes": "",
@@ -3756,6 +4175,17 @@
             384
           ],
           "Source": "Besom Scrub"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            744,
+            668,
+            414,
+            384
+          ],
+          "Source": "Log"
         }
       ],
       "Dark Hard Wood": []
@@ -3805,6 +4235,17 @@
             352
           ],
           "Source": "Logging or Harvesting"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            590,
+            138,
+            798,
+            453
+          ],
+          "Source": "Yucca Palm Tree"
         }
       ],
       "Light Hard Wood": []
@@ -3858,7 +4299,32 @@
       }
     ],
     "Flowering Cactus Root Stock": [],
-    "Fairy Morel Stock": []
+    "Fairy Morel Stock": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          554,
+          417,
+          167,
+          730
+        ],
+        "Source": "Fairy Morel"
+      }
+    ],
+    "Yucca Palm Root Stock": [
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          438,
+          695,
+          463,
+          567
+        ],
+        "Source": "Yucca Palm Tree"
+      }
+    ]
   },
   "animal": {
     "meat": {
@@ -3906,6 +4372,61 @@
             455
           ],
           "Source": "Deer"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis  III (WW)",
+          "pqrv": [
+            549,
+            787,
+            375,
+            324
+          ],
+          "Source": "Thunderhoof"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            549,
+            787,
+            375,
+            324
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            513,
+            785,
+            540,
+            327
+          ],
+          "Source": "Foal"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            513,
+            785,
+            540,
+            327
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            513,
+            785,
+            540,
+            327
+          ],
+          "Source": "Hare"
         }
       ],
       "Raw Insect Meat": [
@@ -3998,6 +4519,61 @@
             787
           ],
           "Source": "Brutehog"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            470,
+            693,
+            461,
+            799
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            385,
+            595,
+            334,
+            718
+          ],
+          "Source": "Chuckerhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            385,
+            595,
+            334,
+            718
+          ],
+          "Source": "Artyhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            385,
+            595,
+            334,
+            718
+          ],
+          "Source": "Ballhog"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            385,
+            595,
+            334,
+            718
+          ],
+          "Source": "Brutehog"
         }
       ],
       "Raw Avian Meat": [
@@ -4033,6 +4609,28 @@
             410
           ],
           "Source": "Spattershark"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            521,
+            371,
+            711,
+            467
+          ],
+          "Source": "Hypermaw"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            521,
+            371,
+            711,
+            467
+          ],
+          "Source": "Spattershark"
         }
       ],
       "Raw Shellfish Meat": [
@@ -4046,6 +4644,17 @@
             547
           ],
           "Source": "Roach"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis  III (WW)",
+          "pqrv": [
+            236,
+            466,
+            778,
+            547
+          ],
+          "Source": "Blastaria"
         }
       ],
       "Raw Hyper Meat": [
@@ -4059,6 +4668,17 @@
             460
           ],
           "Source": "Hare Razor"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            717,
+            488,
+            681,
+            460
+          ],
+          "Source": "Bouncing Bunny"
         }
       ],
       "Raw Carnivore Meat": [
@@ -4083,6 +4703,17 @@
             587
           ],
           "Source": "Wildcat"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            219,
+            469,
+            753,
+            587
+          ],
+          "Source": "Sleetah"
         }
       ],
       "Raw Reptile Meat": [
@@ -4175,6 +4806,17 @@
             127
           ],
           "Source": "Acidfish"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            786,
+            652,
+            447,
+            127
+          ],
+          "Source": "Spittershark"
         }
       ]
     },
@@ -4267,6 +4909,72 @@
             469
           ],
           "Source": "Deer"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis  III (WW)",
+          "pqrv": [
+            776,
+            577,
+            479,
+            145
+          ],
+          "Source": "Thunderhoof"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            776,
+            577,
+            479,
+            145
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            776,
+            577,
+            479,
+            145
+          ],
+          "Source": "Sleetah"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            715,
+            698,
+            500,
+            579
+          ],
+          "Source": "Razorbeak"
+        },
+        {
+          "notes": "mission",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            776,
+            577,
+            479,
+            145
+          ],
+          "Source": "Glacierhorn"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            715,
+            698,
+            500,
+            579
+          ],
+          "Source": "Hare"
         }
       ],
       "Horn": [
@@ -4394,6 +5102,28 @@
             606
           ],
           "Source": "Sleetah"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            473,
+            385,
+            722,
+            547
+          ],
+          "Source": "Sleetah"
+        },
+        {
+          "notes": "",
+          "Planet": "Baracatis III",
+          "pqrv": [
+            473,
+            385,
+            722,
+            547
+          ],
+          "Source": "Banedeer"
         }
       ]
     }
@@ -4636,6 +5366,17 @@
           414,
           384
         ]
+      },
+      {
+        "notes": "mission",
+        "Planet": "Baracatis  III (WW)",
+        "pqrv": [
+          724,
+          635,
+          160,
+          494
+        ],
+        "Source": "Blastaria"
       }
     ]
   },
@@ -4805,6 +5546,17 @@
           341,
           775
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          638,
+          775,
+          477,
+          512
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -9992,6 +10744,17 @@
             319
           ],
           "Source": "Harvesting"
+        },
+        {
+          "notes": "",
+          "Planet": "Herastag",
+          "pqrv": [
+            588,
+            709,
+            581,
+            319
+          ],
+          "Source": "Cactus"
         }
       ]
     }
@@ -10078,6 +10841,17 @@
           375
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          712,
+          614,
+          218,
+          312
+        ],
+        "Source": "mining"
       }
     ]
   },
@@ -10633,6 +11407,17 @@
           414,
           384
         ]
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          778,
+          627,
+          261,
+          446
+        ],
+        "Source": "Mining"
       }
     ]
   },
@@ -11274,6 +12059,17 @@
           773
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          598,
+          411,
+          432,
+          721
+        ],
+        "Source": "mining"
       }
     ]
   },
@@ -11679,10 +12475,34 @@
     ]
   },
   "Peridotite": {
-    "Peridotite": []
+    "Peridotite": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          425,
+          379,
+          795,
+          694
+        ],
+        "Source": "mining"
+      }
+    ]
   },
   "Pitchblende": {
-    "Pitchblende": []
+    "Pitchblende": [
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          724,
+          458,
+          497,
+          589
+        ],
+        "Source": "mining"
+      }
+    ]
   },
   "Plastic": {
     "Plastic": [
@@ -11916,6 +12736,17 @@
           427
         ],
         "Source": "Orbis Starburst"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          592,
+          628,
+          763,
+          498
+        ],
+        "Source": "Orbis Starburst"
       }
     ]
   },
@@ -11975,6 +12806,17 @@
           492
         ],
         "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Baracatis III",
+        "pqrv": [
+          731,
+          576,
+          201,
+          405
+        ],
+        "Source": "mining"
       }
     ]
   },
@@ -12334,6 +13176,17 @@
           264,
           703,
           448
+        ],
+        "Source": "Mining"
+      },
+      {
+        "notes": "",
+        "Planet": "Herastag",
+        "pqrv": [
+          606,
+          344,
+          800,
+          464
         ],
         "Source": "Mining"
       }
